@@ -1,0 +1,205 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "theme": {
+    "primary": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "secondary": {
+      "dark": "#DC2626",
+      "light": "#9A1B1B"
+    },
+    "accent": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "error": {
+      "dark": "#EF5350",
+      "light": "#6C2524"
+    },
+    "warning": {
+      "dark": "#FFA726",
+      "light": "#734B11"
+    },
+    "success": {
+      "dark": "#4CAF50",
+      "light": "#224F24"
+    },
+    "info": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "text": {
+      "dark": "#EFE9E2",
+      "light": "#302F2D"
+    },
+    "textMuted": {
+      "dark": "#5A5652",
+      "light": "#322F2D"
+    },
+    "background": {
+      "dark": "#0A0705",
+      "light": "#E2E1E1"
+    },
+    "backgroundPanel": {
+      "dark": "#191614",
+      "light": "#C9C8C8"
+    },
+    "backgroundElement": {
+      "dark": "#22201E",
+      "light": "#BABAB9"
+    },
+    "border": {
+      "dark": "#4F4B47",
+      "light": "#484644"
+    },
+    "borderActive": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "borderSubtle": {
+      "dark": "#383431",
+      "light": "#605D5A"
+    },
+    "diffAdded": {
+      "dark": "#4CAF50",
+      "light": "#224F24"
+    },
+    "diffRemoved": {
+      "dark": "#EF5350",
+      "light": "#6C2524"
+    },
+    "diffContext": {
+      "dark": "#5A5652",
+      "light": "#363431"
+    },
+    "diffHunkHeader": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "diffHighlightAdded": {
+      "dark": "#67BB6A",
+      "light": "#2E5430"
+    },
+    "diffHighlightRemoved": {
+      "dark": "#F16D6A",
+      "light": "#6C3130"
+    },
+    "diffAddedBg": {
+      "dark": "#162512",
+      "light": "#C9E7CA"
+    },
+    "diffRemovedBg": {
+      "dark": "#331512",
+      "light": "#FACBCA"
+    },
+    "diffContextBg": {
+      "dark": "#14110F",
+      "light": "#CECDCD"
+    },
+    "diffLineNumber": {
+      "dark": "#5A5652",
+      "light": "#363431"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#142010",
+      "light": "#C9E7CA"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#2C1210",
+      "light": "#FACBCA"
+    },
+    "markdownText": {
+      "dark": "#EFE9E2",
+      "light": "#302F2D"
+    },
+    "markdownHeading": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "markdownLink": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "markdownLinkText": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "markdownCode": {
+      "dark": "#4CAF50",
+      "light": "#357A38"
+    },
+    "markdownBlockQuote": {
+      "dark": "#5A5652",
+      "light": "#363431"
+    },
+    "markdownEmph": {
+      "dark": "#FFA726",
+      "light": "#B2751B"
+    },
+    "markdownStrong": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "markdownHorizontalRule": {
+      "dark": "#5A5652",
+      "light": "#363431"
+    },
+    "markdownListItem": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "markdownListEnumeration": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "markdownImage": {
+      "dark": "#DC2626",
+      "light": "#9A1B1B"
+    },
+    "markdownImageText": {
+      "dark": "#DC2626",
+      "light": "#9A1B1B"
+    },
+    "markdownCodeBlock": {
+      "dark": "#EFE9E2",
+      "light": "#302F2D"
+    },
+    "syntaxComment": {
+      "dark": "#5A5652",
+      "light": "#363431"
+    },
+    "syntaxKeyword": {
+      "dark": "#DC2626",
+      "light": "#9A1B1B"
+    },
+    "syntaxFunction": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "syntaxVariable": {
+      "dark": "#EFE9E2",
+      "light": "#A7A39E"
+    },
+    "syntaxString": {
+      "dark": "#4CAF50",
+      "light": "#357A38"
+    },
+    "syntaxNumber": {
+      "dark": "#FFA726",
+      "light": "#B2751B"
+    },
+    "syntaxType": {
+      "dark": "#DC2626",
+      "light": "#9A1B1B"
+    },
+    "syntaxOperator": {
+      "dark": "#E5E7EB",
+      "light": "#A0A2A4"
+    },
+    "syntaxPunctuation": {
+      "dark": "#EFE9E2",
+      "light": "#302F2D"
+    }
+  }
+}

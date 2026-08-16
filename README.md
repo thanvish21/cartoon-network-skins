@@ -238,6 +238,36 @@ Missing values inherit from the default skin, so partial skins work too — but 
 | **Supa Strikas** | The world's best street football team. | [`supa-strikas.yaml`](skins/supa-strikas.yaml) | <img src="screenshots/supa-strikas.png" width="180" alt="Supa Strikas skin"> |
 | **Lamput** | A blob of orange goo outsmarting two lab scientists. | [`lamput.yaml`](skins/lamput.yaml) | <img src="screenshots/lamput.png" width="180" alt="Lamput skin"> |
 
+## Themes for Other AI Coding Tools
+
+Every show also ships as a ready-to-use theme for Claude Code and OpenCode (same palette, ported from the Hermes skin).
+
+### Claude Code
+
+Each theme is a JSON file in `themes/claude-code/` with the official Claude Code format (`base: dark` + color token `overrides`). Install:
+
+```bash
+mkdir -p ~/.claude/themes
+cp themes/claude-code/ben-10.json ~/.claude/themes/
+claude   # then run /theme and pick 'Ben 10'
+```
+
+### OpenCode
+
+Each theme is a JSON file in `themes/opencode/` following the official `theme.json` schema (dark/light pairs, markdown + syntax tokens). Install:
+
+```bash
+mkdir -p ~/.config/opencode/themes
+cp themes/opencode/ben-10.json ~/.config/opencode/themes/
+opencode   # then run /theme and pick 'Ben 10'
+```
+
+Regenerate them any time with `python3 generate_themes.py`.
+
+### Freebuff
+
+Freebuff is a terminal-based AI coding agent and does not expose a theme file format to customize — the pack's palettes still apply to whatever terminal you run it in (see the Hermes skin colors for the hex values).
+
 ## How Skins Work
 
 Hermes loads skins from two locations (user skins take priority):
