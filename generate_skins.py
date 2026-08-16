@@ -22,7 +22,8 @@ import yaml
 from shows_data1 import SHOWS_A
 from shows_data2 import SHOWS_B
 from hero_icons import ICONS
-from show_extras import ICON_MAP, SKILLS_MAP
+from character_art import CHARACTERS
+from show_extras import ICON_MAP, SKILLS_MAP, CHARACTER_MAP
 
 SHOWS = SHOWS_A + SHOWS_B
 
@@ -180,6 +181,14 @@ def render_logo(text, c1, c2, underline=None):
     return "\n".join(rows)
 
 
+def _frame_hero(rows, caption, width, p, a):
+    cap = caption.upper()
+    if len(cap) > width:
+        cap = cap[: width - 1] + "…"
+    return ([f"[{p}]{'─' * width}[/]"] + rows +
+            [f"[bold {a}]{cap.center(width)}[/]", f"[{p}]{'─' * width}[/]"])
+
+
 def render_hero_art(art, caption, p, s, a, muted):
     """Render hand-drawn hero art with a per-row palette ramp and caption."""
     ramp = [muted, p, s, a]
@@ -192,16 +201,42 @@ def render_hero_art(art, caption, p, s, a, muted):
         return mix(ramp[i], ramp[i + 1], f)
 
     width = max(len(r) for r in art)
-    cap = caption.upper()
-    if len(cap) > width:
-        cap = cap[: width - 1] + "…"
-    rows = [f"[{p}]{'─' * width}[/]"]
+    rows = []
     for i, row in enumerate(art):
         t = i / max(n - 1, 1)
         rows.append(f"[{ramp_color(t)}]{row}[/]")
-    rows.append(f"[bold {a}]{cap.center(width)}[/]")
-    rows.append(f"[{p}]{'─' * width}[/]")
-    return "\n".join(rows)
+    return "\n".join(_frame_hero(rows, caption, width, p, a))
+
+
+def render_character(art, caption, p, s, a, bg, tx):
+    """Render a main-character portrait with per-cell palette colors."""
+    def cell_color(ch):
+        if ch == "#":
+            return mix(bg, tx, 0.5)
+        if ch == "S":
+            return lighten(p, 0.68)
+        if ch == "H":
+            return s
+        if ch == "E":
+            return a
+        if ch == "M":
+            return mix(a, bg, 0.3)
+        if ch == "W":
+            return lighten(a, 0.55)
+        return None
+
+    width = max(len(r) for r in art)
+    rows = []
+    for row in art:
+        line = ""
+        for ch in row:
+            col = cell_color(ch)
+            if col:
+                line += f"[{col}]{ch}[/]"
+            else:
+                line += " "
+        rows.append(line)
+    return "\n".join(_frame_hero(rows, caption, width, p, a))
 
 
 # ---------------------------------------------------------------- skin builder
@@ -244,7 +279,7 @@ def derive_colors(show):
     return {
         "banner_border": p,
         "banner_title": ensure_light(a),
-        "banner_accent": a,
+        "banner_accent": ensure_light(a),
         "banner_dim": muted,
         "banner_text": tx,
         "ui_accent": a,
@@ -288,8 +323,13 @@ def build_skin(show):
         logo_c2 = "#FFFFFF"
     else:
         logo_c2 = s
-    icon = ICON_MAP.get(slug, "star")
-    art = ICONS.get(icon, ICONS["star"])
+    char_key = CHARACTER_MAP.get(slug)
+    if char_key and char_key in CHARACTERS:
+        banner_hero = render_character(CHARACTERS[char_key], title, p, s, a, bg, tx)
+    else:
+        icon = ICON_MAP.get(slug, "star")
+        art = ICONS.get(icon, ICONS["star"])
+        banner_hero = render_hero_art(art, title, p, s, a, mix(bg, tx, 0.35))
     skin = {
         "name": slug,
         "description": desc,
@@ -315,7 +355,7 @@ def build_skin(show):
         "tool_prefix": "┊",
         "tool_emojis": dict(DEFAULT_TOOL_EMOJIS),
         "banner_logo": render_logo(logo, a, logo_c2, underline=muted),
-        "banner_hero": render_hero_art(art, title, p, s, a, muted),
+        "banner_hero": banner_hero,
     }
     return skin
 

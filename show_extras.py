@@ -100,6 +100,34 @@ ICON_MAP = {
     "lamput": "ghost",
 }
 
+# slug -> main-character portrait (see character_art.py). Shows without an
+# entry keep their themed icon art.
+CHARACTER_MAP = {
+    "ben-10": "ben", "ben-10-2016": "ben", "ben-10-omniverse": "ben",
+    "powerpuff-girls": "ppg", "powerpuff-girls-2016": "ppg",
+    "dexter-laboratory": "dexter", "johnny-bravo": "bravo",
+    "courage-the-cowardly-dog": "courage", "kids-next-door": "knd",
+    "fosters-home": "bloo", "samurai-jack": "jack",
+    "adventure-time": "finn", "regular-show": "mordecai",
+    "the-amazing-world-of-gumball": "gumball", "steven-universe": "steven",
+    "we-bare-bears": "bears", "we-baby-bears": "bears",
+    "batman-tas": "batman", "batman-beyond": "beyond",
+    "beware-the-batman": "batman", "batman-brave-bold": "batman",
+    "star-wars-clone-wars": "clone", "ninjago": "ninja",
+    "toonami": "tom",
+    "dragon-ball-z": "goku", "dragon-ball-gt": "goku", "dragon-ball-super": "goku",
+    "naruto": "naruto", "naruto-shippuden": "naruto",
+    "one-piece": "luffy", "my-hero-academia": "deku",
+    "one-punch-man": "saitama",
+    "gundam-wing": "gundam", "gundam-00": "gundam", "g-gundam": "gundam",
+    "sailor-moon": "usagi", "rick-and-morty": "rick",
+    "aqua-teen-hunger-force": "shake",
+    "tom-and-jerry": "tomcat", "scooby-doo": "scooby",
+    "whats-new-scooby-doo": "scooby", "scooby-doo-mystery-incorporated": "scooby",
+    "garfield-show": "garfield", "transformers-animated": "optimus",
+    "mega-man-fully-charged": "megaman",
+}
+
 # slug -> short themed skills shown in the banner
 SKILLS_MAP = {
     # Ben 10 Universe

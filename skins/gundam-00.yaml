@@ -84,15 +84,4 @@ banner_logo: |-
   [#FDE047]#...#[/] [#FDE14F]#...#[/] [#FDE45E]#..##[/] [#FDE771]#...#[/] [#FEEB88]#...#[/] [#FEEFA2]#...#[/] [#FEF4BF].....[/] [#FFF9DE]##..#[/] [#FFFFFF]##..#[/]
   [#FDE047].####[/] [#FDE14F].###.[/] [#FDE45E]#...#[/] [#FDE771]####.[/] [#FEEB88]#...#[/] [#FEEFA2]#...#[/] [#FEF4BF].....[/] [#FFF9DE].###.[/] [#FFFFFF].###.[/]
   [#5F5454]─────────────────────────────────────────────────────[/]
-banner_hero: |-
-  [#DC2626]───────────────────[/]
-  [#5F5454]    ██      ██    [/]
-  [#954040]  ██████  ██████  [/]
-  [#CA2D2D] ████████████████ [/]
-  [#E55521] ████ ████████ ████[/]
-  [#F19D1A] ████ ████████ ████[/]
-  [#FACF1C] ████████████████ [/]
-  [#FCD732] ██████  ██████   [/]
-  [#FDE047]  ████    ████    [/]
-  [bold #FDE047]MOBILE SUIT GUNDAM…[/]
-  [#DC2626]───────────────────[/]
+banner_hero: "[#DC2626]──────────────────────[/]\n        [#FACC15]H[/][#FACC15]H[/]  [#FACC15]H[/][#FACC15]H[/]        \n       [#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/]       \n      [#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/][#FACC15]H[/]    \n     [#827676]#[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#827676]#[/]   \n    [#827676]#[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#827676]#[/]  \n    [#827676]#[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#827676]#[/]  \n    [#827676]#[/][#F4BABA]S[/][#F4BABA]S[/][#FEF1AC]W[/][#FEF1AC]W[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#FEF1AC]W[/][#FEF1AC]W[/][#F4BABA]S[/][#F4BABA]S[/][#827676]#[/]  \n    [#827676]#[/][#F4BABA]S[/][#F4BABA]S[/][#FEF1AC]W[/][#FEF1AC]W[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#FEF1AC]W[/][#FEF1AC]W[/][#F4BABA]S[/][#F4BABA]S[/][#827676]#[/]  \n    [#827676]#[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#827676]#[/]  \n     [#827676]#[/][#827676]#[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#F4BABA]S[/][#827676]#[/][#827676]#[/]   \n      [#827676]#[/][#827676]#[/][#827676]#[/][#827676]#[/][#827676]#[/][#827676]#[/][#827676]#[/][#827676]#[/][#827676]#[/][#827676]#[/][#827676]#[/][#827676]#[/]    \n[bold #FDE047]MOBILE SUIT GUNDAM 00 [/]\n[#DC2626]──────────────────────[/]"

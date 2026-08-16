@@ -156,7 +156,7 @@ SHOWS_B = [
      "Slayer Agent", "Total concentration! Type your message or /help, slayer!",
      "The demons are vanquished. Later!",
      "✷", ["breathing techniques", "slaying demons", "training with the Hashira", "protecting Nezuko", "hunting Muzan"],
-     "#15803D", "#1E293B", "#EF4444", "#04100A", "#E9F5EE", "Toonami & Action", "DEMON SLAYER"),
+     "#15803D", "#94A3B8", "#EF4444", "#04100A", "#E9F5EE", "Toonami & Action", "DEMON SLAYER"),
 
     ("sword-art-online", "Sword Art Online", "Players trapped in a deadly VRMMO must clear the game.",
      "SAO Agent", "Link start! Type your message or /help, player!",
@@ -246,7 +246,7 @@ SHOWS_B = [
      "Kenshin Agent", "Oro? Type your message or /help, samurai.",
      "The wanderer continues his journey.",
      "✬", ["sword-ing", "protecting the Meiji era", "using the Hiten Mitsurugi style", "drifting", "defending the innocent"],
-     "#DC2626", "#374151", "#FDE047", "#0D0404", "#F6E9E9", "Toonami & Action", "KENSHIN"),
+     "#DC2626", "#94A3B8", "#FDE047", "#0D0404", "#F6E9E9", "Toonami & Action", "KENSHIN"),
 
     ("deadman-wonderland", "Deadman Wonderland", "Ganta fights for survival in a deadly prison.",
      "Deadman Agent", "Welcome to Wonderland. Type your message or /help... if you survive.",
@@ -325,7 +325,7 @@ SHOWS_B = [
      "Dethklok Agent", "Brutal! Type your message or /help... or face the consequences!",
      "Dethklok out! Go into the water!",
      "⚝", ["being brutal", "rehearsing", "touring", "dealing with the Tribunal", "making music"],
-     "#1E293B", "#EF4444", "#FACC15", "#07080B", "#E8EBEF", "Adult Swim", "METALOCALYPSE"),
+     "#64748B", "#EF4444", "#FACC15", "#07080B", "#E8EBEF", "Adult Swim", "METALOCALYPSE"),
 
     ("squidbillies", "Squidbillies", "Squid-mountain-dwellers causing trouble in the backwoods.",
      "Cuyler Agent", "Howdy! Type your message or /help, kin.",

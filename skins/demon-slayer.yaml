@@ -3,11 +3,11 @@ description: Tanjiro's quest to cure his sister and slay demons.
 colors:
   banner_border: '#15803D'
   banner_title: '#F36E6E'
-  banner_accent: '#EF4444'
+  banner_accent: '#F36E6E'
   banner_dim: '#54605A'
   banner_text: '#E9F5EE'
   ui_accent: '#EF4444'
-  ui_label: '#1E293B'
+  ui_label: '#94A3B8'
   ui_ok: '#4CAF50'
   ui_error: '#EF5350'
   ui_warn: '#FFA726'
@@ -27,7 +27,7 @@ colors:
   completion_menu_current_bg: '#4F211D'
   completion_menu_meta_bg: '#030E08'
   completion_menu_meta_current_bg: '#461F1A'
-  session_label: '#1E293B'
+  session_label: '#94A3B8'
   session_border: '#54605A'
 spinner:
   waiting_faces:
@@ -91,15 +91,15 @@ banner_hero: |-
   [#396E4E]       ██████       [/]
   [#2C7547]      ████████      [/]
   [#1E7B41]      ██████████    [/]
-  [#167A3D]      ██████████    [/]
-  [#18673C]     ████████████   [/]
-  [#1A543C]     ████████████   [/]
-  [#1B423C]      ████████████  [/]
-  [#1D2F3B]       ████████████ [/]
-  [#3C2D3C]        ██████████  [/]
-  [#69333E]         ████████   [/]
-  [#953840]          ██████    [/]
-  [#C23E42]           ████     [/]
+  [#1E8246]      ██████████    [/]
+  [#398A60]     ████████████   [/]
+  [#54927A]     ████████████   [/]
+  [#709995]      ████████████  [/]
+  [#8BA0AF]       ████████████ [/]
+  [#A195A7]        ██████████  [/]
+  [#B4818F]         ████████   [/]
+  [#C86D76]          ██████    [/]
+  [#DC585D]           ████     [/]
   [#EF4444]            ██      [/]
   [bold #EF4444]    DEMON SLAYER    [/]
   [#15803D]────────────────────[/]

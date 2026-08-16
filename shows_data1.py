@@ -514,7 +514,7 @@ SHOWS_A = [
      "Young Justice Agent", "Covert ops online. Type your message or /help, teammate.",
      "Mission complete. Back to the mountain.",
      "✯", ["going covert", "training at the mountain", "going undercover", "taking down the Light", "protecting the world"],
-     "#DC2626", "#374151", "#F87171", "#0D0505", "#F6E9E9", "DC Super Heroes", "YOUNG JUSTICE"),
+     "#DC2626", "#94A3B8", "#F87171", "#0D0505", "#F6E9E9", "DC Super Heroes", "YOUNG JUSTICE"),
 
     ("green-lantern-tas", "Green Lantern: The Animated Series", "Hal Jordan and Kilowog patrolling the universe.",
      "Lantern Agent", "In brightest day... Type your message or /help.",

@@ -7,7 +7,7 @@ colors:
   banner_dim: '#5F5454'
   banner_text: '#F6E9E9'
   ui_accent: '#FDE047'
-  ui_label: '#374151'
+  ui_label: '#94A3B8'
   ui_ok: '#4CAF50'
   ui_error: '#EF5350'
   ui_warn: '#FFA726'
@@ -27,7 +27,7 @@ colors:
   completion_menu_current_bg: '#5A4A19'
   completion_menu_meta_bg: '#0B0303'
   completion_menu_meta_current_bg: '#504217'
-  session_label: '#374151'
+  session_label: '#94A3B8'
   session_border: '#5F5454'
 spinner:
   waiting_faces:
@@ -90,12 +90,12 @@ banner_hero: |-
   [#844646]      ████████        [/]
   [#AA3838]    ██████████        [/]
   [#D02B2B]   ██████████         [/]
-  [#BB2B2F]  ██████████          [/]
-  [#8A343C]  ██████████          [/]
-  [#583C48]  ██████████          [/]
-  [#4B5150]   ██████████         [/]
-  [#86814D]    ██████████        [/]
-  [#C2B04A]      ████████        [/]
+  [#CE3F43]  ██████████          [/]
+  [#B8646F]  ██████████          [/]
+  [#A28A9B]  ██████████          [/]
+  [#9EA9AD]   ██████████         [/]
+  [#BEBB8B]    ██████████        [/]
+  [#DECE69]      ████████        [/]
   [#FDE047]        ████          [/]
   [bold #FDE047]   RUROUNI KENSHIN    [/]
   [#DC2626]──────────────────────[/]
