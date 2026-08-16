@@ -23,8 +23,10 @@ from concurrent.futures import ThreadPoolExecutor
 
 import yaml
 
+from show_extras import SKILLS_MAP
+
 CHROME = shutil.which("chromium") or shutil.which("google-chrome") or "chromium"
-WIN_W, WIN_H = 960, 660
+WIN_W, WIN_H = 1024, 800
 SCALE = 1.5
 
 TOOLS_LINE_1 = ["terminal", "web_search", "read_file", "write_file", "search_files"]
@@ -41,7 +43,7 @@ def rich_to_segments(text):
         if m.start() > pos:
             segs.append((text[pos:m.start()], None))
         bold = bool(m.group(1))
-        color = m.group(2)
+        color = "#" + m.group(2)
         segs.append((m.group(3), (color, bold)))
         pos = m.end()
     if pos < len(text):
@@ -55,7 +57,7 @@ def segs_html(segs):
         t = html.escape(txt)
         if style:
             color, bold = style
-            s = "color:#%s" % color
+            s = "color:%s" % color  # color already includes the '#'
             if bold:
                 s += ";font-weight:bold"
             out.append('<span style="%s">%s</span>' % (s, t))
@@ -126,6 +128,15 @@ def build_banner(skin):
         rows.append(content_line(pad_segs(tool_segs, W, "left")))
     rows.append(blank())
 
+    # Available skills (show-specific)
+    skills = SKILLS_MAP.get(skin["name"], [])
+    if skills:
+        rows.append(content_line(pad_segs(seg("AVAILABLE SKILLS", c["banner_accent"]), W, "left")))
+        for skill in skills:
+            rows.append(content_line(pad_segs(
+                seg("• ", c["ui_accent"]) + seg(skill, c["banner_text"]), W, "left")))
+        rows.append(blank())
+
     # Divider
     rows.append(content_line(seg("─" * W, c["banner_dim"])))
     rows.append(blank())
@@ -142,7 +153,7 @@ def build_banner(skin):
     # Input rule + prompt
     rows.append(content_line(seg("─" * W, c["input_rule"])))
     sym = skin["branding"]["prompt_symbol"]
-    rows.append(content_line(seg(sym, c["prompt"]) + seg("_", c["banner_dim"])))
+    rows.append(content_line(pad_segs(seg(sym, c["prompt"]) + seg("_", c["banner_dim"]), W, "left")))
     rows.append(border_line("╰", "╯"))
 
     html_rows = []
@@ -162,6 +173,7 @@ HTML_TMPL = """<!doctype html>
     margin: 0;
     font-family: 'DejaVu Sans Mono', 'Noto Sans Mono', monospace;
     font-size: 14px; line-height: 1.2;
+    color: #DDD;
   }}
 </style></head><body><pre>{body}</pre></body></html>"""
 

@@ -21,8 +21,23 @@ import yaml
 
 from shows_data1 import SHOWS_A
 from shows_data2 import SHOWS_B
+from hero_icons import ICONS
+from show_extras import ICON_MAP, SKILLS_MAP
 
 SHOWS = SHOWS_A + SHOWS_B
+
+# Logo gradient end per category: s (secondary), text, or white
+LOGO_GRADIENT = {
+    "Ben 10 Universe": "s",
+    "Cartoon Cartoons & Classics": "text",
+    "Modern Cartoon Network": "s",
+    "DC Super Heroes": "text",
+    "Star Wars & LEGO": "s",
+    "Toonami & Action": "white",
+    "Adult Swim": "s",
+    "Acquired & International": "text",
+    "Cartoon Network India": "s",
+}
 
 CATEGORY_ORDER = [
     "Ben 10 Universe",
@@ -148,7 +163,7 @@ def gradient_colors(text, c1, c2, n=1):
     return out
 
 
-def render_logo(text, c1, c2):
+def render_logo(text, c1, c2, underline=None):
     """Render TEXT as a colored 5-row ASCII block logo with per-char gradient."""
     text = text.upper()
     colors = gradient_colors(text, c1, c2)
@@ -159,30 +174,33 @@ def render_logo(text, c1, c2):
             glyph = FONT.get(ch, FONT[" "])
             line += f"[{colors[i]}]{glyph[row]}[/] "
         rows.append(line.rstrip())
+    if underline:
+        width = sum(len(FONT.get(ch, FONT[" "])[0]) + 1 for ch in text) - 1
+        rows.append(f"[{underline}]{'─' * width}[/]")
     return "\n".join(rows)
 
 
-def render_hero(title, sym, tagline, frame, c1, c2, c3, c4):
-    """Render the themed hero panel (double-lined box, symbol border)."""
-    W = 42
-    inner = W - 2
+def render_hero_art(art, caption, p, s, a, muted):
+    """Render hand-drawn hero art with a per-row palette ramp and caption."""
+    ramp = [muted, p, s, a]
+    n = len(art)
 
-    def fit(txt):
-        if len(txt) <= inner:
-            return txt.ljust(inner)
-        return txt[: inner - 1] + "…"
+    def ramp_color(t):
+        pos = t * (len(ramp) - 1)
+        i = min(int(pos), len(ramp) - 2)
+        f = pos - i
+        return mix(ramp[i], ramp[i + 1], f)
 
-    pat = (sym + " ") * (inner // (len(sym) + 1))
-    rows = [
-        f"[{c1}]{'╭'}{frame * inner}{'╮'}[/]",
-        f"[{c2}]{fit(pat)}[/]",
-        f"[{c2}]{' ' * inner}[/]",
-        f"[bold {c3}]{fit(title.upper())}[/]",
-        f"[{c4}]{fit(tagline)}[/]",
-        f"[{c2}]{' ' * inner}[/]",
-        f"[{c2}]{fit(pat)}[/]",
-        f"[{c1}]{'╰'}{frame * inner}{'╯'}[/]",
-    ]
+    width = max(len(r) for r in art)
+    cap = caption.upper()
+    if len(cap) > width:
+        cap = cap[: width - 1] + "…"
+    rows = [f"[{p}]{'─' * width}[/]"]
+    for i, row in enumerate(art):
+        t = i / max(n - 1, 1)
+        rows.append(f"[{ramp_color(t)}]{row}[/]")
+    rows.append(f"[bold {a}]{cap.center(width)}[/]")
+    rows.append(f"[{p}]{'─' * width}[/]")
     return "\n".join(rows)
 
 
@@ -261,8 +279,17 @@ def build_skin(show):
     if not logo:
         logo = title if len(title) <= 14 else title.split()[-1].upper()
 
-    frame = CATEGORY_FRAME.get(cat, "─")
     colors = derive_colors(show)
+    muted = mix(bg, tx, 0.35)
+    grad_end = LOGO_GRADIENT.get(cat, "s")
+    if grad_end == "text":
+        logo_c2 = tx
+    elif grad_end == "white":
+        logo_c2 = "#FFFFFF"
+    else:
+        logo_c2 = s
+    icon = ICON_MAP.get(slug, "star")
+    art = ICONS.get(icon, ICONS["star"])
     skin = {
         "name": slug,
         "description": desc,
@@ -287,8 +314,8 @@ def build_skin(show):
         },
         "tool_prefix": "┊",
         "tool_emojis": dict(DEFAULT_TOOL_EMOJIS),
-        "banner_logo": render_logo(logo, a, s),
-        "banner_hero": render_hero(logo, sym, desc, frame, p, s, a, tx),
+        "banner_logo": render_logo(logo, a, logo_c2, underline=muted),
+        "banner_hero": render_hero_art(art, title, p, s, a, muted),
     }
     return skin
 
@@ -380,8 +407,12 @@ def build_readme():
                  "They don't affect personality or behavior — just how things look.")
     lines.append("")
     lines.append(f"**{len(SHOWS)} skins** — every one defines the full 28-color schema, a themed spinner, "
-                 "branding with show-flavored welcome/goodbye lines, a colored ASCII logo, a hero panel, "
-                 "and a rendered banner screenshot (see `screenshots/`).")
+                 "branding with show-flavored welcome/goodbye lines, a colored ASCII logo, a **unique hand-drawn "
+                 "hero icon themed to the show** (Omnitrix, bat, skull, dragon ball, paw, spiral, portal…), "
+                 "show-specific skills, and a rendered banner screenshot (see `screenshots/`).")
+    lines.append("")
+    lines.append("Screenshots are rendered straight from each skin's YAML — palette, ASCII logo, hero art and "
+                 "branding — via `make_screenshots.py` (headless Chromium), so what you see is what the skin looks like.")
     lines.append("")
     lines.append("## Quick Start")
     lines.append("")

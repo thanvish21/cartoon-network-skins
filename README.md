@@ -4,7 +4,9 @@ Custom skins (visual themes) for the [Hermes](https://github.com/NousResearch/he
 
 Skins control the **visual presentation** of Hermes: banner colors, spinner faces/verbs, response-box labels, branding text, tool activity prefix, and ASCII art banners. They don't affect personality or behavior — just how things look.
 
-**167 skins** — every one defines the full 28-color schema, a themed spinner, branding with show-flavored welcome/goodbye lines, a colored ASCII logo, a hero panel, and a rendered banner screenshot (see `screenshots/`).
+**167 skins** — every one defines the full 28-color schema, a themed spinner, branding with show-flavored welcome/goodbye lines, a colored ASCII logo, a **unique hand-drawn hero icon themed to the show** (Omnitrix, bat, skull, dragon ball, paw, spiral, portal…), show-specific skills, and a rendered banner screenshot (see `screenshots/`).
+
+Screenshots are rendered straight from each skin's YAML — palette, ASCII logo, hero art and branding — via `make_screenshots.py` (headless Chromium), so what you see is what the skin looks like.
 
 ## Quick Start
 
