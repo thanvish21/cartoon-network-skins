@@ -380,7 +380,8 @@ def build_readme():
                  "They don't affect personality or behavior — just how things look.")
     lines.append("")
     lines.append(f"**{len(SHOWS)} skins** — every one defines the full 28-color schema, a themed spinner, "
-                 "branding with show-flavored welcome/goodbye lines, a colored ASCII logo, and a hero panel.")
+                 "branding with show-flavored welcome/goodbye lines, a colored ASCII logo, a hero panel, "
+                 "and a rendered banner screenshot (see `screenshots/`).")
     lines.append("")
     lines.append("## Quick Start")
     lines.append("")
@@ -412,11 +413,14 @@ def build_readme():
             continue
         lines.append(f"### {cat}")
         lines.append("")
-        lines.append("| Skin | Description | File |")
-        lines.append("|------|-------------|------|")
+        lines.append("| Skin | Description | File | Screenshot |")
+        lines.append("|------|-------------|------|------------|")
         for show in shows:
             slug, title, desc = show[0], show[1], show[2]
-            lines.append(f"| **{title}** | {desc} | [`{slug}.yaml`](skins/{slug}.yaml) |")
+            lines.append(
+                f"| **{title}** | {desc} | [`{slug}.yaml`](skins/{slug}.yaml) | "
+                f"<img src=\"screenshots/{slug}.png\" width=\"180\" alt=\"{title} skin\"> |"
+            )
         lines.append("")
 
     lines.append("## How Skins Work")
