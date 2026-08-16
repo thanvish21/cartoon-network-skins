@@ -1,0 +1,94 @@
+name: scooby-doo
+description: Mystery Inc. and the Mystery Machine solving spooky cases.
+colors:
+  banner_border: '#4ADE80'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#566357'
+  banner_text: '#E9F6EC'
+  ui_accent: '#FDE047'
+  ui_label: '#D97706'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F6EC'
+  input_rule: '#4ADE80'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B271B'
+  status_bar_text: '#E9F6EC'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#566357'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B271B'
+  completion_menu_bg: '#071407'
+  completion_menu_current_bg: '#56551B'
+  completion_menu_meta_bg: '#061106'
+  completion_menu_meta_current_bg: '#4C4D19'
+  session_label: '#D97706'
+  session_border: '#566357'
+spinner:
+  waiting_faces:
+  - (✧)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✧)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - solving mysteries
+  - unmasking villains
+  - running from ghosts
+  - eating Scooby Snacks
+  - driving the Mystery Machine
+  wings:
+  - - ⟪✧
+    - ✧⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Scooby Agent
+  welcome: Ruh-roh! Type your message or /help, gang!
+  goodbye: And I would've gotten away with it too... bye!
+  response_label: ' ✧ SCOOBY DOO '
+  prompt_symbol: '✧ ❯ '
+  help_header: (✧) SCOOBY DOO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FCDC45].####[/] [#F9D540].###.[/] [#F6CC3A].###.[/] [#F2C134]####.[/] [#EEB52C]#...#[/] [#E9A724].....[/] [#E4981A]####.[/] [#DF8811].###.[/] [#D97706].###.[/]
+  [#FDE047]#....[/] [#FCDC45]#....[/] [#F9D540]#...#[/] [#F6CC3A]#...#[/] [#F2C134]#...#[/] [#EEB52C].#.#.[/] [#E9A724].....[/] [#E4981A]#...#[/] [#DF8811]#...#[/] [#D97706]#...#[/]
+  [#FDE047].###.[/] [#FCDC45]#....[/] [#F9D540]#...#[/] [#F6CC3A]#...#[/] [#F2C134]####.[/] [#EEB52C]..#..[/] [#E9A724].....[/] [#E4981A]#...#[/] [#DF8811]#...#[/] [#D97706]#...#[/]
+  [#FDE047]....#[/] [#FCDC45]#....[/] [#F9D540]#...#[/] [#F6CC3A]#...#[/] [#F2C134]#...#[/] [#EEB52C]..#..[/] [#E9A724].....[/] [#E4981A]#...#[/] [#DF8811]#...#[/] [#D97706]#...#[/]
+  [#FDE047]####.[/] [#FCDC45].####[/] [#F9D540].###.[/] [#F6CC3A].###.[/] [#F2C134]####.[/] [#EEB52C]..#..[/] [#E9A724].....[/] [#E4981A]####.[/] [#DF8811].###.[/] [#D97706].###.[/]
+banner_hero: |-
+  [#4ADE80]╭────────────────────────────────────────╮[/]
+  [#D97706]✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ [/]
+  [#D97706]                                        [/]
+  [bold #FDE047]SCOOBY DOO                              [/]
+  [#E9F6EC]Mystery Inc. and the Mystery Machine so…[/]
+  [#D97706]                                        [/]
+  [#D97706]✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ [/]
+  [#4ADE80]╰────────────────────────────────────────╯[/]

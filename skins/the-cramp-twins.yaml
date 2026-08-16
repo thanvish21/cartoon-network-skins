@@ -1,0 +1,94 @@
+name: the-cramp-twins
+description: Identical twin brothers with opposite personalities.
+colors:
+  banner_border: '#A3E635'
+  banner_title: '#4ADE80'
+  banner_accent: '#4ADE80'
+  banner_dim: '#5E6356'
+  banner_text: '#F0F6E6'
+  ui_accent: '#4ADE80'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F0F6E6'
+  input_rule: '#A3E635'
+  response_border: '#4ADE80'
+  status_bar_bg: '#22271C'
+  status_bar_text: '#F0F6E6'
+  status_bar_strong: '#4ADE80'
+  status_bar_dim: '#5E6356'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#22271C'
+  completion_menu_bg: '#0F1408'
+  completion_menu_current_bg: '#22552E'
+  completion_menu_meta_bg: '#0D1107'
+  completion_menu_meta_current_bg: '#204D2A'
+  session_label: '#FDE047'
+  session_border: '#5E6356'
+spinner:
+  waiting_faces:
+  - (☺)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☺)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - cramping up
+  - scheming
+  - being twins
+  - annoying the neighbors
+  - pulling pranks
+  wings:
+  - - ⟪☺
+    - ☺⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Cramp Agent
+  welcome: Twins online! Type your message or /help, brother.
+  goodbye: Twin power out! Bye!
+  response_label: ' ☺ CRAMP TWINS '
+  prompt_symbol: '☺ ❯ '
+  help_header: (☺) CRAMP TWINS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#4ADE80].####[/] [#50DE7E]####.[/] [#5ADE7B].###.[/] [#67DE77]#...#[/] [#77DF72]####.[/] [#89DF6C].....[/] [#9DDF66]#####[/] [#B3DF5F]#...#[/] [#CADF57]#####[/] [#E3E04F]#...#[/] [#FDE047].####[/]
+  [#4ADE80]#....[/] [#50DE7E]#...#[/] [#5ADE7B]#...#[/] [#67DE77]##.##[/] [#77DF72]#...#[/] [#89DF6C].....[/] [#9DDF66]..#..[/] [#B3DF5F]#...#[/] [#CADF57]..#..[/] [#E3E04F]##..#[/] [#FDE047]#....[/]
+  [#4ADE80]#....[/] [#50DE7E]####.[/] [#5ADE7B]#####[/] [#67DE77]#.#.#[/] [#77DF72]####.[/] [#89DF6C].....[/] [#9DDF66]..#..[/] [#B3DF5F]#.#.#[/] [#CADF57]..#..[/] [#E3E04F]#.#.#[/] [#FDE047].###.[/]
+  [#4ADE80]#....[/] [#50DE7E]#..#.[/] [#5ADE7B]#...#[/] [#67DE77]#...#[/] [#77DF72]#....[/] [#89DF6C].....[/] [#9DDF66]..#..[/] [#B3DF5F]##.##[/] [#CADF57]..#..[/] [#E3E04F]#..##[/] [#FDE047]....#[/]
+  [#4ADE80].####[/] [#50DE7E]#...#[/] [#5ADE7B]#...#[/] [#67DE77]#...#[/] [#77DF72]#....[/] [#89DF6C].....[/] [#9DDF66]..#..[/] [#B3DF5F]#...#[/] [#CADF57]#####[/] [#E3E04F]#...#[/] [#FDE047]####.[/]
+banner_hero: |-
+  [#A3E635]╭────────────────────────────────────────╮[/]
+  [#FDE047]☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ [/]
+  [#FDE047]                                        [/]
+  [bold #4ADE80]CRAMP TWINS                             [/]
+  [#F0F6E6]Identical twin brothers with opposite p…[/]
+  [#FDE047]                                        [/]
+  [#FDE047]☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ ☺ [/]
+  [#A3E635]╰────────────────────────────────────────╯[/]

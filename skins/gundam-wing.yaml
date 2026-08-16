@@ -1,0 +1,94 @@
+name: gundam-wing
+description: Five Gundam pilots and their fight for the colonies.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#545B66'
+  banner_text: '#E5EDF8'
+  ui_accent: '#FACC15'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5EDF8'
+  input_rule: '#3B82F6'
+  response_border: '#FACC15'
+  status_bar_bg: '#1A202A'
+  status_bar_text: '#E5EDF8'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#545B66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A202A'
+  completion_menu_bg: '#060D18'
+  completion_menu_current_bg: '#544A17'
+  completion_menu_meta_bg: '#050B14'
+  completion_menu_meta_current_bg: '#4A4217'
+  session_label: '#F8FAFC'
+  session_border: '#545B66'
+spinner:
+  waiting_faces:
+  - (✥)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✥)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - launching
+  - defending the colonies
+  - piloting the Gundam
+  - fighting OZ
+  - going to space
+  wings:
+  - - ⟪✥
+    - ✥⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Gundam Pilot
+  welcome: Gundam, launching! Type your message or /help, pilot.
+  goodbye: Mission complete. Returning to base.
+  response_label: ' ✥ GUNDAM WING '
+  prompt_symbol: '✥ ❯ '
+  help_header: (✥) GUNDAM WING Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15].####[/] [#FACD1C]#...#[/] [#FAD02A]#...#[/] [#FAD43B]####.[/] [#F9D84F].###.[/] [#F9DC67]#...#[/] [#F9E180].....[/] [#F9E79C]#...#[/] [#F9EDBA]#####[/] [#F8F3DA]#...#[/] [#F8FAFC].####[/]
+  [#FACC15]#....[/] [#FACD1C]#...#[/] [#FAD02A]##..#[/] [#FAD43B]#...#[/] [#F9D84F]#...#[/] [#F9DC67]##.##[/] [#F9E180].....[/] [#F9E79C]#...#[/] [#F9EDBA]..#..[/] [#F8F3DA]##..#[/] [#F8FAFC]#....[/]
+  [#FACC15]#..##[/] [#FACD1C]#...#[/] [#FAD02A]#.#.#[/] [#FAD43B]#...#[/] [#F9D84F]#####[/] [#F9DC67]#.#.#[/] [#F9E180].....[/] [#F9E79C]#.#.#[/] [#F9EDBA]..#..[/] [#F8F3DA]#.#.#[/] [#F8FAFC]#..##[/]
+  [#FACC15]#...#[/] [#FACD1C]#...#[/] [#FAD02A]#..##[/] [#FAD43B]#...#[/] [#F9D84F]#...#[/] [#F9DC67]#...#[/] [#F9E180].....[/] [#F9E79C]##.##[/] [#F9EDBA]..#..[/] [#F8F3DA]#..##[/] [#F8FAFC]#...#[/]
+  [#FACC15].####[/] [#FACD1C].###.[/] [#FAD02A]#...#[/] [#FAD43B]####.[/] [#F9D84F]#...#[/] [#F9DC67]#...#[/] [#F9E180].....[/] [#F9E79C]#...#[/] [#F9EDBA]#####[/] [#F8F3DA]#...#[/] [#F8FAFC].####[/]
+banner_hero: |-
+  [#3B82F6]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#F8FAFC]✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ [/]
+  [#F8FAFC]                                        [/]
+  [bold #FACC15]GUNDAM WING                             [/]
+  [#E5EDF8]Five Gundam pilots and their fight for …[/]
+  [#F8FAFC]                                        [/]
+  [#F8FAFC]✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ ✥ [/]
+  [#3B82F6]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

@@ -1,0 +1,94 @@
+name: beyblade-burst
+description: The Burst era — beys that burst apart at high speed.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#605952'
+  banner_text: '#F7EFE5'
+  ui_accent: '#FDE047'
+  ui_label: '#22D3EE'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#211C17'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#605952'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#211C17'
+  completion_menu_bg: '#0E0803'
+  completion_menu_current_bg: '#5A4D19'
+  completion_menu_meta_bg: '#0C0703'
+  completion_menu_meta_current_bg: '#514416'
+  session_label: '#22D3EE'
+  session_border: '#605952'
+spinner:
+  waiting_faces:
+  - (◓)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◓)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - bursting
+  - spinning fast
+  - battling the Valkyrie
+  - training with the team
+  - breaking the beys
+  wings:
+  - - ⟪◓
+    - ◓⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Blader Agent
+  welcome: Let it rip... and burst! Type your message or /help!
+  goodbye: Burst finish! Amazing!
+  response_label: ' ◓ BEYBLADE BURST '
+  prompt_symbol: '◓ ❯ '
+  help_header: (◓) BEYBLADE BURST Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#F8E04B]#####[/] [#F0DF51]#...#[/] [#E5DF5A]####.[/] [#D8DE64]#....[/] [#C9DD6F].###.[/] [#B8DC7B]####.[/] [#A6DB89]#####[/] [#93DA98].....[/] [#7FD9A7]####.[/] [#69D7B8]#...#[/] [#53D6C9]####.[/] [#3BD4DB].####[/] [#22D3EE]#####[/]
+  [#FDE047]#...#[/] [#F8E04B]#....[/] [#F0DF51].#.#.[/] [#E5DF5A]#...#[/] [#D8DE64]#....[/] [#C9DD6F]#...#[/] [#B8DC7B]#...#[/] [#A6DB89]#....[/] [#93DA98].....[/] [#7FD9A7]#...#[/] [#69D7B8]#...#[/] [#53D6C9]#...#[/] [#3BD4DB]#....[/] [#22D3EE]..#..[/]
+  [#FDE047]####.[/] [#F8E04B]####.[/] [#F0DF51]..#..[/] [#E5DF5A]####.[/] [#D8DE64]#....[/] [#C9DD6F]#####[/] [#B8DC7B]#...#[/] [#A6DB89]####.[/] [#93DA98].....[/] [#7FD9A7]####.[/] [#69D7B8]#...#[/] [#53D6C9]####.[/] [#3BD4DB].###.[/] [#22D3EE]..#..[/]
+  [#FDE047]#...#[/] [#F8E04B]#....[/] [#F0DF51]..#..[/] [#E5DF5A]#...#[/] [#D8DE64]#....[/] [#C9DD6F]#...#[/] [#B8DC7B]#...#[/] [#A6DB89]#....[/] [#93DA98].....[/] [#7FD9A7]#...#[/] [#69D7B8]#...#[/] [#53D6C9]#..#.[/] [#3BD4DB]....#[/] [#22D3EE]..#..[/]
+  [#FDE047]####.[/] [#F8E04B]#####[/] [#F0DF51]..#..[/] [#E5DF5A]####.[/] [#D8DE64]#####[/] [#C9DD6F]#...#[/] [#B8DC7B]####.[/] [#A6DB89]#####[/] [#93DA98].....[/] [#7FD9A7]####.[/] [#69D7B8].###.[/] [#53D6C9]#...#[/] [#3BD4DB]####.[/] [#22D3EE]..#..[/]
+banner_hero: |-
+  [#F97316]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#22D3EE]◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ [/]
+  [#22D3EE]                                        [/]
+  [bold #FDE047]BEYBLADE BURST                          [/]
+  [#F7EFE5]The Burst era — beys that burst apart a…[/]
+  [#22D3EE]                                        [/]
+  [#22D3EE]◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ ◓ [/]
+  [#F97316]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

@@ -1,0 +1,94 @@
+name: robot-jones
+description: A robot kid navigating middle school in a retro-future.
+colors:
+  banner_border: '#9CA3AF'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5B5C5E'
+  banner_text: '#E9EAED'
+  ui_accent: '#FDE047'
+  ui_label: '#F87171'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9EAED'
+  input_rule: '#9CA3AF'
+  response_border: '#FDE047'
+  status_bar_bg: '#212224'
+  status_bar_text: '#E9EAED'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5B5C5E'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#212224'
+  completion_menu_bg: '#0E0F11'
+  completion_menu_current_bg: '#5A5222'
+  completion_menu_meta_bg: '#0C0D0E'
+  completion_menu_meta_current_bg: '#514A20'
+  session_label: '#F87171'
+  session_border: '#5B5C5E'
+spinner:
+  waiting_faces:
+  - (▦)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (▦)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - computing
+  - rebooting
+  - fitting in
+  - processing emotions
+  - attending middle school
+  wings:
+  - - ⟪▦
+    - ▦⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Robot Jones Agent
+  welcome: Greetings. Type your message or /help, human.
+  goodbye: Shutting down for the night. Goodbye.
+  response_label: ' ▦ ROBOT JONES '
+  prompt_symbol: '▦ ❯ '
+  help_header: (▦) ROBOT JONES Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#FDDC48].###.[/] [#FDD64B]####.[/] [#FCCE4E].###.[/] [#FCC452]#####[/] [#FBB956].....[/] [#FBAC5B]..###[/] [#FA9F60].###.[/] [#F99165]#...#[/] [#F9816B]#####[/] [#F87171].####[/]
+  [#FDE047]#...#[/] [#FDDC48]#...#[/] [#FDD64B]#...#[/] [#FCCE4E]#...#[/] [#FCC452]..#..[/] [#FBB956].....[/] [#FBAC5B]...#.[/] [#FA9F60]#...#[/] [#F99165]##..#[/] [#F9816B]#....[/] [#F87171]#....[/]
+  [#FDE047]####.[/] [#FDDC48]#...#[/] [#FDD64B]####.[/] [#FCCE4E]#...#[/] [#FCC452]..#..[/] [#FBB956].....[/] [#FBAC5B]...#.[/] [#FA9F60]#...#[/] [#F99165]#.#.#[/] [#F9816B]####.[/] [#F87171].###.[/]
+  [#FDE047]#..#.[/] [#FDDC48]#...#[/] [#FDD64B]#...#[/] [#FCCE4E]#...#[/] [#FCC452]..#..[/] [#FBB956].....[/] [#FBAC5B]#..#.[/] [#FA9F60]#...#[/] [#F99165]#..##[/] [#F9816B]#....[/] [#F87171]....#[/]
+  [#FDE047]#...#[/] [#FDDC48].###.[/] [#FDD64B]####.[/] [#FCCE4E].###.[/] [#FCC452]..#..[/] [#FBB956].....[/] [#FBAC5B].##..[/] [#FA9F60].###.[/] [#F99165]#...#[/] [#F9816B]#####[/] [#F87171]####.[/]
+banner_hero: |-
+  [#9CA3AF]╭────────────────────────────────────────╮[/]
+  [#F87171]▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ [/]
+  [#F87171]                                        [/]
+  [bold #FDE047]ROBOT JONES                             [/]
+  [#E9EAED]A robot kid navigating middle school in…[/]
+  [#F87171]                                        [/]
+  [#F87171]▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ ▦ [/]
+  [#9CA3AF]╰────────────────────────────────────────╯[/]

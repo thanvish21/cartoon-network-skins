@@ -1,0 +1,94 @@
+name: ben-10-omniverse
+description: New Omnitrix, new universe, same hero time.
+colors:
+  banner_border: '#22D3EE'
+  banner_title: '#F97316'
+  banner_accent: '#F97316'
+  banner_dim: '#545D61'
+  banner_text: '#E6F4F8'
+  ui_accent: '#F97316'
+  ui_label: '#FFFFFF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6F4F8'
+  input_rule: '#22D3EE'
+  response_border: '#F97316'
+  status_bar_bg: '#1A1F22'
+  status_bar_text: '#E6F4F8'
+  status_bar_strong: '#F97316'
+  status_bar_dim: '#545D61'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A1F22'
+  completion_menu_bg: '#060B0F'
+  completion_menu_current_bg: '#542C11'
+  completion_menu_meta_bg: '#05090D'
+  completion_menu_meta_current_bg: '#4A2811'
+  session_label: '#FFFFFF'
+  session_border: '#545D61'
+spinner:
+  waiting_faces:
+  - (❖)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (❖)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - rebooting the Omnitrix
+  - mixing alien powers
+  - fixing the timeline
+  - exploring Omniverse
+  - dodging Khyber
+  wings:
+  - - ⟪❖
+    - ❖⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Omniverse Agent
+  welcome: Omnitrix rebooted. Type your message or /help for alien action.
+  goodbye: Closing the rift. See you in another universe!
+  response_label: ' ❖ OMNIVERSE '
+  prompt_symbol: '❖ ❯ '
+  help_header: (❖) OMNIVERSE Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F97316].###.[/] [#F97920]#...#[/] [#FA8433]#...#[/] [#FA934C]#####[/] [#FBA468]#...#[/] [#FCB889]#####[/] [#FDCEAD]####.[/] [#FEE6D5].####[/] [#FFFFFF]#####[/]
+  [#F97316]#...#[/] [#F97920]##.##[/] [#FA8433]##..#[/] [#FA934C]..#..[/] [#FBA468]#...#[/] [#FCB889]#....[/] [#FDCEAD]#...#[/] [#FEE6D5]#....[/] [#FFFFFF]#....[/]
+  [#F97316]#...#[/] [#F97920]#.#.#[/] [#FA8433]#.#.#[/] [#FA934C]..#..[/] [#FBA468]#...#[/] [#FCB889]####.[/] [#FDCEAD]####.[/] [#FEE6D5].###.[/] [#FFFFFF]####.[/]
+  [#F97316]#...#[/] [#F97920]#...#[/] [#FA8433]#..##[/] [#FA934C]..#..[/] [#FBA468].#.#.[/] [#FCB889]#....[/] [#FDCEAD]#..#.[/] [#FEE6D5]....#[/] [#FFFFFF]#....[/]
+  [#F97316].###.[/] [#F97920]#...#[/] [#FA8433]#...#[/] [#FA934C]#####[/] [#FBA468]..#..[/] [#FCB889]#####[/] [#FDCEAD]#...#[/] [#FEE6D5]####.[/] [#FFFFFF]#####[/]
+banner_hero: |-
+  [#22D3EE]╭────────────────────────────────────────╮[/]
+  [#FFFFFF]❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ [/]
+  [#FFFFFF]                                        [/]
+  [bold #F97316]OMNIVERSE                               [/]
+  [#E6F4F8]New Omnitrix, new universe, same hero t…[/]
+  [#FFFFFF]                                        [/]
+  [#FFFFFF]❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ [/]
+  [#22D3EE]╰────────────────────────────────────────╯[/]

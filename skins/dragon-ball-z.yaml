@@ -1,0 +1,94 @@
+name: dragon-ball-z
+description: Goku and the Z-Fighters defending Earth from planet-level threats.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#605A53'
+  banner_text: '#F7EFE5'
+  ui_accent: '#FDE047'
+  ui_label: '#3B82F6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#221D18'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#605A53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221D18'
+  completion_menu_bg: '#0F0904'
+  completion_menu_current_bg: '#5B4E19'
+  completion_menu_meta_bg: '#0D0803'
+  completion_menu_meta_current_bg: '#524517'
+  session_label: '#3B82F6'
+  session_border: '#605A53'
+spinner:
+  waiting_faces:
+  - (☄)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☄)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - charging the Kamehameha
+  - going Super Saiyan
+  - powering up
+  - training in the Hyperbolic Time Chamber
+  - fighting Frieza
+  wings:
+  - - ⟪☄
+    - ☄⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Z-Fighter Agent
+  welcome: Power level over 9000! Type your message or /help!
+  goodbye: Earth is safe. See you in the next saga!
+  response_label: ' ☄ DRAGON BALL Z '
+  prompt_symbol: '☄ ❯ '
+  help_header: (☄) DRAGON BALL Z Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#F8DE4B]####.[/] [#F0DA53].###.[/] [#E5D45D].####[/] [#D8CE69].###.[/] [#C9C776]#...#[/] [#B8BF85].....[/] [#A7B695]####.[/] [#93ADA6].###.[/] [#7FA3B9]#....[/] [#6998CC]#....[/] [#538EE1].....[/] [#3B82F6]#####[/]
+  [#FDE047]#...#[/] [#F8DE4B]#...#[/] [#F0DA53]#...#[/] [#E5D45D]#....[/] [#D8CE69]#...#[/] [#C9C776]##..#[/] [#B8BF85].....[/] [#A7B695]#...#[/] [#93ADA6]#...#[/] [#7FA3B9]#....[/] [#6998CC]#....[/] [#538EE1].....[/] [#3B82F6]...#.[/]
+  [#FDE047]#...#[/] [#F8DE4B]####.[/] [#F0DA53]#####[/] [#E5D45D]#..##[/] [#D8CE69]#...#[/] [#C9C776]#.#.#[/] [#B8BF85].....[/] [#A7B695]####.[/] [#93ADA6]#####[/] [#7FA3B9]#....[/] [#6998CC]#....[/] [#538EE1].....[/] [#3B82F6]..#..[/]
+  [#FDE047]#...#[/] [#F8DE4B]#..#.[/] [#F0DA53]#...#[/] [#E5D45D]#...#[/] [#D8CE69]#...#[/] [#C9C776]#..##[/] [#B8BF85].....[/] [#A7B695]#...#[/] [#93ADA6]#...#[/] [#7FA3B9]#....[/] [#6998CC]#....[/] [#538EE1].....[/] [#3B82F6].#...[/]
+  [#FDE047]####.[/] [#F8DE4B]#...#[/] [#F0DA53]#...#[/] [#E5D45D].####[/] [#D8CE69].###.[/] [#C9C776]#...#[/] [#B8BF85].....[/] [#A7B695]####.[/] [#93ADA6]#...#[/] [#7FA3B9]#####[/] [#6998CC]#####[/] [#538EE1].....[/] [#3B82F6]#####[/]
+banner_hero: |-
+  [#F97316]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#3B82F6]☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ [/]
+  [#3B82F6]                                        [/]
+  [bold #FDE047]DRAGON BALL Z                           [/]
+  [#F7EFE5]Goku and the Z-Fighters defending Earth…[/]
+  [#3B82F6]                                        [/]
+  [#3B82F6]☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ [/]
+  [#F97316]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

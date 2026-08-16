@@ -1,0 +1,94 @@
+name: fosters-home
+description: A mansion full of imaginary friends waiting for adoption.
+colors:
+  banner_border: '#7DD3FC'
+  banner_title: '#FDE68A'
+  banner_accent: '#FDE68A'
+  banner_dim: '#59626D'
+  banner_text: '#EAF4FB'
+  ui_accent: '#FDE68A'
+  ui_label: '#F9A8D4'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EAF4FB'
+  input_rule: '#7DD3FC'
+  response_border: '#FDE68A'
+  status_bar_bg: '#1F2732'
+  status_bar_text: '#EAF4FB'
+  status_bar_strong: '#FDE68A'
+  status_bar_dim: '#59626D'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F2732'
+  completion_menu_bg: '#0B1420'
+  completion_menu_current_bg: '#585742'
+  completion_menu_meta_bg: '#09111B'
+  completion_menu_meta_current_bg: '#4F4F3E'
+  session_label: '#F9A8D4'
+  session_border: '#59626D'
+spinner:
+  waiting_faces:
+  - (✿)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✿)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - imagining friends
+  - adopting out
+  - shuffling the house
+  - avoiding Madame Foster
+  - helping Bloo
+  wings:
+  - - ⟪✿
+    - ✿⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Blooregard Agent
+  welcome: Welcome to Foster's! Type your message or /help, new friend.
+  goodbye: Time for a nap. Goodbye, friend!
+  response_label: ' ✿ FOSTERS '
+  prompt_symbol: '✿ ❯ '
+  help_header: (✿) FOSTERS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE68A]#####[/] [#FDE28F].###.[/] [#FCDA98].####[/] [#FCD0A4]#####[/] [#FBC4B2]#####[/] [#FAB7C2]####.[/] [#F9A8D4].####[/]
+  [#FDE68A]#....[/] [#FDE28F]#...#[/] [#FCDA98]#....[/] [#FCD0A4]..#..[/] [#FBC4B2]#....[/] [#FAB7C2]#...#[/] [#F9A8D4]#....[/]
+  [#FDE68A]####.[/] [#FDE28F]#...#[/] [#FCDA98].###.[/] [#FCD0A4]..#..[/] [#FBC4B2]####.[/] [#FAB7C2]####.[/] [#F9A8D4].###.[/]
+  [#FDE68A]#....[/] [#FDE28F]#...#[/] [#FCDA98]....#[/] [#FCD0A4]..#..[/] [#FBC4B2]#....[/] [#FAB7C2]#..#.[/] [#F9A8D4]....#[/]
+  [#FDE68A]#....[/] [#FDE28F].###.[/] [#FCDA98]####.[/] [#FCD0A4]..#..[/] [#FBC4B2]#####[/] [#FAB7C2]#...#[/] [#F9A8D4]####.[/]
+banner_hero: |-
+  [#7DD3FC]╭────────────────────────────────────────╮[/]
+  [#F9A8D4]✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ [/]
+  [#F9A8D4]                                        [/]
+  [bold #FDE68A]FOSTERS                                 [/]
+  [#EAF4FB]A mansion full of imaginary friends wai…[/]
+  [#F9A8D4]                                        [/]
+  [#F9A8D4]✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ [/]
+  [#7DD3FC]╰────────────────────────────────────────╯[/]

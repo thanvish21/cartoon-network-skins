@@ -1,0 +1,94 @@
+name: dreamworks-dragons
+description: Hiccup and Toothless' adventures from the Dragon franchise.
+colors:
+  banner_border: '#EF4444'
+  banner_title: '#38BDF8'
+  banner_accent: '#38BDF8'
+  banner_dim: '#615555'
+  banner_text: '#F7E9E9'
+  ui_accent: '#38BDF8'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7E9E9'
+  input_rule: '#EF4444'
+  response_border: '#38BDF8'
+  status_bar_bg: '#231A1A'
+  status_bar_text: '#F7E9E9'
+  status_bar_strong: '#38BDF8'
+  status_bar_dim: '#615555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#231A1A'
+  completion_menu_bg: '#100606'
+  completion_menu_current_bg: '#1D4153'
+  completion_menu_meta_bg: '#0E0505'
+  completion_menu_meta_current_bg: '#1B394A'
+  session_label: '#F59E0B'
+  session_border: '#615555'
+spinner:
+  waiting_faces:
+  - (☄)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☄)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - training dragons
+  - flying with Toothless
+  - defending Berk
+  - learning dragon lore
+  - riding the wind
+  wings:
+  - - ⟪☄
+    - ☄⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Dragon Agent
+  welcome: Ready to fly! Type your message or /help, dragon rider.
+  goodbye: Toothless is sleepy. Goodnight!
+  response_label: ' ☄ DRAGONS '
+  prompt_symbol: '☄ ❯ '
+  help_header: (☄) DRAGONS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#38BDF8]####.[/] [#45BBE8]####.[/] [#5CB7CA].###.[/] [#7BB2A4].####[/] [#9FAC77].###.[/] [#C8A544]#...#[/] [#F59E0B].####[/]
+  [#38BDF8]#...#[/] [#45BBE8]#...#[/] [#5CB7CA]#...#[/] [#7BB2A4]#....[/] [#9FAC77]#...#[/] [#C8A544]##..#[/] [#F59E0B]#....[/]
+  [#38BDF8]#...#[/] [#45BBE8]####.[/] [#5CB7CA]#####[/] [#7BB2A4]#..##[/] [#9FAC77]#...#[/] [#C8A544]#.#.#[/] [#F59E0B].###.[/]
+  [#38BDF8]#...#[/] [#45BBE8]#..#.[/] [#5CB7CA]#...#[/] [#7BB2A4]#...#[/] [#9FAC77]#...#[/] [#C8A544]#..##[/] [#F59E0B]....#[/]
+  [#38BDF8]####.[/] [#45BBE8]#...#[/] [#5CB7CA]#...#[/] [#7BB2A4].####[/] [#9FAC77].###.[/] [#C8A544]#...#[/] [#F59E0B]####.[/]
+banner_hero: |-
+  [#EF4444]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#F59E0B]☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ [/]
+  [#F59E0B]                                        [/]
+  [bold #38BDF8]DRAGONS                                 [/]
+  [#F7E9E9]Hiccup and Toothless' adventures from t…[/]
+  [#F59E0B]                                        [/]
+  [#F59E0B]☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ ☄ [/]
+  [#EF4444]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

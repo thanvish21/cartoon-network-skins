@@ -1,0 +1,94 @@
+name: camp-lazlo
+description: Lazlo the bean scout monkey and the campers of Camp Kidney.
+colors:
+  banner_border: '#84CC16'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5C6355'
+  banner_text: '#F2F7E9'
+  ui_accent: '#FDE047'
+  ui_label: '#F87171'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F2F7E9'
+  input_rule: '#84CC16'
+  response_border: '#FDE047'
+  status_bar_bg: '#1F271A'
+  status_bar_text: '#F2F7E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5C6355'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F271A'
+  completion_menu_bg: '#0C1406'
+  completion_menu_current_bg: '#59551B'
+  completion_menu_meta_bg: '#0A1105'
+  completion_menu_meta_current_bg: '#4F4D18'
+  session_label: '#F87171'
+  session_border: '#5C6355'
+spinner:
+  waiting_faces:
+  - (△)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (△)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - setting up camp
+  - saving the jellybeans
+  - bean-scouting
+  - raiding the mess hall
+  - hiding from Lumpus
+  wings:
+  - - ⟪△
+    - △⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Bean Scout Agent
+  welcome: Camp Kidney welcomes you! Type your message or /help, scout.
+  goodbye: Camp's over. See you next summer!
+  response_label: ' △ CAMP LAZLO '
+  prompt_symbol: '△ ❯ '
+  help_header: (△) CAMP LAZLO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDDC49].###.[/] [#FCD44B]#...#[/] [#FCCB4F]####.[/] [#FCBF53].....[/] [#FBB258]#....[/] [#FAA45E].###.[/] [#FA9464]#####[/] [#F9836A]#....[/] [#F87171].###.[/]
+  [#FDE047]#....[/] [#FDDC49]#...#[/] [#FCD44B]##.##[/] [#FCCB4F]#...#[/] [#FCBF53].....[/] [#FBB258]#....[/] [#FAA45E]#...#[/] [#FA9464]...#.[/] [#F9836A]#....[/] [#F87171]#...#[/]
+  [#FDE047]#....[/] [#FDDC49]#####[/] [#FCD44B]#.#.#[/] [#FCCB4F]####.[/] [#FCBF53].....[/] [#FBB258]#....[/] [#FAA45E]#####[/] [#FA9464]..#..[/] [#F9836A]#....[/] [#F87171]#...#[/]
+  [#FDE047]#....[/] [#FDDC49]#...#[/] [#FCD44B]#...#[/] [#FCCB4F]#....[/] [#FCBF53].....[/] [#FBB258]#....[/] [#FAA45E]#...#[/] [#FA9464].#...[/] [#F9836A]#....[/] [#F87171]#...#[/]
+  [#FDE047].####[/] [#FDDC49]#...#[/] [#FCD44B]#...#[/] [#FCCB4F]#....[/] [#FCBF53].....[/] [#FBB258]#####[/] [#FAA45E]#...#[/] [#FA9464]#####[/] [#F9836A]#####[/] [#F87171].###.[/]
+banner_hero: |-
+  [#84CC16]╭────────────────────────────────────────╮[/]
+  [#F87171]△ △ △ △ △ △ △ △ △ △ △ △ △ △ △ △ △ △ △ △ [/]
+  [#F87171]                                        [/]
+  [bold #FDE047]CAMP LAZLO                              [/]
+  [#F2F7E9]Lazlo the bean scout monkey and the cam…[/]
+  [#F87171]                                        [/]
+  [#F87171]△ △ △ △ △ △ △ △ △ △ △ △ △ △ △ △ △ △ △ △ [/]
+  [#84CC16]╰────────────────────────────────────────╯[/]

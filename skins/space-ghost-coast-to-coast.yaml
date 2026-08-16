@@ -1,0 +1,94 @@
+name: space-ghost-coast-to-coast
+description: A retired superhero hosts a talk show.
+colors:
+  banner_border: '#64748B'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#595B5E'
+  banner_text: '#EBEDF0'
+  ui_accent: '#FDE047'
+  ui_label: '#F472B6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EBEDF0'
+  input_rule: '#64748B'
+  response_border: '#FDE047'
+  status_bar_bg: '#1F2023'
+  status_bar_text: '#EBEDF0'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#595B5E'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F2023'
+  completion_menu_bg: '#0B0D10'
+  completion_menu_current_bg: '#585122'
+  completion_menu_meta_bg: '#090B0E'
+  completion_menu_meta_current_bg: '#4F481F'
+  session_label: '#F472B6'
+  session_border: '#595B5E'
+spinner:
+  waiting_faces:
+  - (✺)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✺)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - hosting the show
+  - interviewing guests
+  - fighting Zorak
+  - dealing with Moltar
+  - being a talk show host
+  wings:
+  - - ⟪✺
+    - ✺⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Space Ghost Agent
+  welcome: Welcome to Coast to Coast! Type your message or /help, guest.
+  goodbye: We're out of time. See you next show!
+  response_label: ' ✺ SPACE GHOST '
+  prompt_symbol: '✺ ❯ '
+  help_header: (✺) SPACE GHOST Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDDD4B]####.[/] [#FCD651].###.[/] [#FCCE59].####[/] [#FBC463]#####[/] [#FAB96E].....[/] [#F9AD7B].####[/] [#F8A088]#...#[/] [#F79196].###.[/] [#F582A6].####[/] [#F472B6]#####[/]
+  [#FDE047]#....[/] [#FDDD4B]#...#[/] [#FCD651]#...#[/] [#FCCE59]#....[/] [#FBC463]#....[/] [#FAB96E].....[/] [#F9AD7B]#....[/] [#F8A088]#...#[/] [#F79196]#...#[/] [#F582A6]#....[/] [#F472B6]..#..[/]
+  [#FDE047].###.[/] [#FDDD4B]####.[/] [#FCD651]#####[/] [#FCCE59]#....[/] [#FBC463]####.[/] [#FAB96E].....[/] [#F9AD7B]#..##[/] [#F8A088]#####[/] [#F79196]#...#[/] [#F582A6].###.[/] [#F472B6]..#..[/]
+  [#FDE047]....#[/] [#FDDD4B]#....[/] [#FCD651]#...#[/] [#FCCE59]#....[/] [#FBC463]#....[/] [#FAB96E].....[/] [#F9AD7B]#...#[/] [#F8A088]#...#[/] [#F79196]#...#[/] [#F582A6]....#[/] [#F472B6]..#..[/]
+  [#FDE047]####.[/] [#FDDD4B]#....[/] [#FCD651]#...#[/] [#FCCE59].####[/] [#FBC463]#####[/] [#FAB96E].....[/] [#F9AD7B].####[/] [#F8A088]#...#[/] [#F79196].###.[/] [#F582A6]####.[/] [#F472B6]..#..[/]
+banner_hero: |-
+  [#64748B]╭╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╮[/]
+  [#F472B6]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#F472B6]                                        [/]
+  [bold #FDE047]SPACE GHOST                             [/]
+  [#EBEDF0]A retired superhero hosts a talk show.  [/]
+  [#F472B6]                                        [/]
+  [#F472B6]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#64748B]╰╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╯[/]

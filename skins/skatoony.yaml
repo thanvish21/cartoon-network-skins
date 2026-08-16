@@ -1,0 +1,94 @@
+name: skatoony
+description: Skateboarding quiz show — answer or wipe out!
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625A53'
+  banner_text: '#F7EEE3'
+  ui_accent: '#FDE047'
+  ui_label: '#3B82F6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EEE3'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#251F19'
+  status_bar_text: '#F7EEE3'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625A53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251F19'
+  completion_menu_bg: '#120B05'
+  completion_menu_current_bg: '#5D4F1A'
+  completion_menu_meta_bg: '#0F0904'
+  completion_menu_meta_current_bg: '#544717'
+  session_label: '#3B82F6'
+  session_border: '#625A53'
+spinner:
+  waiting_faces:
+  - (✹)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✹)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - skating along
+  - answering trivia
+  - wiping out
+  - hitting the ramps
+  - competing
+  wings:
+  - - ⟪✹
+    - ✹⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Skatoony Agent
+  welcome: Welcome to Skatoony! Type your message or /help... or wipe out!
+  goodbye: That's the show! Stay on your board!
+  response_label: ' ✹ SKATOONY '
+  prompt_symbol: '✹ ❯ '
+  help_header: (✹) SKATOONY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#F3DB50]#...#[/] [#DFD262].###.[/] [#C7C678]#####[/] [#A9B793].###.[/] [#88A7B1].###.[/] [#6395D2]#...#[/] [#3B82F6]#...#[/]
+  [#FDE047]#....[/] [#F3DB50]#..#.[/] [#DFD262]#...#[/] [#C7C678]..#..[/] [#A9B793]#...#[/] [#88A7B1]#...#[/] [#6395D2]##..#[/] [#3B82F6].#.#.[/]
+  [#FDE047].###.[/] [#F3DB50]###..[/] [#DFD262]#####[/] [#C7C678]..#..[/] [#A9B793]#...#[/] [#88A7B1]#...#[/] [#6395D2]#.#.#[/] [#3B82F6]..#..[/]
+  [#FDE047]....#[/] [#F3DB50]#..#.[/] [#DFD262]#...#[/] [#C7C678]..#..[/] [#A9B793]#...#[/] [#88A7B1]#...#[/] [#6395D2]#..##[/] [#3B82F6]..#..[/]
+  [#FDE047]####.[/] [#F3DB50]#...#[/] [#DFD262]#...#[/] [#C7C678]..#..[/] [#A9B793].###.[/] [#88A7B1].###.[/] [#6395D2]#...#[/] [#3B82F6]..#..[/]
+banner_hero: |-
+  [#F97316]╭────────────────────────────────────────╮[/]
+  [#3B82F6]✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ [/]
+  [#3B82F6]                                        [/]
+  [bold #FDE047]SKATOONY                                [/]
+  [#F7EEE3]Skateboarding quiz show — answer or wip…[/]
+  [#3B82F6]                                        [/]
+  [#3B82F6]✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ [/]
+  [#F97316]╰────────────────────────────────────────╯[/]

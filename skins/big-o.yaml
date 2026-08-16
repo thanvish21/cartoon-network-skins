@@ -1,0 +1,94 @@
+name: big-o
+description: Roger Smith and the giant robot Big O in Paradigm City.
+colors:
+  banner_border: '#6B7280'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5A5B5D'
+  banner_text: '#ECEEF1'
+  ui_accent: '#FDE047'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#ECEEF1'
+  input_rule: '#6B7280'
+  response_border: '#FDE047'
+  status_bar_bg: '#1F1F21'
+  status_bar_text: '#ECEEF1'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5A5B5D'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F1F21'
+  completion_menu_bg: '#0B0C0E'
+  completion_menu_current_bg: '#585020'
+  completion_menu_meta_bg: '#090A0C'
+  completion_menu_meta_current_bg: '#4F471E'
+  session_label: '#FACC15'
+  session_border: '#5A5B5D'
+spinner:
+  waiting_faces:
+  - (⬤)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⬤)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - casting memories
+  - negotiating with the Big O
+  - solving mysteries
+  - driving the Big O
+  - facing the past
+  wings:
+  - - ⟪⬤
+    - ⬤⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Paradigm Agent
+  welcome: Negotiation time. Type your message or /help.
+  goodbye: Cast in the name of God. Out.
+  response_label: ' ⬤ BIG O '
+  prompt_symbol: '⬤ ❯ '
+  help_header: (⬤) BIG O Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#FDDE41]#####[/] [#FCD935].####[/] [#FBD327].....[/] [#FACC15].###.[/]
+  [#FDE047]#...#[/] [#FDDE41]..#..[/] [#FCD935]#....[/] [#FBD327].....[/] [#FACC15]#...#[/]
+  [#FDE047]####.[/] [#FDDE41]..#..[/] [#FCD935]#..##[/] [#FBD327].....[/] [#FACC15]#...#[/]
+  [#FDE047]#...#[/] [#FDDE41]..#..[/] [#FCD935]#...#[/] [#FBD327].....[/] [#FACC15]#...#[/]
+  [#FDE047]####.[/] [#FDDE41]#####[/] [#FCD935].####[/] [#FBD327].....[/] [#FACC15].###.[/]
+banner_hero: |-
+  [#6B7280]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#FACC15]⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ [/]
+  [#FACC15]                                        [/]
+  [bold #FDE047]BIG O                                   [/]
+  [#ECEEF1]Roger Smith and the giant robot Big O i…[/]
+  [#FACC15]                                        [/]
+  [#FACC15]⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ [/]
+  [#6B7280]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

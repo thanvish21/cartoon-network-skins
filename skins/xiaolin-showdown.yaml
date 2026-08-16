@@ -1,0 +1,94 @@
+name: xiaolin-showdown
+description: Monk warriors collecting Shen Gong Wu artifacts.
+colors:
+  banner_border: '#F59E0B'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625C52'
+  banner_text: '#F8F0E2'
+  ui_accent: '#FDE047'
+  ui_label: '#DC2626'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8F0E2'
+  input_rule: '#F59E0B'
+  response_border: '#FDE047'
+  status_bar_bg: '#251F18'
+  status_bar_text: '#F8F0E2'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625C52'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251F18'
+  completion_menu_bg: '#120C04'
+  completion_menu_current_bg: '#5D5019'
+  completion_menu_meta_bg: '#0F0A03'
+  completion_menu_meta_current_bg: '#544717'
+  session_label: '#DC2626'
+  session_border: '#625C52'
+spinner:
+  waiting_faces:
+  - (☯)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☯)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - finding Shen Gong Wu
+  - chasing Jack Spicer
+  - training in kung fu
+  - showdown-ing
+  - balancing the elements
+  wings:
+  - - ⟪☯
+    - ☯⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Xiaolin Agent
+  welcome: Shen Gong Wu detected! Type your message or /help.
+  goodbye: Wu secured. Goodbye, monk!
+  response_label: ' ☯ XIAOLIN '
+  prompt_symbol: '☯ ❯ '
+  help_header: (☯) XIAOLIN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FBD345]#####[/] [#F7BC41].###.[/] [#F19E3B].###.[/] [#EB7B35]#....[/] [#E4532E]#####[/] [#DC2626]#...#[/]
+  [#FDE047].#.#.[/] [#FBD345]..#..[/] [#F7BC41]#...#[/] [#F19E3B]#...#[/] [#EB7B35]#....[/] [#E4532E]..#..[/] [#DC2626]##..#[/]
+  [#FDE047]..#..[/] [#FBD345]..#..[/] [#F7BC41]#####[/] [#F19E3B]#...#[/] [#EB7B35]#....[/] [#E4532E]..#..[/] [#DC2626]#.#.#[/]
+  [#FDE047].#.#.[/] [#FBD345]..#..[/] [#F7BC41]#...#[/] [#F19E3B]#...#[/] [#EB7B35]#....[/] [#E4532E]..#..[/] [#DC2626]#..##[/]
+  [#FDE047]#...#[/] [#FBD345]#####[/] [#F7BC41]#...#[/] [#F19E3B].###.[/] [#EB7B35]#####[/] [#E4532E]#####[/] [#DC2626]#...#[/]
+banner_hero: |-
+  [#F59E0B]╭────────────────────────────────────────╮[/]
+  [#DC2626]☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ [/]
+  [#DC2626]                                        [/]
+  [bold #FDE047]XIAOLIN                                 [/]
+  [#F8F0E2]Monk warriors collecting Shen Gong Wu a…[/]
+  [#DC2626]                                        [/]
+  [#DC2626]☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ ☯ [/]
+  [#F59E0B]╰────────────────────────────────────────╯[/]

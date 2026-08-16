@@ -1,0 +1,94 @@
+name: the-amazing-world-of-gumball
+description: A blue cat and a goldfish navigating Elmore's chaos.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#A3E635'
+  banner_accent: '#A3E635'
+  banner_dim: '#635961'
+  banner_text: '#F8EBF3'
+  ui_accent: '#A3E635'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8EBF3'
+  input_rule: '#F472B6'
+  response_border: '#A3E635'
+  status_bar_bg: '#261E25'
+  status_bar_text: '#F8EBF3'
+  status_bar_strong: '#A3E635'
+  status_bar_dim: '#635961'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#261E25'
+  completion_menu_bg: '#130A12'
+  completion_menu_current_bg: '#41501D'
+  completion_menu_meta_bg: '#10080F'
+  completion_menu_meta_current_bg: '#3B481C'
+  session_label: '#38BDF8'
+  session_border: '#635961'
+spinner:
+  waiting_faces:
+  - (◉)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◉)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - surviving Elmore
+  - talking to the family
+  - outsmarting Darwin
+  - getting detention
+  - chaos-ing
+  wings:
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Elmore Agent
+  welcome: Welcome to Elmore! Type your message or /help, dummy.
+  goodbye: See you at school tomorrow!
+  response_label: ' ◉ GUMBALL '
+  prompt_symbol: '◉ ❯ '
+  help_header: (◉) GUMBALL Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#A3E635].####[/] [#9CE342]#...#[/] [#8EDE5B]#...#[/] [#7DD87A]####.[/] [#69D09F].###.[/] [#52C7C9]#....[/] [#38BDF8]#....[/]
+  [#A3E635]#....[/] [#9CE342]#...#[/] [#8EDE5B]##.##[/] [#7DD87A]#...#[/] [#69D09F]#...#[/] [#52C7C9]#....[/] [#38BDF8]#....[/]
+  [#A3E635]#..##[/] [#9CE342]#...#[/] [#8EDE5B]#.#.#[/] [#7DD87A]####.[/] [#69D09F]#####[/] [#52C7C9]#....[/] [#38BDF8]#....[/]
+  [#A3E635]#...#[/] [#9CE342]#...#[/] [#8EDE5B]#...#[/] [#7DD87A]#...#[/] [#69D09F]#...#[/] [#52C7C9]#....[/] [#38BDF8]#....[/]
+  [#A3E635].####[/] [#9CE342].###.[/] [#8EDE5B]#...#[/] [#7DD87A]####.[/] [#69D09F]#...#[/] [#52C7C9]#####[/] [#38BDF8]#####[/]
+banner_hero: |-
+  [#F472B6]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#38BDF8]◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ [/]
+  [#38BDF8]                                        [/]
+  [bold #A3E635]GUMBALL                                 [/]
+  [#F8EBF3]A blue cat and a goldfish navigating El…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ [/]
+  [#F472B6]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

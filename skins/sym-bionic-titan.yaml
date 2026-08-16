@@ -1,0 +1,94 @@
+name: sym-bionic-titan
+description: Three alien teens pilot a giant mech to defend Earth.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#565C66'
+  banner_text: '#E6EDF7'
+  ui_accent: '#FDE047'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6EDF7'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1C212A'
+  status_bar_text: '#E6EDF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#565C66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1C212A'
+  completion_menu_bg: '#080E18'
+  completion_menu_current_bg: '#565127'
+  completion_menu_meta_bg: '#070C14'
+  completion_menu_meta_current_bg: '#4D4925'
+  session_label: '#F59E0B'
+  session_border: '#565C66'
+spinner:
+  waiting_faces:
+  - (⬡)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⬡)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - suiting up
+  - defending Earth
+  - piloting the Titan
+  - hiding in plain sight
+  - fighting Mutraddi
+  wings:
+  - - ⟪⬡
+    - ⬡⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Titan Agent
+  welcome: Sym-Bionic online! Type your message or /help.
+  goodbye: Titan disengaged. Stay strong!
+  response_label: ' ⬡ SYM-BIONIC '
+  prompt_symbol: '⬡ ❯ '
+  help_header: (⬡) SYM-BIONIC Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDDE45]#...#[/] [#FCD941]#...#[/] [#FBD33B].....[/] [#FBCC35]####.[/] [#FAC52E]#####[/] [#F9BC26].###.[/] [#F8B31E]#...#[/] [#F6A915]#####[/] [#F59E0B].####[/]
+  [#FDE047]#....[/] [#FDDE45].#.#.[/] [#FCD941]##.##[/] [#FBD33B].....[/] [#FBCC35]#...#[/] [#FAC52E]..#..[/] [#F9BC26]#...#[/] [#F8B31E]##..#[/] [#F6A915]..#..[/] [#F59E0B]#....[/]
+  [#FDE047].###.[/] [#FDDE45]..#..[/] [#FCD941]#.#.#[/] [#FBD33B]#####[/] [#FBCC35]####.[/] [#FAC52E]..#..[/] [#F9BC26]#...#[/] [#F8B31E]#.#.#[/] [#F6A915]..#..[/] [#F59E0B]#....[/]
+  [#FDE047]....#[/] [#FDDE45]..#..[/] [#FCD941]#...#[/] [#FBD33B].....[/] [#FBCC35]#...#[/] [#FAC52E]..#..[/] [#F9BC26]#...#[/] [#F8B31E]#..##[/] [#F6A915]..#..[/] [#F59E0B]#....[/]
+  [#FDE047]####.[/] [#FDDE45]..#..[/] [#FCD941]#...#[/] [#FBD33B].....[/] [#FBCC35]####.[/] [#FAC52E]#####[/] [#F9BC26].###.[/] [#F8B31E]#...#[/] [#F6A915]#####[/] [#F59E0B].####[/]
+banner_hero: |-
+  [#3B82F6]╭────────────────────────────────────────╮[/]
+  [#F59E0B]⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ [/]
+  [#F59E0B]                                        [/]
+  [bold #FDE047]SYM-BIONIC                              [/]
+  [#E6EDF7]Three alien teens pilot a giant mech to…[/]
+  [#F59E0B]                                        [/]
+  [#F59E0B]⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ ⬡ [/]
+  [#3B82F6]╰────────────────────────────────────────╯[/]

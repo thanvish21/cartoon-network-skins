@@ -1,0 +1,94 @@
+name: batman-brave-bold
+description: Batman teaming up with heroes across the DC universe.
+colors:
+  banner_border: '#B45309'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#5D5852'
+  banner_text: '#F3EEE4'
+  ui_accent: '#FACC15'
+  ui_label: '#E5E7EB'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F3EEE4'
+  input_rule: '#B45309'
+  response_border: '#FACC15'
+  status_bar_bg: '#1F1C17'
+  status_bar_text: '#F3EEE4'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#5D5852'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F1C17'
+  completion_menu_bg: '#0C0803'
+  completion_menu_current_bg: '#584709'
+  completion_menu_meta_bg: '#0A0703'
+  completion_menu_meta_current_bg: '#4F3F08'
+  session_label: '#E5E7EB'
+  session_border: '#5D5852'
+spinner:
+  waiting_faces:
+  - (✭)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✭)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - teaming up with heroes
+  - cracking jokes
+  - fighting villains
+  - answering the signal
+  - saving the day
+  wings:
+  - - ⟪✭
+    - ✭⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Batman Agent
+  welcome: The Brave and the Bold! Type your message or /help, partner.
+  goodbye: Case closed, partner. Out!
+  response_label: ' ✭ BRAVE & BOLD '
+  prompt_symbol: '✭ ❯ '
+  help_header: (✭) BRAVE & BOLD Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]####.[/] [#F9CD1B]####.[/] [#F8CE26].###.[/] [#F7D033]#...#[/] [#F5D244]#####[/] [#F4D457].....[/] [#F2D76B].###.[/] [#EFDA82].....[/] [#EDDD9A]####.[/] [#EAE0B3].###.[/] [#E8E3CE]#....[/] [#E5E7EB]####.[/]
+  [#FACC15]#...#[/] [#F9CD1B]#...#[/] [#F8CE26]#...#[/] [#F7D033]#...#[/] [#F5D244]#....[/] [#F4D457].....[/] [#F2D76B]#...#[/] [#EFDA82].....[/] [#EDDD9A]#...#[/] [#EAE0B3]#...#[/] [#E8E3CE]#....[/] [#E5E7EB]#...#[/]
+  [#FACC15]####.[/] [#F9CD1B]####.[/] [#F8CE26]#####[/] [#F7D033]#...#[/] [#F5D244]####.[/] [#F4D457].....[/] [#F2D76B]..#..[/] [#EFDA82].....[/] [#EDDD9A]####.[/] [#EAE0B3]#...#[/] [#E8E3CE]#....[/] [#E5E7EB]#...#[/]
+  [#FACC15]#...#[/] [#F9CD1B]#..#.[/] [#F8CE26]#...#[/] [#F7D033].#.#.[/] [#F5D244]#....[/] [#F4D457].....[/] [#F2D76B].#.#.[/] [#EFDA82].....[/] [#EDDD9A]#...#[/] [#EAE0B3]#...#[/] [#E8E3CE]#....[/] [#E5E7EB]#...#[/]
+  [#FACC15]####.[/] [#F9CD1B]#...#[/] [#F8CE26]#...#[/] [#F7D033]..#..[/] [#F5D244]#####[/] [#F4D457].....[/] [#F2D76B]##..#[/] [#EFDA82].....[/] [#EDDD9A]####.[/] [#EAE0B3].###.[/] [#E8E3CE]#####[/] [#E5E7EB]####.[/]
+banner_hero: |-
+  [#B45309]╭════════════════════════════════════════╮[/]
+  [#E5E7EB]✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ [/]
+  [#E5E7EB]                                        [/]
+  [bold #FACC15]BRAVE & BOLD                            [/]
+  [#F3EEE4]Batman teaming up with heroes across th…[/]
+  [#E5E7EB]                                        [/]
+  [#E5E7EB]✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ ✭ [/]
+  [#B45309]╰════════════════════════════════════════╯[/]

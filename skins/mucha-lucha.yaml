@@ -1,0 +1,94 @@
+name: mucha-lucha
+description: Masked luchadores wrestling for honor at the International School of Lucha.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#F97316'
+  banner_accent: '#F97316'
+  banner_dim: '#625757'
+  banner_text: '#F7E9E9'
+  ui_accent: '#F97316'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7E9E9'
+  input_rule: '#DC2626'
+  response_border: '#F97316'
+  status_bar_bg: '#251C1C'
+  status_bar_text: '#F7E9E9'
+  status_bar_strong: '#F97316'
+  status_bar_dim: '#625757'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251C1C'
+  completion_menu_bg: '#120808'
+  completion_menu_current_bg: '#5C2A0C'
+  completion_menu_meta_bg: '#0F0707'
+  completion_menu_meta_current_bg: '#53260C'
+  session_label: '#FACC15'
+  session_border: '#625757'
+spinner:
+  waiting_faces:
+  - (✪)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✪)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - pinning opponents
+  - flying off the ropes
+  - wrestling
+  - training in the ring
+  - masking up
+  wings:
+  - - ⟪✪
+    - ✪⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Luchador Agent
+  welcome: ¡Olé! Type your message or /help and step into the ring!
+  goodbye: ¡Adiós! Stay masked!
+  response_label: ' ✪ MUCHA LUCHA '
+  prompt_symbol: '✪ ❯ '
+  help_header: (✪) MUCHA LUCHA Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F97316]#...#[/] [#F97616]#...#[/] [#F97B16].####[/] [#F98216]#...#[/] [#F98A16].###.[/] [#F99216].....[/] [#F99C16]#....[/] [#FAA715]#...#[/] [#FAB315].####[/] [#FABF15]#...#[/] [#FACC15].###.[/]
+  [#F97316]##.##[/] [#F97616]#...#[/] [#F97B16]#....[/] [#F98216]#...#[/] [#F98A16]#...#[/] [#F99216].....[/] [#F99C16]#....[/] [#FAA715]#...#[/] [#FAB315]#....[/] [#FABF15]#...#[/] [#FACC15]#...#[/]
+  [#F97316]#.#.#[/] [#F97616]#...#[/] [#F97B16]#....[/] [#F98216]#####[/] [#F98A16]#####[/] [#F99216].....[/] [#F99C16]#....[/] [#FAA715]#...#[/] [#FAB315]#....[/] [#FABF15]#####[/] [#FACC15]#####[/]
+  [#F97316]#...#[/] [#F97616]#...#[/] [#F97B16]#....[/] [#F98216]#...#[/] [#F98A16]#...#[/] [#F99216].....[/] [#F99C16]#....[/] [#FAA715]#...#[/] [#FAB315]#....[/] [#FABF15]#...#[/] [#FACC15]#...#[/]
+  [#F97316]#...#[/] [#F97616].###.[/] [#F97B16].####[/] [#F98216]#...#[/] [#F98A16]#...#[/] [#F99216].....[/] [#F99C16]#####[/] [#FAA715].###.[/] [#FAB315].####[/] [#FABF15]#...#[/] [#FACC15]#...#[/]
+banner_hero: |-
+  [#DC2626]╭────────────────────────────────────────╮[/]
+  [#FACC15]✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ [/]
+  [#FACC15]                                        [/]
+  [bold #F97316]MUCHA LUCHA                             [/]
+  [#F7E9E9]Masked luchadores wrestling for honor a…[/]
+  [#FACC15]                                        [/]
+  [#FACC15]✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ [/]
+  [#DC2626]╰────────────────────────────────────────╯[/]

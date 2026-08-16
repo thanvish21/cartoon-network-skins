@@ -1,0 +1,94 @@
+name: 2-stupid-dogs
+description: Little Dog and Big Dog — the two dumbest, happiest dogs around.
+colors:
+  banner_border: '#60A5FA'
+  banner_title: '#FBBF24'
+  banner_accent: '#FBBF24'
+  banner_dim: '#575E6C'
+  banner_text: '#E7EEF8'
+  ui_accent: '#FBBF24'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7EEF8'
+  input_rule: '#60A5FA'
+  response_border: '#FBBF24'
+  status_bar_bg: '#1E2432'
+  status_bar_text: '#E7EEF8'
+  status_bar_strong: '#FBBF24'
+  status_bar_dim: '#575E6C'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E2432'
+  completion_menu_bg: '#0A1120'
+  completion_menu_current_bg: '#574921'
+  completion_menu_meta_bg: '#080E1B'
+  completion_menu_meta_current_bg: '#4D4221'
+  session_label: '#F8FAFC'
+  session_border: '#575E6C'
+spinner:
+  waiting_faces:
+  - (◯)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◯)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - digging holes
+  - barking at nothing
+  - chasing tails
+  - getting lost
+  - being happy
+  wings:
+  - - ⟪◯
+    - ◯⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Stupid Dog Agent
+  welcome: Woof! Type your message or /help... if you can find it.
+  goodbye: Woof woof! See ya!
+  response_label: ' ◯ 2 STUPID DOGS '
+  prompt_symbol: '◯ ❯ '
+  help_header: (◯) 2 STUPID DOGS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FBBF24].###.[/] [#FBC029].....[/] [#FBC333].####[/] [#FBC63F]#####[/] [#FACA4E]#...#[/] [#FACF5E]####.[/] [#FAD470]#####[/] [#FAD984]####.[/] [#F9DF9A].....[/] [#F9E5B0]####.[/] [#F9ECC8].###.[/] [#F8F3E2].####[/] [#F8FAFC].####[/]
+  [#FBBF24]....#[/] [#FBC029].....[/] [#FBC333]#....[/] [#FBC63F]..#..[/] [#FACA4E]#...#[/] [#FACF5E]#...#[/] [#FAD470]..#..[/] [#FAD984]#...#[/] [#F9DF9A].....[/] [#F9E5B0]#...#[/] [#F9ECC8]#...#[/] [#F8F3E2]#....[/] [#F8FAFC]#....[/]
+  [#FBBF24].###.[/] [#FBC029].....[/] [#FBC333].###.[/] [#FBC63F]..#..[/] [#FACA4E]#...#[/] [#FACF5E]####.[/] [#FAD470]..#..[/] [#FAD984]#...#[/] [#F9DF9A].....[/] [#F9E5B0]#...#[/] [#F9ECC8]#...#[/] [#F8F3E2]#..##[/] [#F8FAFC].###.[/]
+  [#FBBF24]#....[/] [#FBC029].....[/] [#FBC333]....#[/] [#FBC63F]..#..[/] [#FACA4E]#...#[/] [#FACF5E]#....[/] [#FAD470]..#..[/] [#FAD984]#...#[/] [#F9DF9A].....[/] [#F9E5B0]#...#[/] [#F9ECC8]#...#[/] [#F8F3E2]#...#[/] [#F8FAFC]....#[/]
+  [#FBBF24]#####[/] [#FBC029].....[/] [#FBC333]####.[/] [#FBC63F]..#..[/] [#FACA4E].###.[/] [#FACF5E]#....[/] [#FAD470]#####[/] [#FAD984]####.[/] [#F9DF9A].....[/] [#F9E5B0]####.[/] [#F9ECC8].###.[/] [#F8F3E2].####[/] [#F8FAFC]####.[/]
+banner_hero: |-
+  [#60A5FA]╭────────────────────────────────────────╮[/]
+  [#F8FAFC]◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ [/]
+  [#F8FAFC]                                        [/]
+  [bold #FBBF24]2 STUPID DOGS                           [/]
+  [#E7EEF8]Little Dog and Big Dog — the two dumbes…[/]
+  [#F8FAFC]                                        [/]
+  [#F8FAFC]◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯ [/]
+  [#60A5FA]╰────────────────────────────────────────╯[/]

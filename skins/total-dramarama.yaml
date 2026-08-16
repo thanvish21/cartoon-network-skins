@@ -1,0 +1,94 @@
+name: total-dramarama
+description: The Total Drama cast as chaotic toddlers.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#655862'
+  banner_text: '#F9EAF4'
+  ui_accent: '#FACC15'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9EAF4'
+  input_rule: '#F472B6'
+  response_border: '#FACC15'
+  status_bar_bg: '#281E27'
+  status_bar_text: '#F9EAF4'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#655862'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#281E27'
+  completion_menu_bg: '#150A14'
+  completion_menu_current_bg: '#5E4814'
+  completion_menu_meta_bg: '#120811'
+  completion_menu_meta_current_bg: '#554014'
+  session_label: '#38BDF8'
+  session_border: '#655862'
+spinner:
+  waiting_faces:
+  - (☻)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☻)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - naptime
+  - snack time
+  - being toddlers
+  - causing chaos
+  - avoiding the daycare
+  wings:
+  - - ⟪☻
+    - ☻⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: DramaRama Agent
+  welcome: Nap time? No way! Type your message or /help!
+  goodbye: Snack time's over. Bye!
+  response_label: ' ☻ DRAMARAMA '
+  prompt_symbol: '☻ ❯ '
+  help_header: (☻) DRAMARAMA Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]####.[/] [#F1CB1F]####.[/] [#E2CA31].###.[/] [#CDC949]#...#[/] [#B5C765].###.[/] [#9AC585]####.[/] [#7CC2A8].###.[/] [#5BC0CF]#...#[/] [#38BDF8].###.[/]
+  [#FACC15]#...#[/] [#F1CB1F]#...#[/] [#E2CA31]#...#[/] [#CDC949]##.##[/] [#B5C765]#...#[/] [#9AC585]#...#[/] [#7CC2A8]#...#[/] [#5BC0CF]##.##[/] [#38BDF8]#...#[/]
+  [#FACC15]#...#[/] [#F1CB1F]####.[/] [#E2CA31]#####[/] [#CDC949]#.#.#[/] [#B5C765]#####[/] [#9AC585]####.[/] [#7CC2A8]#####[/] [#5BC0CF]#.#.#[/] [#38BDF8]#####[/]
+  [#FACC15]#...#[/] [#F1CB1F]#..#.[/] [#E2CA31]#...#[/] [#CDC949]#...#[/] [#B5C765]#...#[/] [#9AC585]#..#.[/] [#7CC2A8]#...#[/] [#5BC0CF]#...#[/] [#38BDF8]#...#[/]
+  [#FACC15]####.[/] [#F1CB1F]#...#[/] [#E2CA31]#...#[/] [#CDC949]#...#[/] [#B5C765]#...#[/] [#9AC585]#...#[/] [#7CC2A8]#...#[/] [#5BC0CF]#...#[/] [#38BDF8]#...#[/]
+banner_hero: |-
+  [#F472B6]╭────────────────────────────────────────╮[/]
+  [#38BDF8]☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ [/]
+  [#38BDF8]                                        [/]
+  [bold #FACC15]DRAMARAMA                               [/]
+  [#F9EAF4]The Total Drama cast as chaotic toddler…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ ☻ [/]
+  [#F472B6]╰────────────────────────────────────────╯[/]

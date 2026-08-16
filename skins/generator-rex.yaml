@@ -1,0 +1,94 @@
+name: generator-rex
+description: Nanite-built machines and EVO battles from the Ben 10 universe.
+colors:
+  banner_border: '#34D399'
+  banner_title: '#22D3EE'
+  banner_accent: '#22D3EE'
+  banner_dim: '#506159'
+  banner_text: '#DDF5EA'
+  ui_accent: '#22D3EE'
+  ui_label: '#A7F3D0'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#DDF5EA'
+  input_rule: '#34D399'
+  response_border: '#22D3EE'
+  status_bar_bg: '#18251F'
+  status_bar_text: '#DDF5EA'
+  status_bar_strong: '#22D3EE'
+  status_bar_dim: '#506159'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#18251F'
+  completion_menu_bg: '#04120B'
+  completion_menu_current_bg: '#0E5054'
+  completion_menu_meta_bg: '#030F09'
+  completion_menu_meta_current_bg: '#0C484B'
+  session_label: '#A7F3D0'
+  session_border: '#506159'
+spinner:
+  waiting_faces:
+  - (⌬)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⌬)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - building machines
+  - deploying nanites
+  - scanning EVOs
+  - powering up the Smack Hands
+  - chasing Van Kleiss
+  wings:
+  - - ⟪⌬
+    - ⌬⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Providence Agent
+  welcome: Nanites ready. Type your message or /help to build something.
+  goodbye: Machines powered down. Stay smashing!
+  response_label: ' ⌬ GEN REX '
+  prompt_symbol: '⌬ ❯ '
+  help_header: (⌬) GEN REX Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#22D3EE].####[/] [#2BD5EC]#####[/] [#3CD9E8]#...#[/] [#51DEE3].....[/] [#6AE4DE]####.[/] [#87EBD7]#####[/] [#A7F3D0]#...#[/]
+  [#22D3EE]#....[/] [#2BD5EC]#....[/] [#3CD9E8]##..#[/] [#51DEE3].....[/] [#6AE4DE]#...#[/] [#87EBD7]#....[/] [#A7F3D0].#.#.[/]
+  [#22D3EE]#..##[/] [#2BD5EC]####.[/] [#3CD9E8]#.#.#[/] [#51DEE3].....[/] [#6AE4DE]####.[/] [#87EBD7]####.[/] [#A7F3D0]..#..[/]
+  [#22D3EE]#...#[/] [#2BD5EC]#....[/] [#3CD9E8]#..##[/] [#51DEE3].....[/] [#6AE4DE]#..#.[/] [#87EBD7]#....[/] [#A7F3D0].#.#.[/]
+  [#22D3EE].####[/] [#2BD5EC]#####[/] [#3CD9E8]#...#[/] [#51DEE3].....[/] [#6AE4DE]#...#[/] [#87EBD7]#####[/] [#A7F3D0]#...#[/]
+banner_hero: |-
+  [#34D399]╭────────────────────────────────────────╮[/]
+  [#A7F3D0]⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ [/]
+  [#A7F3D0]                                        [/]
+  [bold #22D3EE]GEN REX                                 [/]
+  [#DDF5EA]Nanite-built machines and EVO battles f…[/]
+  [#A7F3D0]                                        [/]
+  [#A7F3D0]⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ ⌬ [/]
+  [#34D399]╰────────────────────────────────────────╯[/]

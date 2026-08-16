@@ -1,0 +1,94 @@
+name: batman-tas
+description: The Dark Knight of Gotham in the definitive animated take.
+colors:
+  banner_border: '#334155'
+  banner_title: '#94A3B8'
+  banner_accent: '#94A3B8'
+  banner_dim: '#54565B'
+  banner_text: '#E6EAF0'
+  ui_accent: '#94A3B8'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6EAF0'
+  input_rule: '#334155'
+  response_border: '#94A3B8'
+  status_bar_bg: '#191B1F'
+  status_bar_text: '#E6EAF0'
+  status_bar_strong: '#94A3B8'
+  status_bar_dim: '#54565B'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#191B1F'
+  completion_menu_bg: '#05070B'
+  completion_menu_current_bg: '#333942'
+  completion_menu_meta_bg: '#040609'
+  completion_menu_meta_current_bg: '#2D333B'
+  session_label: '#FACC15'
+  session_border: '#54565B'
+spinner:
+  waiting_faces:
+  - (☾)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☾)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - patrolling Gotham
+  - striking from the shadows
+  - fighting the rogues
+  - protecting the city
+  - being the night
+  wings:
+  - - ⟪☾
+    - ☾⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Batman Agent
+  welcome: I'm Batman. Type your message or /help.
+  goodbye: The night is over. Gotham sleeps.
+  response_label: ' ☾ BATMAN '
+  prompt_symbol: '☾ ❯ '
+  help_header: (☾) BATMAN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#94A3B8]####.[/] [#9DA7A9].###.[/] [#AEAD8F]#####[/] [#C3B66C]#...#[/] [#DDC043].###.[/] [#FACC15]#...#[/]
+  [#94A3B8]#...#[/] [#9DA7A9]#...#[/] [#AEAD8F]..#..[/] [#C3B66C]##.##[/] [#DDC043]#...#[/] [#FACC15]##..#[/]
+  [#94A3B8]####.[/] [#9DA7A9]#####[/] [#AEAD8F]..#..[/] [#C3B66C]#.#.#[/] [#DDC043]#####[/] [#FACC15]#.#.#[/]
+  [#94A3B8]#...#[/] [#9DA7A9]#...#[/] [#AEAD8F]..#..[/] [#C3B66C]#...#[/] [#DDC043]#...#[/] [#FACC15]#..##[/]
+  [#94A3B8]####.[/] [#9DA7A9]#...#[/] [#AEAD8F]..#..[/] [#C3B66C]#...#[/] [#DDC043]#...#[/] [#FACC15]#...#[/]
+banner_hero: |-
+  [#334155]╭════════════════════════════════════════╮[/]
+  [#FACC15]☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ [/]
+  [#FACC15]                                        [/]
+  [bold #94A3B8]BATMAN                                  [/]
+  [#E6EAF0]The Dark Knight of Gotham in the defini…[/]
+  [#FACC15]                                        [/]
+  [#FACC15]☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ [/]
+  [#334155]╰════════════════════════════════════════╯[/]

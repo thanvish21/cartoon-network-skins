@@ -1,0 +1,94 @@
+name: class-of-3000
+description: Andre 3000 teaches music at a school in Atlanta.
+colors:
+  banner_border: '#EF4444'
+  banner_title: '#38BDF8'
+  banner_accent: '#38BDF8'
+  banner_dim: '#655757'
+  banner_text: '#F9E9E9'
+  ui_accent: '#38BDF8'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9E9E9'
+  input_rule: '#EF4444'
+  response_border: '#38BDF8'
+  status_bar_bg: '#281C1C'
+  status_bar_text: '#F9E9E9'
+  status_bar_strong: '#38BDF8'
+  status_bar_dim: '#655757'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#281C1C'
+  completion_menu_bg: '#150808'
+  completion_menu_current_bg: '#204255'
+  completion_menu_meta_bg: '#120707'
+  completion_menu_meta_current_bg: '#1F3B4B'
+  session_label: '#FDE047'
+  session_border: '#655757'
+spinner:
+  waiting_faces:
+  - (♩)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (♩)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - jamming
+  - teaching music
+  - singing
+  - composing
+  - making beats
+  wings:
+  - - ⟪♩
+    - ♩⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Class 3000 Agent
+  welcome: Welcome to class! Type your message or /help, students.
+  goodbye: Class dismissed! Keep making music!
+  response_label: ' ♩ CLASS OF 3000 '
+  prompt_symbol: '♩ ❯ '
+  help_header: (♩) CLASS OF 3000 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#38BDF8].####[/] [#3DBEF4]#....[/] [#45BFEC].###.[/] [#51C1E2].####[/] [#5EC4D6].####[/] [#6DC6C8].....[/] [#7EC9B9].###.[/] [#90CDA9]#####[/] [#A3D098].....[/] [#B8D485]####.[/] [#CED871].###.[/] [#E5DC5D].###.[/] [#FDE047].###.[/]
+  [#38BDF8]#....[/] [#3DBEF4]#....[/] [#45BFEC]#...#[/] [#51C1E2]#....[/] [#5EC4D6]#....[/] [#6DC6C8].....[/] [#7EC9B9]#...#[/] [#90CDA9]#....[/] [#A3D098].....[/] [#B8D485]....#[/] [#CED871]#..##[/] [#E5DC5D]#..##[/] [#FDE047]#..##[/]
+  [#38BDF8]#....[/] [#3DBEF4]#....[/] [#45BFEC]#####[/] [#51C1E2].###.[/] [#5EC4D6].###.[/] [#6DC6C8].....[/] [#7EC9B9]#...#[/] [#90CDA9]####.[/] [#A3D098].....[/] [#B8D485].###.[/] [#CED871]#.#.#[/] [#E5DC5D]#.#.#[/] [#FDE047]#.#.#[/]
+  [#38BDF8]#....[/] [#3DBEF4]#....[/] [#45BFEC]#...#[/] [#51C1E2]....#[/] [#5EC4D6]....#[/] [#6DC6C8].....[/] [#7EC9B9]#...#[/] [#90CDA9]#....[/] [#A3D098].....[/] [#B8D485]....#[/] [#CED871]##..#[/] [#E5DC5D]##..#[/] [#FDE047]##..#[/]
+  [#38BDF8].####[/] [#3DBEF4]#####[/] [#45BFEC]#...#[/] [#51C1E2]####.[/] [#5EC4D6]####.[/] [#6DC6C8].....[/] [#7EC9B9].###.[/] [#90CDA9]#....[/] [#A3D098].....[/] [#B8D485]####.[/] [#CED871].###.[/] [#E5DC5D].###.[/] [#FDE047].###.[/]
+banner_hero: |-
+  [#EF4444]╭────────────────────────────────────────╮[/]
+  [#FDE047]♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ [/]
+  [#FDE047]                                        [/]
+  [bold #38BDF8]CLASS OF 3000                           [/]
+  [#F9E9E9]Andre 3000 teaches music at a school in…[/]
+  [#FDE047]                                        [/]
+  [#FDE047]♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ ♩ [/]
+  [#EF4444]╰────────────────────────────────────────╯[/]

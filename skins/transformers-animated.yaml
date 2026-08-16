@@ -1,0 +1,94 @@
+name: transformers-animated
+description: The Autobots as a repair crew in Detroit.
+colors:
+  banner_border: '#2563EB'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#545A65'
+  banner_text: '#E5ECF7'
+  ui_accent: '#FACC15'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5ECF7'
+  input_rule: '#2563EB'
+  response_border: '#FACC15'
+  status_bar_bg: '#1A1F29'
+  status_bar_text: '#E5ECF7'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#545A65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A1F29'
+  completion_menu_bg: '#060C16'
+  completion_menu_current_bg: '#544916'
+  completion_menu_meta_bg: '#050A13'
+  completion_menu_meta_current_bg: '#4A4216'
+  session_label: '#EF4444'
+  session_border: '#545A65'
+spinner:
+  waiting_faces:
+  - (✸)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✸)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - transforming
+  - rolling out
+  - fighting Decepticons
+  - repairing things
+  - protecting Detroit
+  wings:
+  - - ⟪✸
+    - ✸⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Autobot Agent
+  welcome: Autobots, roll out! Type your message or /help!
+  goodbye: Rolling out! Till all are one!
+  response_label: ' ✸ TRANSFORMERS '
+  prompt_symbol: '✸ ❯ '
+  help_header: (✸) TRANSFORMERS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]#####[/] [#FAC816]####.[/] [#F9C119].###.[/] [#F8B91C]#...#[/] [#F8AE1F].####[/] [#F7A223]#####[/] [#F69528].###.[/] [#F4872D]####.[/] [#F37832]#...#[/] [#F26738]#####[/] [#F0563E]####.[/] [#EF4444].####[/]
+  [#FACC15]..#..[/] [#FAC816]#...#[/] [#F9C119]#...#[/] [#F8B91C]##..#[/] [#F8AE1F]#....[/] [#F7A223]#....[/] [#F69528]#...#[/] [#F4872D]#...#[/] [#F37832]##.##[/] [#F26738]#....[/] [#F0563E]#...#[/] [#EF4444]#....[/]
+  [#FACC15]..#..[/] [#FAC816]####.[/] [#F9C119]#####[/] [#F8B91C]#.#.#[/] [#F8AE1F].###.[/] [#F7A223]####.[/] [#F69528]#...#[/] [#F4872D]####.[/] [#F37832]#.#.#[/] [#F26738]####.[/] [#F0563E]####.[/] [#EF4444].###.[/]
+  [#FACC15]..#..[/] [#FAC816]#..#.[/] [#F9C119]#...#[/] [#F8B91C]#..##[/] [#F8AE1F]....#[/] [#F7A223]#....[/] [#F69528]#...#[/] [#F4872D]#..#.[/] [#F37832]#...#[/] [#F26738]#....[/] [#F0563E]#..#.[/] [#EF4444]....#[/]
+  [#FACC15]..#..[/] [#FAC816]#...#[/] [#F9C119]#...#[/] [#F8B91C]#...#[/] [#F8AE1F]####.[/] [#F7A223]#....[/] [#F69528].###.[/] [#F4872D]#...#[/] [#F37832]#...#[/] [#F26738]#####[/] [#F0563E]#...#[/] [#EF4444]####.[/]
+banner_hero: |-
+  [#2563EB]╭────────────────────────────────────────╮[/]
+  [#EF4444]✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ [/]
+  [#EF4444]                                        [/]
+  [bold #FACC15]TRANSFORMERS                            [/]
+  [#E5ECF7]The Autobots as a repair crew in Detroi…[/]
+  [#EF4444]                                        [/]
+  [#EF4444]✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ [/]
+  [#2563EB]╰────────────────────────────────────────╯[/]

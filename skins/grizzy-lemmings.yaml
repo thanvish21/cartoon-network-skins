@@ -1,0 +1,94 @@
+name: grizzy-lemmings
+description: A bear vs. the lemmings in a national park cabin.
+colors:
+  banner_border: '#F59E0B'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#605A51'
+  banner_text: '#F6F0E3'
+  ui_accent: '#FDE047'
+  ui_label: '#93C5FD'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6F0E3'
+  input_rule: '#F59E0B'
+  response_border: '#FDE047'
+  status_bar_bg: '#221D17'
+  status_bar_text: '#F6F0E3'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#605A51'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221D17'
+  completion_menu_bg: '#0F0903'
+  completion_menu_current_bg: '#5B4E19'
+  completion_menu_meta_bg: '#0D0803'
+  completion_menu_meta_current_bg: '#524516'
+  session_label: '#93C5FD'
+  session_border: '#605A51'
+spinner:
+  waiting_faces:
+  - (✹)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✹)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - fighting the lemmings
+  - protecting the cabin
+  - getting outsmarted
+  - watching TV
+  - raiding the fridge
+  wings:
+  - - ⟪✹
+    - ✹⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Grizzy Agent
+  welcome: Grrr! Type your message or /help... and watch the lemmings.
+  goodbye: The lemmings win... again. Bye!
+  response_label: ' ✹ GRIZZY '
+  prompt_symbol: '✹ ❯ '
+  help_header: (✹) GRIZZY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#F4DE57]####.[/] [#E2D975]#####[/] [#CCD39C]#####[/] [#B1CDC9]#####[/] [#93C5FD]#...#[/]
+  [#FDE047]#....[/] [#F4DE57]#...#[/] [#E2D975]..#..[/] [#CCD39C]...#.[/] [#B1CDC9]...#.[/] [#93C5FD].#.#.[/]
+  [#FDE047]#..##[/] [#F4DE57]####.[/] [#E2D975]..#..[/] [#CCD39C]..#..[/] [#B1CDC9]..#..[/] [#93C5FD]..#..[/]
+  [#FDE047]#...#[/] [#F4DE57]#..#.[/] [#E2D975]..#..[/] [#CCD39C].#...[/] [#B1CDC9].#...[/] [#93C5FD]..#..[/]
+  [#FDE047].####[/] [#F4DE57]#...#[/] [#E2D975]#####[/] [#CCD39C]#####[/] [#B1CDC9]#####[/] [#93C5FD]..#..[/]
+banner_hero: |-
+  [#F59E0B]╭────────────────────────────────────────╮[/]
+  [#93C5FD]✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ [/]
+  [#93C5FD]                                        [/]
+  [bold #FDE047]GRIZZY                                  [/]
+  [#F6F0E3]A bear vs. the lemmings in a national p…[/]
+  [#93C5FD]                                        [/]
+  [#93C5FD]✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ [/]
+  [#F59E0B]╰────────────────────────────────────────╯[/]

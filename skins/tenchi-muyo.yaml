@@ -1,0 +1,94 @@
+name: tenchi-muyo
+description: An ordinary guy with extraordinary space friends.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5D5764'
+  banner_text: '#F2ECF8'
+  ui_accent: '#FDE047'
+  ui_label: '#4ADE80'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F2ECF8'
+  input_rule: '#A855F7'
+  response_border: '#FDE047'
+  status_bar_bg: '#201B27'
+  status_bar_text: '#F2ECF8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5D5764'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201B27'
+  completion_menu_bg: '#0D0714'
+  completion_menu_current_bg: '#5A4C24'
+  completion_menu_meta_bg: '#0B0611'
+  completion_menu_meta_current_bg: '#504422'
+  session_label: '#4ADE80'
+  session_border: '#5D5764'
+spinner:
+  waiting_faces:
+  - (❆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (❆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - living with space pirates
+  - dealing with Juraian royalty
+  - going to school
+  - protecting the Earth
+  - having space adventures
+  wings:
+  - - ⟪❆
+    - ❆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Tenchi Agent
+  welcome: Welcome to the Masaki house! Type your message or /help.
+  goodbye: The universe is at peace. Later!
+  response_label: ' ❆ TENCHI MUYO '
+  prompt_symbol: '❆ ❯ '
+  help_header: (❆) TENCHI MUYO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#F7E049]#####[/] [#EDE04C]#...#[/] [#E0E050].####[/] [#D0DF55]#...#[/] [#BEDF5B]#####[/] [#AADF61].....[/] [#94DF68]#...#[/] [#7DDF70]#...#[/] [#64DE78]#...#[/] [#4ADE80].###.[/]
+  [#FDE047]..#..[/] [#F7E049]#....[/] [#EDE04C]##..#[/] [#E0E050]#....[/] [#D0DF55]#...#[/] [#BEDF5B]..#..[/] [#AADF61].....[/] [#94DF68]##.##[/] [#7DDF70]#...#[/] [#64DE78].#.#.[/] [#4ADE80]#...#[/]
+  [#FDE047]..#..[/] [#F7E049]####.[/] [#EDE04C]#.#.#[/] [#E0E050]#....[/] [#D0DF55]#####[/] [#BEDF5B]..#..[/] [#AADF61].....[/] [#94DF68]#.#.#[/] [#7DDF70]#...#[/] [#64DE78]..#..[/] [#4ADE80]#...#[/]
+  [#FDE047]..#..[/] [#F7E049]#....[/] [#EDE04C]#..##[/] [#E0E050]#....[/] [#D0DF55]#...#[/] [#BEDF5B]..#..[/] [#AADF61].....[/] [#94DF68]#...#[/] [#7DDF70]#...#[/] [#64DE78]..#..[/] [#4ADE80]#...#[/]
+  [#FDE047]..#..[/] [#F7E049]#####[/] [#EDE04C]#...#[/] [#E0E050].####[/] [#D0DF55]#...#[/] [#BEDF5B]#####[/] [#AADF61].....[/] [#94DF68]#...#[/] [#7DDF70].###.[/] [#64DE78]..#..[/] [#4ADE80].###.[/]
+banner_hero: |-
+  [#A855F7]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#4ADE80]❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ [/]
+  [#4ADE80]                                        [/]
+  [bold #FDE047]TENCHI MUYO                             [/]
+  [#F2ECF8]An ordinary guy with extraordinary spac…[/]
+  [#4ADE80]                                        [/]
+  [#4ADE80]❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ ❆ [/]
+  [#A855F7]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

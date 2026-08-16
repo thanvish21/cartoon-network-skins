@@ -1,0 +1,94 @@
+name: juniper-lee
+description: An 11-year-old secretly protecting the world from monsters.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5E5766'
+  banner_text: '#F2EAF8'
+  ui_accent: '#FDE047'
+  ui_label: '#F87171'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F2EAF8'
+  input_rule: '#A855F7'
+  response_border: '#FDE047'
+  status_bar_bg: '#221C2A'
+  status_bar_text: '#F2EAF8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5E5766'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221C2A'
+  completion_menu_bg: '#0F0818'
+  completion_menu_current_bg: '#5B4D27'
+  completion_menu_meta_bg: '#0D0714'
+  completion_menu_meta_current_bg: '#524425'
+  session_label: '#F87171'
+  session_border: '#5E5766'
+spinner:
+  waiting_faces:
+  - (✶)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✶)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - fighting monsters
+  - hiding magic
+  - keeping it secret
+  - saving the city
+  - dealing with the beasties
+  wings:
+  - - ⟪✶
+    - ✶⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Juniper Agent
+  welcome: Monster patrol active! Type your message or /help.
+  goodbye: No monsters today. Bye!
+  response_label: ' ✶ JUNIPER LEE '
+  prompt_symbol: '✶ ❯ '
+  help_header: (✶) JUNIPER LEE Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]..###[/] [#FDDC48]#...#[/] [#FDD64B]#...#[/] [#FCCE4E]#####[/] [#FCC452]####.[/] [#FBB956]#####[/] [#FBAC5B]####.[/] [#FA9F60].....[/] [#F99165]#....[/] [#F9816B]#####[/] [#F87171]#####[/]
+  [#FDE047]...#.[/] [#FDDC48]#...#[/] [#FDD64B]##..#[/] [#FCCE4E]..#..[/] [#FCC452]#...#[/] [#FBB956]#....[/] [#FBAC5B]#...#[/] [#FA9F60].....[/] [#F99165]#....[/] [#F9816B]#....[/] [#F87171]#....[/]
+  [#FDE047]...#.[/] [#FDDC48]#...#[/] [#FDD64B]#.#.#[/] [#FCCE4E]..#..[/] [#FCC452]####.[/] [#FBB956]####.[/] [#FBAC5B]####.[/] [#FA9F60].....[/] [#F99165]#....[/] [#F9816B]####.[/] [#F87171]####.[/]
+  [#FDE047]#..#.[/] [#FDDC48]#...#[/] [#FDD64B]#..##[/] [#FCCE4E]..#..[/] [#FCC452]#....[/] [#FBB956]#....[/] [#FBAC5B]#..#.[/] [#FA9F60].....[/] [#F99165]#....[/] [#F9816B]#....[/] [#F87171]#....[/]
+  [#FDE047].##..[/] [#FDDC48].###.[/] [#FDD64B]#...#[/] [#FCCE4E]#####[/] [#FCC452]#....[/] [#FBB956]#####[/] [#FBAC5B]#...#[/] [#FA9F60].....[/] [#F99165]#####[/] [#F9816B]#####[/] [#F87171]#####[/]
+banner_hero: |-
+  [#A855F7]╭────────────────────────────────────────╮[/]
+  [#F87171]✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ [/]
+  [#F87171]                                        [/]
+  [bold #FDE047]JUNIPER LEE                             [/]
+  [#F2EAF8]An 11-year-old secretly protecting the …[/]
+  [#F87171]                                        [/]
+  [#F87171]✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ [/]
+  [#A855F7]╰────────────────────────────────────────╯[/]

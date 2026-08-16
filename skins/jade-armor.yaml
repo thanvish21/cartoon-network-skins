@@ -1,0 +1,94 @@
+name: jade-armor
+description: A teen girl discovers a legendary jade armor.
+colors:
+  banner_border: '#10B981'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#54615B'
+  banner_text: '#E7F5EE'
+  ui_accent: '#FDE047'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7F5EE'
+  input_rule: '#10B981'
+  response_border: '#FDE047'
+  status_bar_bg: '#19251F'
+  status_bar_text: '#E7F5EE'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#54615B'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#19251F'
+  completion_menu_bg: '#05120C'
+  completion_menu_current_bg: '#54541F'
+  completion_menu_meta_bg: '#040F0A'
+  completion_menu_meta_current_bg: '#4A4C1D'
+  session_label: '#F59E0B'
+  session_border: '#54615B'
+spinner:
+  waiting_faces:
+  - (◈)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◈)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - powering up the jade armor
+  - protecting the city
+  - training the dragon
+  - fighting evil
+  - being a hero
+  wings:
+  - - ⟪◈
+    - ◈⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Jade Agent
+  welcome: Jade armor, activate! Type your message or /help!
+  goodbye: Armor deactivated. Stay strong!
+  response_label: ' ◈ JADE ARMOR '
+  prompt_symbol: '◈ ❯ '
+  help_header: (◈) JADE ARMOR Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]..###[/] [#FDDE45].###.[/] [#FCD941]####.[/] [#FBD33B]#####[/] [#FBCC35].....[/] [#FAC52E].###.[/] [#F9BC26]####.[/] [#F8B31E]#...#[/] [#F6A915].###.[/] [#F59E0B]####.[/]
+  [#FDE047]...#.[/] [#FDDE45]#...#[/] [#FCD941]#...#[/] [#FBD33B]#....[/] [#FBCC35].....[/] [#FAC52E]#...#[/] [#F9BC26]#...#[/] [#F8B31E]##.##[/] [#F6A915]#...#[/] [#F59E0B]#...#[/]
+  [#FDE047]...#.[/] [#FDDE45]#####[/] [#FCD941]#...#[/] [#FBD33B]####.[/] [#FBCC35].....[/] [#FAC52E]#####[/] [#F9BC26]####.[/] [#F8B31E]#.#.#[/] [#F6A915]#...#[/] [#F59E0B]####.[/]
+  [#FDE047]#..#.[/] [#FDDE45]#...#[/] [#FCD941]#...#[/] [#FBD33B]#....[/] [#FBCC35].....[/] [#FAC52E]#...#[/] [#F9BC26]#..#.[/] [#F8B31E]#...#[/] [#F6A915]#...#[/] [#F59E0B]#..#.[/]
+  [#FDE047].##..[/] [#FDDE45]#...#[/] [#FCD941]####.[/] [#FBD33B]#####[/] [#FBCC35].....[/] [#FAC52E]#...#[/] [#F9BC26]#...#[/] [#F8B31E]#...#[/] [#F6A915].###.[/] [#F59E0B]#...#[/]
+banner_hero: |-
+  [#10B981]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#F59E0B]◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ [/]
+  [#F59E0B]                                        [/]
+  [bold #FDE047]JADE ARMOR                              [/]
+  [#E7F5EE]A teen girl discovers a legendary jade …[/]
+  [#F59E0B]                                        [/]
+  [#F59E0B]◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ [/]
+  [#10B981]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

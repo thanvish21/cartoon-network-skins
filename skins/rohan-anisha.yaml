@@ -1,0 +1,94 @@
+name: rohan-anisha
+description: A boy and his alien friend's city adventures.
+colors:
+  banner_border: '#38BDF8'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#565F65'
+  banner_text: '#E9F3F8'
+  ui_accent: '#FDE047'
+  ui_label: '#F9A8D4'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F3F8'
+  input_rule: '#38BDF8'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B2229'
+  status_bar_text: '#E9F3F8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#565F65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B2229'
+  completion_menu_bg: '#070F16'
+  completion_menu_current_bg: '#565226'
+  completion_menu_meta_bg: '#060D13'
+  completion_menu_meta_current_bg: '#4C4A24'
+  session_label: '#F9A8D4'
+  session_border: '#565F65'
+spinner:
+  waiting_faces:
+  - (✱)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✱)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - going on adventures
+  - using alien powers
+  - helping the city
+  - avoiding the teacher
+  - being best friends
+  wings:
+  - - ⟪✱
+    - ✱⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Rohan Agent
+  welcome: Anisha's here! Type your message or /help!
+  goodbye: The city is safe. Bye!
+  response_label: ' ✱ ROHAN & ANISHA '
+  prompt_symbol: '✱ ❯ '
+  help_header: (✱) ROHAN & ANISHA Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#FDDF4A].###.[/] [#FDDD50]#...#[/] [#FDDA57].###.[/] [#FCD65F]#...#[/] [#FCD369].....[/] [#FCCE73].###.[/] [#FBCA7F].....[/] [#FBC58B].###.[/] [#FBC098]#...#[/] [#FABAA6]#####[/] [#FAB4B5].####[/] [#F9AEC4]#...#[/] [#F9A8D4].###.[/]
+  [#FDE047]#...#[/] [#FDDF4A]#...#[/] [#FDDD50]#...#[/] [#FDDA57]#...#[/] [#FCD65F]##..#[/] [#FCD369].....[/] [#FCCE73]#...#[/] [#FBCA7F].....[/] [#FBC58B]#...#[/] [#FBC098]##..#[/] [#FABAA6]..#..[/] [#FAB4B5]#....[/] [#F9AEC4]#...#[/] [#F9A8D4]#...#[/]
+  [#FDE047]####.[/] [#FDDF4A]#...#[/] [#FDDD50]#####[/] [#FDDA57]#####[/] [#FCD65F]#.#.#[/] [#FCD369].....[/] [#FCCE73]..#..[/] [#FBCA7F].....[/] [#FBC58B]#####[/] [#FBC098]#.#.#[/] [#FABAA6]..#..[/] [#FAB4B5].###.[/] [#F9AEC4]#####[/] [#F9A8D4]#####[/]
+  [#FDE047]#..#.[/] [#FDDF4A]#...#[/] [#FDDD50]#...#[/] [#FDDA57]#...#[/] [#FCD65F]#..##[/] [#FCD369].....[/] [#FCCE73].#.#.[/] [#FBCA7F].....[/] [#FBC58B]#...#[/] [#FBC098]#..##[/] [#FABAA6]..#..[/] [#FAB4B5]....#[/] [#F9AEC4]#...#[/] [#F9A8D4]#...#[/]
+  [#FDE047]#...#[/] [#FDDF4A].###.[/] [#FDDD50]#...#[/] [#FDDA57]#...#[/] [#FCD65F]#...#[/] [#FCD369].....[/] [#FCCE73]##..#[/] [#FBCA7F].....[/] [#FBC58B]#...#[/] [#FBC098]#...#[/] [#FABAA6]#####[/] [#FAB4B5]####.[/] [#F9AEC4]#...#[/] [#F9A8D4]#...#[/]
+banner_hero: |-
+  [#38BDF8]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#F9A8D4]✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ [/]
+  [#F9A8D4]                                        [/]
+  [bold #FDE047]ROHAN & ANISHA                          [/]
+  [#E9F3F8]A boy and his alien friend's city adven…[/]
+  [#F9A8D4]                                        [/]
+  [#F9A8D4]✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ [/]
+  [#38BDF8]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

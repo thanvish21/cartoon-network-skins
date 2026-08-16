@@ -1,0 +1,94 @@
+name: jojo-bizarre-adventure
+description: Generations of Joestars and their Stands.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5D5764'
+  banner_text: '#F2ECF8'
+  ui_accent: '#FDE047'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F2ECF8'
+  input_rule: '#A855F7'
+  response_border: '#FDE047'
+  status_bar_bg: '#201B27'
+  status_bar_text: '#F2ECF8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5D5764'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201B27'
+  completion_menu_bg: '#0D0714'
+  completion_menu_current_bg: '#5A4C24'
+  completion_menu_meta_bg: '#0B0611'
+  completion_menu_meta_current_bg: '#504422'
+  session_label: '#FACC15'
+  session_border: '#5D5764'
+spinner:
+  waiting_faces:
+  - (✣)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✣)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - posing
+  - unleashing the Stand
+  - going Za Warudo
+  - fighting vampires
+  - the journey continues
+  wings:
+  - - ⟪✣
+    - ✣⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: JoJo Agent
+  welcome: Yare yare daze. Type your message or /help.
+  goodbye: To be continued...
+  response_label: ' ✣ JOJO '
+  prompt_symbol: '✣ ❯ '
+  help_header: (✣) JOJO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]..###[/] [#FCDC3D].###.[/] [#FBD52C]..###[/] [#FACC15].###.[/]
+  [#FDE047]...#.[/] [#FCDC3D]#...#[/] [#FBD52C]...#.[/] [#FACC15]#...#[/]
+  [#FDE047]...#.[/] [#FCDC3D]#...#[/] [#FBD52C]...#.[/] [#FACC15]#...#[/]
+  [#FDE047]#..#.[/] [#FCDC3D]#...#[/] [#FBD52C]#..#.[/] [#FACC15]#...#[/]
+  [#FDE047].##..[/] [#FCDC3D].###.[/] [#FBD52C].##..[/] [#FACC15].###.[/]
+banner_hero: |-
+  [#A855F7]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#FACC15]✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ [/]
+  [#FACC15]                                        [/]
+  [bold #FDE047]JOJO                                    [/]
+  [#F2ECF8]Generations of Joestars and their Stand…[/]
+  [#FACC15]                                        [/]
+  [#FACC15]✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ ✣ [/]
+  [#A855F7]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

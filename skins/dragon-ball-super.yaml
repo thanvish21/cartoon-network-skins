@@ -1,0 +1,94 @@
+name: dragon-ball-super
+description: Gods of Destruction, tournaments and Ultra Instinct.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#A3E635'
+  banner_accent: '#A3E635'
+  banner_dim: '#5F5455'
+  banner_text: '#F7E9E9'
+  ui_accent: '#A3E635'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7E9E9'
+  input_rule: '#DC2626'
+  response_border: '#A3E635'
+  status_bar_bg: '#20181A'
+  status_bar_text: '#F7E9E9'
+  status_bar_strong: '#A3E635'
+  status_bar_dim: '#5F5455'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#20181A'
+  completion_menu_bg: '#0D0406'
+  completion_menu_current_bg: '#3D4C15'
+  completion_menu_meta_bg: '#0B0305'
+  completion_menu_meta_current_bg: '#374313'
+  session_label: '#38BDF8'
+  session_border: '#5F5455'
+spinner:
+  waiting_faces:
+  - (⭘)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⭘)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - mastering Ultra Instinct
+  - training with Whis
+  - fighting gods
+  - entering tournaments
+  - pushing past limits
+  wings:
+  - - ⟪⭘
+    - ⭘⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Super Agent
+  welcome: Dragon Ball Super! Type your message or /help!
+  goodbye: Tournament over! See you at the next universe!
+  response_label: ' ⭘ DRAGON BALL SUPER '
+  prompt_symbol: '⭘ ❯ '
+  help_header: (⭘) DRAGON BALL SUPER Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#A3E635]####.[/] [#A1E538]####.[/] [#9EE43E].###.[/] [#9AE345].####[/] [#96E14D].###.[/] [#90DF57]#...#[/] [#8ADD62].....[/] [#84DA6D]####.[/] [#7DD87A].###.[/] [#76D587]#....[/] [#6ED295]#....[/] [#66CFA4].....[/] [#5ECBB4].####[/] [#55C8C4]#...#[/] [#4BC4D5]####.[/] [#42C1E6]#####[/] [#38BDF8]####.[/]
+  [#A3E635]#...#[/] [#A1E538]#...#[/] [#9EE43E]#...#[/] [#9AE345]#....[/] [#96E14D]#...#[/] [#90DF57]##..#[/] [#8ADD62].....[/] [#84DA6D]#...#[/] [#7DD87A]#...#[/] [#76D587]#....[/] [#6ED295]#....[/] [#66CFA4].....[/] [#5ECBB4]#....[/] [#55C8C4]#...#[/] [#4BC4D5]#...#[/] [#42C1E6]#....[/] [#38BDF8]#...#[/]
+  [#A3E635]#...#[/] [#A1E538]####.[/] [#9EE43E]#####[/] [#9AE345]#..##[/] [#96E14D]#...#[/] [#90DF57]#.#.#[/] [#8ADD62].....[/] [#84DA6D]####.[/] [#7DD87A]#####[/] [#76D587]#....[/] [#6ED295]#....[/] [#66CFA4].....[/] [#5ECBB4].###.[/] [#55C8C4]#...#[/] [#4BC4D5]####.[/] [#42C1E6]####.[/] [#38BDF8]####.[/]
+  [#A3E635]#...#[/] [#A1E538]#..#.[/] [#9EE43E]#...#[/] [#9AE345]#...#[/] [#96E14D]#...#[/] [#90DF57]#..##[/] [#8ADD62].....[/] [#84DA6D]#...#[/] [#7DD87A]#...#[/] [#76D587]#....[/] [#6ED295]#....[/] [#66CFA4].....[/] [#5ECBB4]....#[/] [#55C8C4]#...#[/] [#4BC4D5]#....[/] [#42C1E6]#....[/] [#38BDF8]#..#.[/]
+  [#A3E635]####.[/] [#A1E538]#...#[/] [#9EE43E]#...#[/] [#9AE345].####[/] [#96E14D].###.[/] [#90DF57]#...#[/] [#8ADD62].....[/] [#84DA6D]####.[/] [#7DD87A]#...#[/] [#76D587]#####[/] [#6ED295]#####[/] [#66CFA4].....[/] [#5ECBB4]####.[/] [#55C8C4].###.[/] [#4BC4D5]#....[/] [#42C1E6]#####[/] [#38BDF8]#...#[/]
+banner_hero: |-
+  [#DC2626]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#38BDF8]⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ [/]
+  [#38BDF8]                                        [/]
+  [bold #A3E635]DRAGON BALL SUPER                       [/]
+  [#F7E9E9]Gods of Destruction, tournaments and Ul…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ [/]
+  [#DC2626]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

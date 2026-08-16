@@ -1,0 +1,94 @@
+name: loonatics-unleashed
+description: Futuristic descendants of the Looney Tunes saving Metropolis.
+colors:
+  banner_border: '#94A3B8'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5C5E61'
+  banner_text: '#ECEEF1'
+  ui_accent: '#FDE047'
+  ui_label: '#2DD4BF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#ECEEF1'
+  input_rule: '#94A3B8'
+  response_border: '#FDE047'
+  status_bar_bg: '#212326'
+  status_bar_text: '#ECEEF1'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5C5E61'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#212326'
+  completion_menu_bg: '#0E1013'
+  completion_menu_current_bg: '#5A5324'
+  completion_menu_meta_bg: '#0C0E10'
+  completion_menu_meta_current_bg: '#514A22'
+  session_label: '#2DD4BF'
+  session_border: '#5C5E61'
+spinner:
+  waiting_faces:
+  - (✵)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✵)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - acme-ing
+  - saving Metropolis 2771
+  - fighting crime
+  - zapping villains
+  - being super
+  wings:
+  - - ⟪✵
+    - ✵⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Loonatic Agent
+  welcome: Loonatics on the job! Type your message or /help.
+  goodbye: Metropolis is safe. Acme out!
+  response_label: ' ✵ LOONATICS '
+  prompt_symbol: '✵ ❯ '
+  help_header: (✵) LOONATICS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#....[/] [#F4DF4C].###.[/] [#E3DE56].###.[/] [#CDDD63]#...#[/] [#B3DC71].###.[/] [#96DA82]#####[/] [#76D895]#####[/] [#53D6A9].####[/] [#2DD4BF].####[/]
+  [#FDE047]#....[/] [#F4DF4C]#...#[/] [#E3DE56]#...#[/] [#CDDD63]##..#[/] [#B3DC71]#...#[/] [#96DA82]..#..[/] [#76D895]..#..[/] [#53D6A9]#....[/] [#2DD4BF]#....[/]
+  [#FDE047]#....[/] [#F4DF4C]#...#[/] [#E3DE56]#...#[/] [#CDDD63]#.#.#[/] [#B3DC71]#####[/] [#96DA82]..#..[/] [#76D895]..#..[/] [#53D6A9]#....[/] [#2DD4BF].###.[/]
+  [#FDE047]#....[/] [#F4DF4C]#...#[/] [#E3DE56]#...#[/] [#CDDD63]#..##[/] [#B3DC71]#...#[/] [#96DA82]..#..[/] [#76D895]..#..[/] [#53D6A9]#....[/] [#2DD4BF]....#[/]
+  [#FDE047]#####[/] [#F4DF4C].###.[/] [#E3DE56].###.[/] [#CDDD63]#...#[/] [#B3DC71]#...#[/] [#96DA82]..#..[/] [#76D895]#####[/] [#53D6A9].####[/] [#2DD4BF]####.[/]
+banner_hero: |-
+  [#94A3B8]╭────────────────────────────────────────╮[/]
+  [#2DD4BF]✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ [/]
+  [#2DD4BF]                                        [/]
+  [bold #FDE047]LOONATICS                               [/]
+  [#ECEEF1]Futuristic descendants of the Looney Tu…[/]
+  [#2DD4BF]                                        [/]
+  [#2DD4BF]✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ [/]
+  [#94A3B8]╰────────────────────────────────────────╯[/]

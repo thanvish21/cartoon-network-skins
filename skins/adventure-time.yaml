@@ -1,0 +1,94 @@
+name: adventure-time
+description: Finn and Jake's mathematical quests across the Land of Ooo.
+colors:
+  banner_border: '#4FC3F7'
+  banner_title: '#F472B6'
+  banner_accent: '#F472B6'
+  banner_dim: '#586066'
+  banner_text: '#E8F2F8'
+  ui_accent: '#F472B6'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8F2F8'
+  input_rule: '#4FC3F7'
+  response_border: '#F472B6'
+  status_bar_bg: '#1E252A'
+  status_bar_text: '#E8F2F8'
+  status_bar_strong: '#F472B6'
+  status_bar_dim: '#586066'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E252A'
+  completion_menu_bg: '#0A1218'
+  completion_menu_current_bg: '#55314B'
+  completion_menu_meta_bg: '#080F14'
+  completion_menu_meta_current_bg: '#4C2D44'
+  session_label: '#FDE047'
+  session_border: '#586066'
+spinner:
+  waiting_faces:
+  - (❄)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (❄)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - adventuring
+  - counting math
+  - saving Ooo
+  - exploring dungeons
+  - hanging with Jake
+  wings:
+  - - ⟪❄
+    - ❄⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Adventure Agent
+  welcome: Adventure time! Type your message or /help, dude!
+  goodbye: Mathematical! See you in Ooo!
+  response_label: ' ❄ ADVENTURE TIME '
+  prompt_symbol: '❄ ❯ '
+  help_header: (❄) ADVENTURE TIME Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F472B6].###.[/] [#F474B4]####.[/] [#F579AF]#...#[/] [#F57EAA]#####[/] [#F685A3]#...#[/] [#F68C9C]#####[/] [#F79493]#...#[/] [#F89D8A]####.[/] [#F8A780]#####[/] [#F9B176].....[/] [#FABC6B]#####[/] [#FBC860]#####[/] [#FCD454]#...#[/] [#FDE047]#####[/]
+  [#F472B6]#...#[/] [#F474B4]#...#[/] [#F579AF]#...#[/] [#F57EAA]#....[/] [#F685A3]##..#[/] [#F68C9C]..#..[/] [#F79493]#...#[/] [#F89D8A]#...#[/] [#F8A780]#....[/] [#F9B176].....[/] [#FABC6B]..#..[/] [#FBC860]..#..[/] [#FCD454]##.##[/] [#FDE047]#....[/]
+  [#F472B6]#####[/] [#F474B4]#...#[/] [#F579AF]#...#[/] [#F57EAA]####.[/] [#F685A3]#.#.#[/] [#F68C9C]..#..[/] [#F79493]#...#[/] [#F89D8A]####.[/] [#F8A780]####.[/] [#F9B176].....[/] [#FABC6B]..#..[/] [#FBC860]..#..[/] [#FCD454]#.#.#[/] [#FDE047]####.[/]
+  [#F472B6]#...#[/] [#F474B4]#...#[/] [#F579AF].#.#.[/] [#F57EAA]#....[/] [#F685A3]#..##[/] [#F68C9C]..#..[/] [#F79493]#...#[/] [#F89D8A]#..#.[/] [#F8A780]#....[/] [#F9B176].....[/] [#FABC6B]..#..[/] [#FBC860]..#..[/] [#FCD454]#...#[/] [#FDE047]#....[/]
+  [#F472B6]#...#[/] [#F474B4]####.[/] [#F579AF]..#..[/] [#F57EAA]#####[/] [#F685A3]#...#[/] [#F68C9C]..#..[/] [#F79493].###.[/] [#F89D8A]#...#[/] [#F8A780]#####[/] [#F9B176].....[/] [#FABC6B]..#..[/] [#FBC860]#####[/] [#FCD454]#...#[/] [#FDE047]#####[/]
+banner_hero: |-
+  [#4FC3F7]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#FDE047]❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ [/]
+  [#FDE047]                                        [/]
+  [bold #F472B6]ADVENTURE TIME                          [/]
+  [#E8F2F8]Finn and Jake's mathematical quests acr…[/]
+  [#FDE047]                                        [/]
+  [#FDE047]❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ ❄ [/]
+  [#4FC3F7]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

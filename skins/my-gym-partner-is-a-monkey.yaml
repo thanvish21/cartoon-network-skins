@@ -1,0 +1,94 @@
+name: my-gym-partner-is-a-monkey
+description: A boy transferred to a school for animals.
+colors:
+  banner_border: '#D97706'
+  banner_title: '#FBBF24'
+  banner_accent: '#FBBF24'
+  banner_dim: '#615B53'
+  banner_text: '#F5EEE4'
+  ui_accent: '#FBBF24'
+  ui_label: '#84CC16'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F5EEE4'
+  input_rule: '#D97706'
+  response_border: '#FBBF24'
+  status_bar_bg: '#251F19'
+  status_bar_text: '#F5EEE4'
+  status_bar_strong: '#FBBF24'
+  status_bar_dim: '#615B53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251F19'
+  completion_menu_bg: '#120C05'
+  completion_menu_current_bg: '#5D450F'
+  completion_menu_meta_bg: '#0F0A04'
+  completion_menu_meta_current_bg: '#533E0E'
+  session_label: '#84CC16'
+  session_border: '#615B53'
+spinner:
+  waiting_faces:
+  - (∿)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (∿)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - swinging by
+  - attending gym class
+  - hanging with the animals
+  - monkeying around
+  - skipping class
+  wings:
+  - - ⟪∿
+    - ∿⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Gym Partner Agent
+  welcome: Monkey business time! Type your message or /help.
+  goodbye: Class dismissed! Later!
+  response_label: ' ∿ GYM MONKEY '
+  prompt_symbol: '∿ ❯ '
+  help_header: (∿) GYM MONKEY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FBBF24].####[/] [#F7BF23]#...#[/] [#EFC023]#...#[/] [#E4C221].....[/] [#D8C320]#...#[/] [#CAC41E].###.[/] [#BAC61C]#...#[/] [#A9C81A]#...#[/] [#97CA18]#####[/] [#84CC16]#...#[/]
+  [#FBBF24]#....[/] [#F7BF23].#.#.[/] [#EFC023]##.##[/] [#E4C221].....[/] [#D8C320]##.##[/] [#CAC41E]#...#[/] [#BAC61C]##..#[/] [#A9C81A]#..#.[/] [#97CA18]#....[/] [#84CC16].#.#.[/]
+  [#FBBF24]#..##[/] [#F7BF23]..#..[/] [#EFC023]#.#.#[/] [#E4C221].....[/] [#D8C320]#.#.#[/] [#CAC41E]#...#[/] [#BAC61C]#.#.#[/] [#A9C81A]###..[/] [#97CA18]####.[/] [#84CC16]..#..[/]
+  [#FBBF24]#...#[/] [#F7BF23]..#..[/] [#EFC023]#...#[/] [#E4C221].....[/] [#D8C320]#...#[/] [#CAC41E]#...#[/] [#BAC61C]#..##[/] [#A9C81A]#..#.[/] [#97CA18]#....[/] [#84CC16]..#..[/]
+  [#FBBF24].####[/] [#F7BF23]..#..[/] [#EFC023]#...#[/] [#E4C221].....[/] [#D8C320]#...#[/] [#CAC41E].###.[/] [#BAC61C]#...#[/] [#A9C81A]#...#[/] [#97CA18]#####[/] [#84CC16]..#..[/]
+banner_hero: |-
+  [#D97706]╭────────────────────────────────────────╮[/]
+  [#84CC16]∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ [/]
+  [#84CC16]                                        [/]
+  [bold #FBBF24]GYM MONKEY                              [/]
+  [#F5EEE4]A boy transferred to a school for anima…[/]
+  [#84CC16]                                        [/]
+  [#84CC16]∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ ∿ [/]
+  [#D97706]╰────────────────────────────────────────╯[/]

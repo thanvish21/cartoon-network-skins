@@ -1,0 +1,94 @@
+name: the-problem-solverz
+description: Neon-soaked adventures with Alfe, Robo and Horace.
+colors:
+  banner_border: '#E879F9'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#63576C'
+  banner_text: '#F6EAF9'
+  ui_accent: '#FDE047'
+  ui_label: '#22D3EE'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6EAF9'
+  input_rule: '#E879F9'
+  response_border: '#FDE047'
+  status_bar_bg: '#271C32'
+  status_bar_text: '#F6EAF9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#63576C'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#271C32'
+  completion_menu_bg: '#140820'
+  completion_menu_current_bg: '#5F4D2C'
+  completion_menu_meta_bg: '#11071B'
+  completion_menu_meta_current_bg: '#55442B'
+  session_label: '#22D3EE'
+  session_border: '#63576C'
+spinner:
+  waiting_faces:
+  - (⚡)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⚡)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - solving problems
+  - dealing with it
+  - going neon
+  - helping the city
+  - being rad
+  wings:
+  - - ⟪⚡
+    - ⚡⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Problem Solver Agent
+  welcome: We can solve it! Type your message or /help.
+  goodbye: Problem solved! Later!
+  response_label: ' ⚡ PROBLEM SOLVERZ '
+  prompt_symbol: '⚡ ❯ '
+  help_header: (⚡) PROBLEM SOLVERZ Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#F9E04A]####.[/] [#F1DF50].###.[/] [#E7DF58]####.[/] [#DCDE61]#....[/] [#CEDD6B]#####[/] [#C0DC76]#...#[/] [#B0DB82].....[/] [#9EDA8F].####[/] [#8CD99D].###.[/] [#79D8AC]#....[/] [#64D7BB]#...#[/] [#4FD6CC]#####[/] [#39D4DC]####.[/] [#22D3EE]#####[/]
+  [#FDE047]#...#[/] [#F9E04A]#...#[/] [#F1DF50]#...#[/] [#E7DF58]#...#[/] [#DCDE61]#....[/] [#CEDD6B]#....[/] [#C0DC76]##.##[/] [#B0DB82].....[/] [#9EDA8F]#....[/] [#8CD99D]#...#[/] [#79D8AC]#....[/] [#64D7BB]#...#[/] [#4FD6CC]#....[/] [#39D4DC]#...#[/] [#22D3EE]...#.[/]
+  [#FDE047]####.[/] [#F9E04A]####.[/] [#F1DF50]#...#[/] [#E7DF58]####.[/] [#DCDE61]#....[/] [#CEDD6B]####.[/] [#C0DC76]#.#.#[/] [#B0DB82].....[/] [#9EDA8F].###.[/] [#8CD99D]#...#[/] [#79D8AC]#....[/] [#64D7BB]#...#[/] [#4FD6CC]####.[/] [#39D4DC]####.[/] [#22D3EE]..#..[/]
+  [#FDE047]#....[/] [#F9E04A]#..#.[/] [#F1DF50]#...#[/] [#E7DF58]#...#[/] [#DCDE61]#....[/] [#CEDD6B]#....[/] [#C0DC76]#...#[/] [#B0DB82].....[/] [#9EDA8F]....#[/] [#8CD99D]#...#[/] [#79D8AC]#....[/] [#64D7BB].#.#.[/] [#4FD6CC]#....[/] [#39D4DC]#..#.[/] [#22D3EE].#...[/]
+  [#FDE047]#....[/] [#F9E04A]#...#[/] [#F1DF50].###.[/] [#E7DF58]####.[/] [#DCDE61]#####[/] [#CEDD6B]#####[/] [#C0DC76]#...#[/] [#B0DB82].....[/] [#9EDA8F]####.[/] [#8CD99D].###.[/] [#79D8AC]#####[/] [#64D7BB]..#..[/] [#4FD6CC]#####[/] [#39D4DC]#...#[/] [#22D3EE]#####[/]
+banner_hero: |-
+  [#E879F9]╭────────────────────────────────────────╮[/]
+  [#22D3EE]⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ [/]
+  [#22D3EE]                                        [/]
+  [bold #FDE047]PROBLEM SOLVERZ                         [/]
+  [#F6EAF9]Neon-soaked adventures with Alfe, Robo …[/]
+  [#22D3EE]                                        [/]
+  [#22D3EE]⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ [/]
+  [#E879F9]╰────────────────────────────────────────╯[/]

@@ -1,0 +1,94 @@
+name: robotboy
+description: A top-secret battle robot living with a normal family.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#545A64'
+  banner_text: '#E4EAF5'
+  ui_accent: '#FACC15'
+  ui_label: '#9CA3AF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E4EAF5'
+  input_rule: '#3B82F6'
+  response_border: '#FACC15'
+  status_bar_bg: '#1B2029'
+  status_bar_text: '#E4EAF5'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#545A64'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B2029'
+  completion_menu_bg: '#070D16'
+  completion_menu_current_bg: '#554A16'
+  completion_menu_meta_bg: '#060B13'
+  completion_menu_meta_current_bg: '#4B4216'
+  session_label: '#9CA3AF'
+  session_border: '#545A64'
+spinner:
+  waiting_faces:
+  - (⬢)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⬢)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - powering up
+  - destroying targets
+  - protecting Gus
+  - charging up
+  - going super
+  wings:
+  - - ⟪⬢
+    - ⬢⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Robotboy Agent
+  welcome: Super activation! Type your message or /help, pal.
+  goodbye: Powering down. Goodbye!
+  response_label: ' ⬢ ROBOTBOY '
+  prompt_symbol: '⬢ ❯ '
+  help_header: (⬢) ROBOTBOY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]####.[/] [#F5CA1D].###.[/] [#ECC62D]####.[/] [#E0C040].###.[/] [#D1BA58]#####[/] [#C1B372]####.[/] [#AFAB8F].###.[/] [#9CA3AF]#...#[/]
+  [#FACC15]#...#[/] [#F5CA1D]#...#[/] [#ECC62D]#...#[/] [#E0C040]#...#[/] [#D1BA58]..#..[/] [#C1B372]#...#[/] [#AFAB8F]#...#[/] [#9CA3AF].#.#.[/]
+  [#FACC15]####.[/] [#F5CA1D]#...#[/] [#ECC62D]####.[/] [#E0C040]#...#[/] [#D1BA58]..#..[/] [#C1B372]####.[/] [#AFAB8F]#...#[/] [#9CA3AF]..#..[/]
+  [#FACC15]#..#.[/] [#F5CA1D]#...#[/] [#ECC62D]#...#[/] [#E0C040]#...#[/] [#D1BA58]..#..[/] [#C1B372]#...#[/] [#AFAB8F]#...#[/] [#9CA3AF]..#..[/]
+  [#FACC15]#...#[/] [#F5CA1D].###.[/] [#ECC62D]####.[/] [#E0C040].###.[/] [#D1BA58]..#..[/] [#C1B372]####.[/] [#AFAB8F].###.[/] [#9CA3AF]..#..[/]
+banner_hero: |-
+  [#3B82F6]╭────────────────────────────────────────╮[/]
+  [#9CA3AF]⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ [/]
+  [#9CA3AF]                                        [/]
+  [bold #FACC15]ROBOTBOY                                [/]
+  [#E4EAF5]A top-secret battle robot living with a…[/]
+  [#9CA3AF]                                        [/]
+  [#9CA3AF]⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ ⬢ [/]
+  [#3B82F6]╰────────────────────────────────────────╯[/]

@@ -1,0 +1,94 @@
+name: we-baby-bears
+description: The baby bears' adventures through magical portals.
+colors:
+  banner_border: '#FDBA74'
+  banner_title: '#F9A8D4'
+  banner_accent: '#F9A8D4'
+  banner_dim: '#635C56'
+  banner_text: '#F9F1E8'
+  ui_accent: '#F9A8D4'
+  ui_label: '#93C5FD'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9F1E8'
+  input_rule: '#FDBA74'
+  response_border: '#F9A8D4'
+  status_bar_bg: '#251F1C'
+  status_bar_text: '#F9F1E8'
+  status_bar_strong: '#F9A8D4'
+  status_bar_dim: '#635C56'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251F1C'
+  completion_menu_bg: '#120C08'
+  completion_menu_current_bg: '#5C3E49'
+  completion_menu_meta_bg: '#0F0A07'
+  completion_menu_meta_current_bg: '#533841'
+  session_label: '#93C5FD'
+  session_border: '#635C56'
+spinner:
+  waiting_faces:
+  - (❅)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (❅)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - baby stuff
+  - exploring
+  - going through portals
+  - making friends
+  - getting snacks
+  wings:
+  - - ⟪❅
+    - ❅⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Baby Bear Agent
+  welcome: Baby bears on the move! Type your message or /help!
+  goodbye: Portal's closing! Bye-bye!
+  response_label: ' ❅ BABY BEARS '
+  prompt_symbol: '❅ ❯ '
+  help_header: (❅) BABY BEARS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F9A8D4]####.[/] [#F5A9D6].###.[/] [#EEABD8]####.[/] [#E5AEDC]#...#[/] [#DBB1E0].....[/] [#CFB4E5]####.[/] [#C1B8EA]#####[/] [#B3BCF0].###.[/] [#A4C0F6]####.[/] [#93C5FD].####[/]
+  [#F9A8D4]#...#[/] [#F5A9D6]#...#[/] [#EEABD8]#...#[/] [#E5AEDC].#.#.[/] [#DBB1E0].....[/] [#CFB4E5]#...#[/] [#C1B8EA]#....[/] [#B3BCF0]#...#[/] [#A4C0F6]#...#[/] [#93C5FD]#....[/]
+  [#F9A8D4]####.[/] [#F5A9D6]#####[/] [#EEABD8]####.[/] [#E5AEDC]..#..[/] [#DBB1E0].....[/] [#CFB4E5]####.[/] [#C1B8EA]####.[/] [#B3BCF0]#####[/] [#A4C0F6]####.[/] [#93C5FD].###.[/]
+  [#F9A8D4]#...#[/] [#F5A9D6]#...#[/] [#EEABD8]#...#[/] [#E5AEDC]..#..[/] [#DBB1E0].....[/] [#CFB4E5]#...#[/] [#C1B8EA]#....[/] [#B3BCF0]#...#[/] [#A4C0F6]#..#.[/] [#93C5FD]....#[/]
+  [#F9A8D4]####.[/] [#F5A9D6]#...#[/] [#EEABD8]####.[/] [#E5AEDC]..#..[/] [#DBB1E0].....[/] [#CFB4E5]####.[/] [#C1B8EA]#####[/] [#B3BCF0]#...#[/] [#A4C0F6]#...#[/] [#93C5FD]####.[/]
+banner_hero: |-
+  [#FDBA74]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#93C5FD]❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ [/]
+  [#93C5FD]                                        [/]
+  [bold #F9A8D4]BABY BEARS                              [/]
+  [#F9F1E8]The baby bears' adventures through magi…[/]
+  [#93C5FD]                                        [/]
+  [#93C5FD]❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ ❅ [/]
+  [#FDBA74]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

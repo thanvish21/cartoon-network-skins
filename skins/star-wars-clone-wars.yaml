@@ -1,0 +1,94 @@
+name: star-wars-clone-wars
+description: Anakin, Obi-Wan and the clones in the Clone Wars era.
+colors:
+  banner_border: '#1D4ED8'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#535963'
+  banner_text: '#E3EBF7'
+  ui_accent: '#FDE047'
+  ui_label: '#93C5FD'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E3EBF7'
+  input_rule: '#1D4ED8'
+  response_border: '#FDE047'
+  status_bar_bg: '#191E27'
+  status_bar_text: '#E3EBF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#535963'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#191E27'
+  completion_menu_bg: '#050A14'
+  completion_menu_current_bg: '#544E24'
+  completion_menu_meta_bg: '#040811'
+  completion_menu_meta_current_bg: '#4A4622'
+  session_label: '#93C5FD'
+  session_border: '#535963'
+spinner:
+  waiting_faces:
+  - (✸)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✸)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - deploying clones
+  - fighting the Separatists
+  - defending the Republic
+  - piloting starfighters
+  - training Jedi
+  wings:
+  - - ⟪✸
+    - ✸⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Republic Agent
+  welcome: For the Republic! Type your message or /help, commander.
+  goodbye: The Republic is safe. May the Force be with you.
+  response_label: ' ✸ CLONE WARS '
+  prompt_symbol: '✸ ❯ '
+  help_header: (✸) CLONE WARS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#F9DF4E]#....[/] [#F2DD5A].###.[/] [#E9DB6A]#...#[/] [#DED87D]#####[/] [#D1D592].....[/] [#C3D1AA]#...#[/] [#B4CDC4].###.[/] [#A4C9E0]####.[/] [#93C5FD].####[/]
+  [#FDE047]#....[/] [#F9DF4E]#....[/] [#F2DD5A]#...#[/] [#E9DB6A]##..#[/] [#DED87D]#....[/] [#D1D592].....[/] [#C3D1AA]#...#[/] [#B4CDC4]#...#[/] [#A4C9E0]#...#[/] [#93C5FD]#....[/]
+  [#FDE047]#....[/] [#F9DF4E]#....[/] [#F2DD5A]#...#[/] [#E9DB6A]#.#.#[/] [#DED87D]####.[/] [#D1D592].....[/] [#C3D1AA]#.#.#[/] [#B4CDC4]#####[/] [#A4C9E0]####.[/] [#93C5FD].###.[/]
+  [#FDE047]#....[/] [#F9DF4E]#....[/] [#F2DD5A]#...#[/] [#E9DB6A]#..##[/] [#DED87D]#....[/] [#D1D592].....[/] [#C3D1AA]##.##[/] [#B4CDC4]#...#[/] [#A4C9E0]#..#.[/] [#93C5FD]....#[/]
+  [#FDE047].####[/] [#F9DF4E]#####[/] [#F2DD5A].###.[/] [#E9DB6A]#...#[/] [#DED87D]#####[/] [#D1D592].....[/] [#C3D1AA]#...#[/] [#B4CDC4]#...#[/] [#A4C9E0]#...#[/] [#93C5FD]####.[/]
+banner_hero: |-
+  [#1D4ED8]╭════════════════════════════════════════╮[/]
+  [#93C5FD]✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ [/]
+  [#93C5FD]                                        [/]
+  [bold #FDE047]CLONE WARS                              [/]
+  [#E3EBF7]Anakin, Obi-Wan and the clones in the C…[/]
+  [#93C5FD]                                        [/]
+  [#93C5FD]✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ ✸ [/]
+  [#1D4ED8]╰════════════════════════════════════════╯[/]

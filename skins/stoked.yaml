@@ -1,0 +1,94 @@
+name: stoked
+description: Six teens working a summer at a surf resort.
+colors:
+  banner_border: '#FB923C'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625B54'
+  banner_text: '#F7EEE4'
+  ui_accent: '#FDE047'
+  ui_label: '#2DD4BF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EEE4'
+  input_rule: '#FB923C'
+  response_border: '#FDE047'
+  status_bar_bg: '#251F1A'
+  status_bar_text: '#F7EEE4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625B54'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251F1A'
+  completion_menu_bg: '#120C06'
+  completion_menu_current_bg: '#5D501B'
+  completion_menu_meta_bg: '#0F0A05'
+  completion_menu_meta_current_bg: '#544718'
+  session_label: '#2DD4BF'
+  session_border: '#625B54'
+spinner:
+  waiting_faces:
+  - (≋)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (≋)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - catching waves
+  - shredding
+  - working the resort
+  - surfing
+  - hanging at the beach
+  wings:
+  - - ⟪≋
+    - ≋⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Surf Agent
+  welcome: Catch a wave! Type your message or /help, dude.
+  goodbye: Sun's down. See you on the beach!
+  response_label: ' ≋ STOKED '
+  prompt_symbol: '≋ ❯ '
+  help_header: (≋) STOKED Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#EADF52]#####[/] [#C8DD65].###.[/] [#9CDA7F]#...#[/] [#68D79D]#####[/] [#2DD4BF]####.[/]
+  [#FDE047]#....[/] [#EADF52]..#..[/] [#C8DD65]#...#[/] [#9CDA7F]#..#.[/] [#68D79D]#....[/] [#2DD4BF]#...#[/]
+  [#FDE047].###.[/] [#EADF52]..#..[/] [#C8DD65]#...#[/] [#9CDA7F]###..[/] [#68D79D]####.[/] [#2DD4BF]#...#[/]
+  [#FDE047]....#[/] [#EADF52]..#..[/] [#C8DD65]#...#[/] [#9CDA7F]#..#.[/] [#68D79D]#....[/] [#2DD4BF]#...#[/]
+  [#FDE047]####.[/] [#EADF52]..#..[/] [#C8DD65].###.[/] [#9CDA7F]#...#[/] [#68D79D]#####[/] [#2DD4BF]####.[/]
+banner_hero: |-
+  [#FB923C]╭────────────────────────────────────────╮[/]
+  [#2DD4BF]≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ [/]
+  [#2DD4BF]                                        [/]
+  [bold #FDE047]STOKED                                  [/]
+  [#F7EEE4]Six teens working a summer at a surf re…[/]
+  [#2DD4BF]                                        [/]
+  [#2DD4BF]≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ [/]
+  [#FB923C]╰────────────────────────────────────────╯[/]

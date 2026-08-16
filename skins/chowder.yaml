@@ -1,0 +1,94 @@
+name: chowder
+description: An apprentice chef with a big appetite and a bigger imagination.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#FB923C'
+  banner_accent: '#FB923C'
+  banner_dim: '#615966'
+  banner_text: '#F4ECF8'
+  ui_accent: '#FB923C'
+  ui_label: '#4ADE80'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F4ECF8'
+  input_rule: '#A855F7'
+  response_border: '#FB923C'
+  status_bar_bg: '#251E2A'
+  status_bar_text: '#F4ECF8'
+  status_bar_strong: '#FB923C'
+  status_bar_dim: '#615966'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251E2A'
+  completion_menu_bg: '#120A18'
+  completion_menu_current_bg: '#5D3624'
+  completion_menu_meta_bg: '#0F0814'
+  completion_menu_meta_current_bg: '#533022'
+  session_label: '#4ADE80'
+  session_border: '#615966'
+spinner:
+  waiting_faces:
+  - (☕)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☕)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - cooking up
+  - tasting the food
+  - snacking
+  - following recipes
+  - learning from Mung Daal
+  wings:
+  - - ⟪☕
+    - ☕⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Chowder Agent
+  welcome: Mung Daal's kitchen open! Type your message or /help, apprentice.
+  goodbye: All full! See you at the next meal!
+  response_label: ' ☕ CHOWDER '
+  prompt_symbol: '☕ ❯ '
+  help_header: (☕) CHOWDER Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FB923C].####[/] [#EF9741]#...#[/] [#D9A149].###.[/] [#BCAD54]#...#[/] [#9BBB61]####.[/] [#74CC70]#####[/] [#4ADE80]####.[/]
+  [#FB923C]#....[/] [#EF9741]#...#[/] [#D9A149]#...#[/] [#BCAD54]#...#[/] [#9BBB61]#...#[/] [#74CC70]#....[/] [#4ADE80]#...#[/]
+  [#FB923C]#....[/] [#EF9741]#####[/] [#D9A149]#...#[/] [#BCAD54]#.#.#[/] [#9BBB61]#...#[/] [#74CC70]####.[/] [#4ADE80]####.[/]
+  [#FB923C]#....[/] [#EF9741]#...#[/] [#D9A149]#...#[/] [#BCAD54]##.##[/] [#9BBB61]#...#[/] [#74CC70]#....[/] [#4ADE80]#..#.[/]
+  [#FB923C].####[/] [#EF9741]#...#[/] [#D9A149].###.[/] [#BCAD54]#...#[/] [#9BBB61]####.[/] [#74CC70]#####[/] [#4ADE80]#...#[/]
+banner_hero: |-
+  [#A855F7]╭────────────────────────────────────────╮[/]
+  [#4ADE80]☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ [/]
+  [#4ADE80]                                        [/]
+  [bold #FB923C]CHOWDER                                 [/]
+  [#F4ECF8]An apprentice chef with a big appetite …[/]
+  [#4ADE80]                                        [/]
+  [#4ADE80]☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ [/]
+  [#A855F7]╰────────────────────────────────────────╯[/]

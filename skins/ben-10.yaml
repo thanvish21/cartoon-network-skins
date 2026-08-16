@@ -1,0 +1,94 @@
+name: ben-10
+description: Classic Omnitrix series — dial in a hero and save the world.
+colors:
+  banner_border: '#16C784'
+  banner_title: '#F5F5F5'
+  banner_accent: '#F5F5F5'
+  banner_dim: '#58605A'
+  banner_text: '#EAF7EE'
+  ui_accent: '#F5F5F5'
+  ui_label: '#A7F3D0'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EAF7EE'
+  input_rule: '#16C784'
+  response_border: '#F5F5F5'
+  status_bar_bg: '#1E211E'
+  status_bar_text: '#EAF7EE'
+  status_bar_strong: '#F5F5F5'
+  status_bar_dim: '#58605A'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E211E'
+  completion_menu_bg: '#0A0E0A'
+  completion_menu_current_bg: '#555855'
+  completion_menu_meta_bg: '#080C08'
+  completion_menu_meta_current_bg: '#4C4F4C'
+  session_label: '#A7F3D0'
+  session_border: '#58605A'
+spinner:
+  waiting_faces:
+  - (⌁)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⌁)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - dialing alien DNA
+  - scanning new species
+  - unlocking the Omnitrix
+  - transforming
+  - saving the day
+  wings:
+  - - ⟪⌁
+    - ⌁⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Omnitrix Agent
+  welcome: It's hero time! Type your message or /help to save the day.
+  goodbye: Guess that's all the aliens I need. Later, hero!
+  response_label: ' ⌁ BEN 10 '
+  prompt_symbol: '⌁ ❯ '
+  help_header: (⌁) BEN 10 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F5F5F5]####.[/] [#EEF5F2]#####[/] [#E1F4EC]#...#[/] [#D1F4E4].....[/] [#BDF4DB]..#..[/] [#A7F3D0].###.[/]
+  [#F5F5F5]#...#[/] [#EEF5F2]#....[/] [#E1F4EC]##..#[/] [#D1F4E4].....[/] [#BDF4DB].##..[/] [#A7F3D0]#..##[/]
+  [#F5F5F5]####.[/] [#EEF5F2]####.[/] [#E1F4EC]#.#.#[/] [#D1F4E4].....[/] [#BDF4DB]..#..[/] [#A7F3D0]#.#.#[/]
+  [#F5F5F5]#...#[/] [#EEF5F2]#....[/] [#E1F4EC]#..##[/] [#D1F4E4].....[/] [#BDF4DB]..#..[/] [#A7F3D0]##..#[/]
+  [#F5F5F5]####.[/] [#EEF5F2]#####[/] [#E1F4EC]#...#[/] [#D1F4E4].....[/] [#BDF4DB]#####[/] [#A7F3D0].###.[/]
+banner_hero: |-
+  [#16C784]╭────────────────────────────────────────╮[/]
+  [#A7F3D0]⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ [/]
+  [#A7F3D0]                                        [/]
+  [bold #F5F5F5]BEN 10                                  [/]
+  [#EAF7EE]Classic Omnitrix series — dial in a her…[/]
+  [#A7F3D0]                                        [/]
+  [#A7F3D0]⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ ⌁ [/]
+  [#16C784]╰────────────────────────────────────────╯[/]

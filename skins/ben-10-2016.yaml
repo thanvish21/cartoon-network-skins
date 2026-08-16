@@ -1,0 +1,94 @@
+name: ben-10-2016
+description: The reboot — Ben, Gwen and Max on the road with the Omnitrix.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#38BDF8'
+  banner_accent: '#38BDF8'
+  banner_dim: '#586159'
+  banner_text: '#EAF7EC'
+  ui_accent: '#38BDF8'
+  ui_label: '#A3E635'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EAF7EC'
+  input_rule: '#22C55E'
+  response_border: '#38BDF8'
+  status_bar_bg: '#1E231E'
+  status_bar_text: '#EAF7EC'
+  status_bar_strong: '#38BDF8'
+  status_bar_dim: '#586159'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E231E'
+  completion_menu_bg: '#0A100A'
+  completion_menu_current_bg: '#194756'
+  completion_menu_meta_bg: '#080E08'
+  completion_menu_meta_current_bg: '#17404D'
+  session_label: '#A3E635'
+  session_border: '#586159'
+spinner:
+  waiting_faces:
+  - (✺)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✺)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - going hero time
+  - testing the Omnitrix
+  - sneaking past Gwen
+  - making alien choices
+  - saving the summer
+  wings:
+  - - ⟪✺
+    - ✺⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Omnitrix Agent
+  welcome: Road trip hero time! Type your message or /help to go alien.
+  goodbye: Omnitrix in sleep mode. Later, hero!
+  response_label: ' ✺ BEN 10 '
+  prompt_symbol: '✺ ❯ '
+  help_header: (✺) BEN 10 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#38BDF8]####.[/] [#42C1E7]#####[/] [#53C7C7]#...#[/] [#6AD09D].....[/] [#85DA6C]..#..[/] [#A3E635].###.[/]
+  [#38BDF8]#...#[/] [#42C1E7]#....[/] [#53C7C7]##..#[/] [#6AD09D].....[/] [#85DA6C].##..[/] [#A3E635]#..##[/]
+  [#38BDF8]####.[/] [#42C1E7]####.[/] [#53C7C7]#.#.#[/] [#6AD09D].....[/] [#85DA6C]..#..[/] [#A3E635]#.#.#[/]
+  [#38BDF8]#...#[/] [#42C1E7]#....[/] [#53C7C7]#..##[/] [#6AD09D].....[/] [#85DA6C]..#..[/] [#A3E635]##..#[/]
+  [#38BDF8]####.[/] [#42C1E7]#####[/] [#53C7C7]#...#[/] [#6AD09D].....[/] [#85DA6C]#####[/] [#A3E635].###.[/]
+banner_hero: |-
+  [#22C55E]╭────────────────────────────────────────╮[/]
+  [#A3E635]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#A3E635]                                        [/]
+  [bold #38BDF8]BEN 10                                  [/]
+  [#EAF7EC]The reboot — Ben, Gwen and Max on the r…[/]
+  [#A3E635]                                        [/]
+  [#A3E635]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#22C55E]╰────────────────────────────────────────╯[/]

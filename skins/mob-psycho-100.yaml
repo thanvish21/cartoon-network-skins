@@ -1,0 +1,94 @@
+name: mob-psycho-100
+description: A powerful psychic trying to live an ordinary life.
+colors:
+  banner_border: '#2DD4BF'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#556463'
+  banner_text: '#E7F6F5'
+  ui_accent: '#FDE047'
+  ui_label: '#A855F7'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7F6F5'
+  input_rule: '#2DD4BF'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A2827'
+  status_bar_text: '#E7F6F5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#556463'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A2827'
+  completion_menu_bg: '#061514'
+  completion_menu_current_bg: '#555624'
+  completion_menu_meta_bg: '#051211'
+  completion_menu_meta_current_bg: '#4B4E22'
+  session_label: '#A855F7'
+  session_border: '#556463'
+spinner:
+  waiting_faces:
+  - (∞)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (∞)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - counting to 100
+  - unleashing psychic energy
+  - working at the office
+  - controlling emotions
+  - reaching 100 percent
+  wings:
+  - - ⟪∞
+    - ∞⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Mob Agent
+  welcome: Counting to 100... Type your message or /help!
+  goodbye: 100%. Goodbye!
+  response_label: ' ∞ MOB PSYCHO 100 '
+  prompt_symbol: '∞ ❯ '
+  help_header: (∞) MOB PSYCHO 100 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FBDD4B].###.[/] [#F8D852]####.[/] [#F4D15B].....[/] [#EEC865]####.[/] [#E9BF71].####[/] [#E2B47E]#...#[/] [#DBA98D].####[/] [#D49D9C]#...#[/] [#CC90AC].###.[/] [#C482BE].....[/] [#BB74D0]..#..[/] [#B265E3].###.[/] [#A855F7].###.[/]
+  [#FDE047]##.##[/] [#FBDD4B]#...#[/] [#F8D852]#...#[/] [#F4D15B].....[/] [#EEC865]#...#[/] [#E9BF71]#....[/] [#E2B47E].#.#.[/] [#DBA98D]#....[/] [#D49D9C]#...#[/] [#CC90AC]#...#[/] [#C482BE].....[/] [#BB74D0].##..[/] [#B265E3]#..##[/] [#A855F7]#..##[/]
+  [#FDE047]#.#.#[/] [#FBDD4B]#...#[/] [#F8D852]####.[/] [#F4D15B].....[/] [#EEC865]####.[/] [#E9BF71].###.[/] [#E2B47E]..#..[/] [#DBA98D]#....[/] [#D49D9C]#####[/] [#CC90AC]#...#[/] [#C482BE].....[/] [#BB74D0]..#..[/] [#B265E3]#.#.#[/] [#A855F7]#.#.#[/]
+  [#FDE047]#...#[/] [#FBDD4B]#...#[/] [#F8D852]#...#[/] [#F4D15B].....[/] [#EEC865]#....[/] [#E9BF71]....#[/] [#E2B47E]..#..[/] [#DBA98D]#....[/] [#D49D9C]#...#[/] [#CC90AC]#...#[/] [#C482BE].....[/] [#BB74D0]..#..[/] [#B265E3]##..#[/] [#A855F7]##..#[/]
+  [#FDE047]#...#[/] [#FBDD4B].###.[/] [#F8D852]####.[/] [#F4D15B].....[/] [#EEC865]#....[/] [#E9BF71]####.[/] [#E2B47E]..#..[/] [#DBA98D].####[/] [#D49D9C]#...#[/] [#CC90AC].###.[/] [#C482BE].....[/] [#BB74D0]#####[/] [#B265E3].###.[/] [#A855F7].###.[/]
+banner_hero: |-
+  [#2DD4BF]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#A855F7]∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ [/]
+  [#A855F7]                                        [/]
+  [bold #FDE047]MOB PSYCHO 100                          [/]
+  [#E7F6F5]A powerful psychic trying to live an or…[/]
+  [#A855F7]                                        [/]
+  [#A855F7]∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ ∞ [/]
+  [#2DD4BF]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

@@ -1,0 +1,94 @@
+name: steven-universe
+description: A half-gem boy learning to protect Beach City with the Crystal Gems.
+colors:
+  banner_border: '#F9A8D4'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#635961'
+  banner_text: '#FAEDF4'
+  ui_accent: '#FDE047'
+  ui_label: '#93C5FD'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#FAEDF4'
+  input_rule: '#F9A8D4'
+  response_border: '#FDE047'
+  status_bar_bg: '#251E25'
+  status_bar_text: '#FAEDF4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#635961'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251E25'
+  completion_menu_bg: '#120A12'
+  completion_menu_current_bg: '#5D4E23'
+  completion_menu_meta_bg: '#0F080F'
+  completion_menu_meta_current_bg: '#544621'
+  session_label: '#93C5FD'
+  session_border: '#635961'
+spinner:
+  waiting_faces:
+  - (★)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (★)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - fusing
+  - singing
+  - protecting Beach City
+  - learning to be a gem
+  - eating cookie cats
+  wings:
+  - - ⟪★
+    - ★⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Crystal Gem Agent
+  welcome: We are the Crystal Gems! Type your message or /help.
+  goodbye: If every pork chop were perfect... goodbye!
+  response_label: ' ★ STEVEN '
+  prompt_symbol: '★ ❯ '
+  help_header: (★) STEVEN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#F4DE57]#####[/] [#E2D975]#####[/] [#CCD39C]#...#[/] [#B1CDC9]#####[/] [#93C5FD]#...#[/]
+  [#FDE047]#....[/] [#F4DE57]..#..[/] [#E2D975]#....[/] [#CCD39C]#...#[/] [#B1CDC9]#....[/] [#93C5FD]##..#[/]
+  [#FDE047].###.[/] [#F4DE57]..#..[/] [#E2D975]####.[/] [#CCD39C]#...#[/] [#B1CDC9]####.[/] [#93C5FD]#.#.#[/]
+  [#FDE047]....#[/] [#F4DE57]..#..[/] [#E2D975]#....[/] [#CCD39C].#.#.[/] [#B1CDC9]#....[/] [#93C5FD]#..##[/]
+  [#FDE047]####.[/] [#F4DE57]..#..[/] [#E2D975]#####[/] [#CCD39C]..#..[/] [#B1CDC9]#####[/] [#93C5FD]#...#[/]
+banner_hero: |-
+  [#F9A8D4]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#93C5FD]★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ [/]
+  [#93C5FD]                                        [/]
+  [bold #FDE047]STEVEN                                  [/]
+  [#FAEDF4]A half-gem boy learning to protect Beac…[/]
+  [#93C5FD]                                        [/]
+  [#93C5FD]★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ [/]
+  [#F9A8D4]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

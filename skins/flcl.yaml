@@ -1,0 +1,94 @@
+name: flcl
+description: The surreal coming-of-age story with guitars and robots.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#38BDF8'
+  banner_accent: '#38BDF8'
+  banner_dim: '#645961'
+  banner_text: '#F9EBF3'
+  ui_accent: '#38BDF8'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9EBF3'
+  input_rule: '#F472B6'
+  response_border: '#38BDF8'
+  status_bar_bg: '#261E25'
+  status_bar_text: '#F9EBF3'
+  status_bar_strong: '#38BDF8'
+  status_bar_dim: '#645961'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#261E25'
+  completion_menu_bg: '#130A12'
+  completion_menu_current_bg: '#1F435C'
+  completion_menu_meta_bg: '#10080F'
+  completion_menu_meta_current_bg: '#1D3C52'
+  session_label: '#F8FAFC'
+  session_border: '#645961'
+spinner:
+  waiting_faces:
+  - (♬)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (♬)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - hitting things with a bass guitar
+  - dealing with robots
+  - growing up
+  - eating bread
+  - going on adventures
+  wings:
+  - - ⟪♬
+    - ♬⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: FLCL Agent
+  welcome: Nothing amazing happens here... Type your message or /help.
+  goodbye: See you, Naota. Maybe.
+  response_label: ' ♬ FLCL '
+  prompt_symbol: '♬ ❯ '
+  help_header: (♬) FLCL Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#38BDF8]#####[/] [#5DC9F9]#....[/] [#A1DEFA].####[/] [#F8FAFC]#....[/]
+  [#38BDF8]#....[/] [#5DC9F9]#....[/] [#A1DEFA]#....[/] [#F8FAFC]#....[/]
+  [#38BDF8]####.[/] [#5DC9F9]#....[/] [#A1DEFA]#....[/] [#F8FAFC]#....[/]
+  [#38BDF8]#....[/] [#5DC9F9]#....[/] [#A1DEFA]#....[/] [#F8FAFC]#....[/]
+  [#38BDF8]#....[/] [#5DC9F9]#####[/] [#A1DEFA].####[/] [#F8FAFC]#####[/]
+banner_hero: |-
+  [#F472B6]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#F8FAFC]♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ [/]
+  [#F8FAFC]                                        [/]
+  [bold #38BDF8]FLCL                                    [/]
+  [#F9EBF3]The surreal coming-of-age story with gu…[/]
+  [#F8FAFC]                                        [/]
+  [#F8FAFC]♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ ♬ [/]
+  [#F472B6]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

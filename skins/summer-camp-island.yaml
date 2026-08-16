@@ -1,0 +1,94 @@
+name: summer-camp-island
+description: A magical summer camp where nothing is quite normal.
+colors:
+  banner_border: '#67E8F9'
+  banner_title: '#FDE68A'
+  banner_accent: '#FDE68A'
+  banner_dim: '#586366'
+  banner_text: '#E9F6F8'
+  ui_accent: '#FDE68A'
+  ui_label: '#F9A8D4'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F6F8'
+  input_rule: '#67E8F9'
+  response_border: '#FDE68A'
+  status_bar_bg: '#1E272A'
+  status_bar_text: '#E9F6F8'
+  status_bar_strong: '#FDE68A'
+  status_bar_dim: '#586366'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E272A'
+  completion_menu_bg: '#0A1418'
+  completion_menu_current_bg: '#58573C'
+  completion_menu_meta_bg: '#081114'
+  completion_menu_meta_current_bg: '#4E4F38'
+  session_label: '#F9A8D4'
+  session_border: '#586366'
+spinner:
+  waiting_faces:
+  - (✾)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✾)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - sending signals
+  - enjoying camp
+  - meeting magical friends
+  - exploring the island
+  - making s'mores
+  wings:
+  - - ⟪✾
+    - ✾⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Camp Agent
+  welcome: Welcome to Summer Camp Island! Type your message or /help.
+  goodbye: See you next summer!
+  response_label: ' ✾ CAMP ISLAND '
+  prompt_symbol: '✾ ❯ '
+  help_header: (✾) CAMP ISLAND Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE68A].####[/] [#FDE48C].###.[/] [#FDE091]#...#[/] [#FCDC96]####.[/] [#FCD69D].....[/] [#FCD0A4]#####[/] [#FBC9AC].####[/] [#FBC2B5]#....[/] [#FABABF].###.[/] [#FAB1C9]#...#[/] [#F9A8D4]####.[/]
+  [#FDE68A]#....[/] [#FDE48C]#...#[/] [#FDE091]##.##[/] [#FCDC96]#...#[/] [#FCD69D].....[/] [#FCD0A4]..#..[/] [#FBC9AC]#....[/] [#FBC2B5]#....[/] [#FABABF]#...#[/] [#FAB1C9]##..#[/] [#F9A8D4]#...#[/]
+  [#FDE68A]#....[/] [#FDE48C]#####[/] [#FDE091]#.#.#[/] [#FCDC96]####.[/] [#FCD69D].....[/] [#FCD0A4]..#..[/] [#FBC9AC].###.[/] [#FBC2B5]#....[/] [#FABABF]#####[/] [#FAB1C9]#.#.#[/] [#F9A8D4]#...#[/]
+  [#FDE68A]#....[/] [#FDE48C]#...#[/] [#FDE091]#...#[/] [#FCDC96]#....[/] [#FCD69D].....[/] [#FCD0A4]..#..[/] [#FBC9AC]....#[/] [#FBC2B5]#....[/] [#FABABF]#...#[/] [#FAB1C9]#..##[/] [#F9A8D4]#...#[/]
+  [#FDE68A].####[/] [#FDE48C]#...#[/] [#FDE091]#...#[/] [#FCDC96]#....[/] [#FCD69D].....[/] [#FCD0A4]#####[/] [#FBC9AC]####.[/] [#FBC2B5]#####[/] [#FABABF]#...#[/] [#FAB1C9]#...#[/] [#F9A8D4]####.[/]
+banner_hero: |-
+  [#67E8F9]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#F9A8D4]✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ [/]
+  [#F9A8D4]                                        [/]
+  [bold #FDE68A]CAMP ISLAND                             [/]
+  [#E9F6F8]A magical summer camp where nothing is …[/]
+  [#F9A8D4]                                        [/]
+  [#F9A8D4]✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ [/]
+  [#67E8F9]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

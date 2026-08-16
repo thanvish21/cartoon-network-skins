@@ -1,0 +1,94 @@
+name: sealab-2021
+description: A dysfunctional underwater research station.
+colors:
+  banner_border: '#22D3EE'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#546163'
+  banner_text: '#E6F5F7'
+  ui_accent: '#FDE047'
+  ui_label: '#FB923C'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6F5F7'
+  input_rule: '#22D3EE'
+  response_border: '#FDE047'
+  status_bar_bg: '#192527'
+  status_bar_text: '#E6F5F7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#546163'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#192527'
+  completion_menu_bg: '#051214'
+  completion_menu_current_bg: '#545424'
+  completion_menu_meta_bg: '#040F11'
+  completion_menu_meta_current_bg: '#4A4C22'
+  session_label: '#FB923C'
+  session_border: '#546163'
+spinner:
+  waiting_faces:
+  - (≈)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (≈)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working underwater
+  - dealing with the crew
+  - fixing the station
+  - diving
+  - surviving Sealab
+  wings:
+  - - ⟪≈
+    - ≈⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Sealab Agent
+  welcome: Sealab 2021 online! Type your message or /help, crew.
+  goodbye: Sealab is sinking... again. Later!
+  response_label: ' ≈ SEALAB 2021 '
+  prompt_symbol: '≈ ❯ '
+  help_header: (≈) SEALAB 2021 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDDE47]#####[/] [#FDD946].###.[/] [#FDD345]#....[/] [#FCCC44].###.[/] [#FCC443]####.[/] [#FCBC42].....[/] [#FCB241].###.[/] [#FCA83F].###.[/] [#FB9D3E].###.[/] [#FB923C]..#..[/]
+  [#FDE047]#....[/] [#FDDE47]#....[/] [#FDD946]#...#[/] [#FDD345]#....[/] [#FCCC44]#...#[/] [#FCC443]#...#[/] [#FCBC42].....[/] [#FCB241]....#[/] [#FCA83F]#..##[/] [#FB9D3E]....#[/] [#FB923C].##..[/]
+  [#FDE047].###.[/] [#FDDE47]####.[/] [#FDD946]#####[/] [#FDD345]#....[/] [#FCCC44]#####[/] [#FCC443]####.[/] [#FCBC42].....[/] [#FCB241].###.[/] [#FCA83F]#.#.#[/] [#FB9D3E].###.[/] [#FB923C]..#..[/]
+  [#FDE047]....#[/] [#FDDE47]#....[/] [#FDD946]#...#[/] [#FDD345]#....[/] [#FCCC44]#...#[/] [#FCC443]#...#[/] [#FCBC42].....[/] [#FCB241]#....[/] [#FCA83F]##..#[/] [#FB9D3E]#....[/] [#FB923C]..#..[/]
+  [#FDE047]####.[/] [#FDDE47]#####[/] [#FDD946]#...#[/] [#FDD345]#####[/] [#FCCC44]#...#[/] [#FCC443]####.[/] [#FCBC42].....[/] [#FCB241]#####[/] [#FCA83F].###.[/] [#FB9D3E]#####[/] [#FB923C]#####[/]
+banner_hero: |-
+  [#22D3EE]╭╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╮[/]
+  [#FB923C]≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ [/]
+  [#FB923C]                                        [/]
+  [bold #FDE047]SEALAB 2021                             [/]
+  [#E6F5F7]A dysfunctional underwater research sta…[/]
+  [#FB923C]                                        [/]
+  [#FB923C]≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ ≈ [/]
+  [#22D3EE]╰╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╯[/]

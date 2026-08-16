@@ -1,0 +1,94 @@
+name: apple-onion
+description: Two food friends chasing their dreams in the big city.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#615B53'
+  banner_text: '#F8F0E6'
+  ui_accent: '#FDE047'
+  ui_label: '#4ADE80'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8F0E6'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#231F18'
+  status_bar_text: '#F8F0E6'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#615B53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#231F18'
+  completion_menu_bg: '#100B04'
+  completion_menu_current_bg: '#5C4F19'
+  completion_menu_meta_bg: '#0E0903'
+  completion_menu_meta_current_bg: '#524717'
+  session_label: '#4ADE80'
+  session_border: '#615B53'
+spinner:
+  waiting_faces:
+  - (✢)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✢)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - making pancakes
+  - jamming in the city
+  - being friends
+  - chasing dreams
+  - eating snacks
+  wings:
+  - - ⟪✢
+    - ✢⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Apple Agent
+  welcome: Hey! Type your message or /help, pal!
+  goodbye: Gotta go make pancakes. Later!
+  response_label: ' ✢ APPLE & ONION '
+  prompt_symbol: '✢ ❯ '
+  help_header: (✢) APPLE & ONION Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].###.[/] [#F9E048]####.[/] [#F1E04B]####.[/] [#E7E04E]#....[/] [#DBE052]#####[/] [#CDDF56].....[/] [#BEDF5B].###.[/] [#ADDF60].....[/] [#9CDF66].###.[/] [#89DF6C]#...#[/] [#75DE72]#####[/] [#60DE79].###.[/] [#4ADE80]#...#[/]
+  [#FDE047]#...#[/] [#F9E048]#...#[/] [#F1E04B]#...#[/] [#E7E04E]#....[/] [#DBE052]#....[/] [#CDDF56].....[/] [#BEDF5B]#...#[/] [#ADDF60].....[/] [#9CDF66]#...#[/] [#89DF6C]##..#[/] [#75DE72]..#..[/] [#60DE79]#...#[/] [#4ADE80]##..#[/]
+  [#FDE047]#####[/] [#F9E048]####.[/] [#F1E04B]####.[/] [#E7E04E]#....[/] [#DBE052]####.[/] [#CDDF56].....[/] [#BEDF5B]..#..[/] [#ADDF60].....[/] [#9CDF66]#...#[/] [#89DF6C]#.#.#[/] [#75DE72]..#..[/] [#60DE79]#...#[/] [#4ADE80]#.#.#[/]
+  [#FDE047]#...#[/] [#F9E048]#....[/] [#F1E04B]#....[/] [#E7E04E]#....[/] [#DBE052]#....[/] [#CDDF56].....[/] [#BEDF5B].#.#.[/] [#ADDF60].....[/] [#9CDF66]#...#[/] [#89DF6C]#..##[/] [#75DE72]..#..[/] [#60DE79]#...#[/] [#4ADE80]#..##[/]
+  [#FDE047]#...#[/] [#F9E048]#....[/] [#F1E04B]#....[/] [#E7E04E]#####[/] [#DBE052]#####[/] [#CDDF56].....[/] [#BEDF5B]##..#[/] [#ADDF60].....[/] [#9CDF66].###.[/] [#89DF6C]#...#[/] [#75DE72]#####[/] [#60DE79].###.[/] [#4ADE80]#...#[/]
+banner_hero: |-
+  [#F97316]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#4ADE80]✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ [/]
+  [#4ADE80]                                        [/]
+  [bold #FDE047]APPLE & ONION                           [/]
+  [#F8F0E6]Two food friends chasing their dreams i…[/]
+  [#4ADE80]                                        [/]
+  [#4ADE80]✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ ✢ [/]
+  [#F97316]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

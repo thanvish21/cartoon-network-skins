@@ -1,0 +1,94 @@
+name: my-hero-academia
+description: Deku trains to become the greatest hero at UA.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#54625A'
+  banner_text: '#E8F6ED'
+  ui_accent: '#FDE047'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8F6ED'
+  input_rule: '#22C55E'
+  response_border: '#FDE047'
+  status_bar_bg: '#19251F'
+  status_bar_text: '#E8F6ED'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#54625A'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#19251F'
+  completion_menu_bg: '#05120B'
+  completion_menu_current_bg: '#54541E'
+  completion_menu_meta_bg: '#040F09'
+  completion_menu_meta_current_bg: '#4A4C1C'
+  session_label: '#EF4444'
+  session_border: '#54625A'
+spinner:
+  waiting_faces:
+  - (✤)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✤)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - going Plus Ultra
+  - training One For All
+  - studying at UA
+  - saving people
+  - becoming a hero
+  wings:
+  - - ⟪✤
+    - ✤⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Hero Agent
+  welcome: Plus Ultra! Type your message or /help, hero in training!
+  goodbye: Go beyond! Plus Ultra!
+  response_label: ' ✤ PLUS ULTRA '
+  prompt_symbol: '✤ ❯ '
+  help_header: (✤) PLUS ULTRA Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#FCDA47]#....[/] [#FCD047]#...#[/] [#FAC246].####[/] [#F9B246].....[/] [#F79F46]#...#[/] [#F58B45]#....[/] [#F37545]#####[/] [#F15D44]####.[/] [#EF4444].###.[/]
+  [#FDE047]#...#[/] [#FCDA47]#....[/] [#FCD047]#...#[/] [#FAC246]#....[/] [#F9B246].....[/] [#F79F46]#...#[/] [#F58B45]#....[/] [#F37545]..#..[/] [#F15D44]#...#[/] [#EF4444]#...#[/]
+  [#FDE047]####.[/] [#FCDA47]#....[/] [#FCD047]#...#[/] [#FAC246].###.[/] [#F9B246].....[/] [#F79F46]#...#[/] [#F58B45]#....[/] [#F37545]..#..[/] [#F15D44]####.[/] [#EF4444]#####[/]
+  [#FDE047]#....[/] [#FCDA47]#....[/] [#FCD047]#...#[/] [#FAC246]....#[/] [#F9B246].....[/] [#F79F46]#...#[/] [#F58B45]#....[/] [#F37545]..#..[/] [#F15D44]#..#.[/] [#EF4444]#...#[/]
+  [#FDE047]#....[/] [#FCDA47]#####[/] [#FCD047].###.[/] [#FAC246]####.[/] [#F9B246].....[/] [#F79F46].###.[/] [#F58B45]#####[/] [#F37545]..#..[/] [#F15D44]#...#[/] [#EF4444]#...#[/]
+banner_hero: |-
+  [#22C55E]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#EF4444]✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ [/]
+  [#EF4444]                                        [/]
+  [bold #FDE047]PLUS ULTRA                              [/]
+  [#E8F6ED]Deku trains to become the greatest hero…[/]
+  [#EF4444]                                        [/]
+  [#EF4444]✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ ✤ [/]
+  [#22C55E]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

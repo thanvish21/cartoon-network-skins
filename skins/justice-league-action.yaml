@@ -1,0 +1,94 @@
+name: justice-league-action
+description: Fast-paced, fun-sized league adventures.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#555C66'
+  banner_text: '#E6EDF7'
+  ui_accent: '#FDE047'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6EDF7'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B212A'
+  status_bar_text: '#E6EDF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#555C66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B212A'
+  completion_menu_bg: '#070E18'
+  completion_menu_current_bg: '#565127'
+  completion_menu_meta_bg: '#060C14'
+  completion_menu_meta_current_bg: '#4C4925'
+  session_label: '#EF4444'
+  session_border: '#555C66'
+spinner:
+  waiting_faces:
+  - (❯)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (❯)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - taking action
+  - saving the day
+  - teaming up
+  - fighting villains
+  - being quick
+  wings:
+  - - ⟪❯
+    - ❯⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: League Agent
+  welcome: League, action! Type your message or /help!
+  goodbye: Action over! See you next episode!
+  response_label: ' ❯ LEAGUE ACTION '
+  prompt_symbol: '❯ ❯ '
+  help_header: (❯) LEAGUE ACTION Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#....[/] [#FDDC47]#####[/] [#FCD547].###.[/] [#FBCC47].####[/] [#FAC246]#...#[/] [#F9B646]#####[/] [#F8A946].....[/] [#F79A46].###.[/] [#F58B45].####[/] [#F47B45]#####[/] [#F26945]#####[/] [#F15744].###.[/] [#EF4444]#...#[/]
+  [#FDE047]#....[/] [#FDDC47]#....[/] [#FCD547]#...#[/] [#FBCC47]#....[/] [#FAC246]#...#[/] [#F9B646]#....[/] [#F8A946].....[/] [#F79A46]#...#[/] [#F58B45]#....[/] [#F47B45]..#..[/] [#F26945]..#..[/] [#F15744]#...#[/] [#EF4444]##..#[/]
+  [#FDE047]#....[/] [#FDDC47]####.[/] [#FCD547]#####[/] [#FBCC47]#..##[/] [#FAC246]#...#[/] [#F9B646]####.[/] [#F8A946].....[/] [#F79A46]#####[/] [#F58B45]#....[/] [#F47B45]..#..[/] [#F26945]..#..[/] [#F15744]#...#[/] [#EF4444]#.#.#[/]
+  [#FDE047]#....[/] [#FDDC47]#....[/] [#FCD547]#...#[/] [#FBCC47]#...#[/] [#FAC246]#...#[/] [#F9B646]#....[/] [#F8A946].....[/] [#F79A46]#...#[/] [#F58B45]#....[/] [#F47B45]..#..[/] [#F26945]..#..[/] [#F15744]#...#[/] [#EF4444]#..##[/]
+  [#FDE047]#####[/] [#FDDC47]#####[/] [#FCD547]#...#[/] [#FBCC47].####[/] [#FAC246].###.[/] [#F9B646]#####[/] [#F8A946].....[/] [#F79A46]#...#[/] [#F58B45].####[/] [#F47B45]..#..[/] [#F26945]#####[/] [#F15744].###.[/] [#EF4444]#...#[/]
+banner_hero: |-
+  [#3B82F6]╭════════════════════════════════════════╮[/]
+  [#EF4444]❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ [/]
+  [#EF4444]                                        [/]
+  [bold #FDE047]LEAGUE ACTION                           [/]
+  [#E6EDF7]Fast-paced, fun-sized league adventures.[/]
+  [#EF4444]                                        [/]
+  [#EF4444]❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ ❯ [/]
+  [#3B82F6]╰════════════════════════════════════════╯[/]

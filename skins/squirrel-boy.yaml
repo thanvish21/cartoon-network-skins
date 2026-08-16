@@ -1,0 +1,94 @@
+name: squirrel-boy
+description: A boy and his loud, squirrel best friend.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#A3E635'
+  banner_accent: '#A3E635'
+  banner_dim: '#635952'
+  banner_text: '#F7EDE3'
+  ui_accent: '#A3E635'
+  ui_label: '#FDBA74'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EDE3'
+  input_rule: '#F97316'
+  response_border: '#A3E635'
+  status_bar_bg: '#271E18'
+  status_bar_text: '#F7EDE3'
+  status_bar_strong: '#A3E635'
+  status_bar_dim: '#635952'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#271E18'
+  completion_menu_bg: '#140A04'
+  completion_menu_current_bg: '#425014'
+  completion_menu_meta_bg: '#110803'
+  completion_menu_meta_current_bg: '#3C4812'
+  session_label: '#FDBA74'
+  session_border: '#635952'
+spinner:
+  waiting_faces:
+  - (✺)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✺)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - hoarding nuts
+  - squirreling around
+  - planning mischief
+  - chasing acorns
+  - bugging Andy
+  wings:
+  - - ⟪✺
+    - ✺⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Squirrel Agent
+  welcome: Nuts! Type your message or /help, pal.
+  goodbye: Storing nuts for later. Bye!
+  response_label: ' ✺ SQUIRREL BOY '
+  prompt_symbol: '✺ ❯ '
+  help_header: (✺) SQUIRREL BOY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#A3E635].####[/] [#A5E537].###.[/] [#AAE33A]#...#[/] [#B0E03E]#####[/] [#B7DC43]####.[/] [#BFD948]####.[/] [#C7D44E]#####[/] [#D1D055]#....[/] [#DBCB5C].....[/] [#E6C564]####.[/] [#F1C06C].###.[/] [#FDBA74]#...#[/]
+  [#A3E635]#....[/] [#A5E537]#...#[/] [#AAE33A]#...#[/] [#B0E03E]..#..[/] [#B7DC43]#...#[/] [#BFD948]#...#[/] [#C7D44E]#....[/] [#D1D055]#....[/] [#DBCB5C].....[/] [#E6C564]#...#[/] [#F1C06C]#...#[/] [#FDBA74].#.#.[/]
+  [#A3E635].###.[/] [#A5E537]#.#.#[/] [#AAE33A]#...#[/] [#B0E03E]..#..[/] [#B7DC43]####.[/] [#BFD948]####.[/] [#C7D44E]####.[/] [#D1D055]#....[/] [#DBCB5C].....[/] [#E6C564]####.[/] [#F1C06C]#...#[/] [#FDBA74]..#..[/]
+  [#A3E635]....#[/] [#A5E537]#..##[/] [#AAE33A]#...#[/] [#B0E03E]..#..[/] [#B7DC43]#..#.[/] [#BFD948]#..#.[/] [#C7D44E]#....[/] [#D1D055]#....[/] [#DBCB5C].....[/] [#E6C564]#...#[/] [#F1C06C]#...#[/] [#FDBA74]..#..[/]
+  [#A3E635]####.[/] [#A5E537].##.#[/] [#AAE33A].###.[/] [#B0E03E]#####[/] [#B7DC43]#...#[/] [#BFD948]#...#[/] [#C7D44E]#####[/] [#D1D055]#####[/] [#DBCB5C].....[/] [#E6C564]####.[/] [#F1C06C].###.[/] [#FDBA74]..#..[/]
+banner_hero: |-
+  [#F97316]╭────────────────────────────────────────╮[/]
+  [#FDBA74]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#FDBA74]                                        [/]
+  [bold #A3E635]SQUIRREL BOY                            [/]
+  [#F7EDE3]A boy and his loud, squirrel best frien…[/]
+  [#FDBA74]                                        [/]
+  [#FDBA74]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#F97316]╰────────────────────────────────────────╯[/]

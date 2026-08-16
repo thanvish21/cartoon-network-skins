@@ -1,0 +1,94 @@
+name: cowboy-bebop
+description: Bounty hunters in space, jazz in the background.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#555B65'
+  banner_text: '#E5ECF7'
+  ui_accent: '#FDE047'
+  ui_label: '#DC2626'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5ECF7'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B2029'
+  status_bar_text: '#E5ECF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#555B65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B2029'
+  completion_menu_bg: '#070D16'
+  completion_menu_current_bg: '#565126'
+  completion_menu_meta_bg: '#060B13'
+  completion_menu_meta_current_bg: '#4C4824'
+  session_label: '#DC2626'
+  session_border: '#555B65'
+spinner:
+  waiting_faces:
+  - (♪)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (♪)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - hunting bounties
+  - jamming with the Bebop crew
+  - flying the Swordfish
+  - tracking targets
+  - eating bell peppers and beef
+  wings:
+  - - ⟪♪
+    - ♪⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Bebop Agent
+  welcome: See you, space cowboy. Type your message or /help.
+  goodbye: Whatever happens, happens. Later!
+  response_label: ' ♪ COWBOY BEBOP '
+  prompt_symbol: '♪ ❯ '
+  help_header: (♪) COWBOY BEBOP Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FCDB46].###.[/] [#FAD244]#...#[/] [#F8C642]####.[/] [#F6B740].###.[/] [#F3A73D]#...#[/] [#F0953A].....[/] [#EC8236]####.[/] [#E96D33]#####[/] [#E5562F]####.[/] [#E03F2A].###.[/] [#DC2626]####.[/]
+  [#FDE047]#....[/] [#FCDB46]#...#[/] [#FAD244]#...#[/] [#F8C642]#...#[/] [#F6B740]#...#[/] [#F3A73D].#.#.[/] [#F0953A].....[/] [#EC8236]#...#[/] [#E96D33]#....[/] [#E5562F]#...#[/] [#E03F2A]#...#[/] [#DC2626]#...#[/]
+  [#FDE047]#....[/] [#FCDB46]#...#[/] [#FAD244]#.#.#[/] [#F8C642]####.[/] [#F6B740]#...#[/] [#F3A73D]..#..[/] [#F0953A].....[/] [#EC8236]####.[/] [#E96D33]####.[/] [#E5562F]####.[/] [#E03F2A]#...#[/] [#DC2626]####.[/]
+  [#FDE047]#....[/] [#FCDB46]#...#[/] [#FAD244]##.##[/] [#F8C642]#...#[/] [#F6B740]#...#[/] [#F3A73D]..#..[/] [#F0953A].....[/] [#EC8236]#...#[/] [#E96D33]#....[/] [#E5562F]#...#[/] [#E03F2A]#...#[/] [#DC2626]#....[/]
+  [#FDE047].####[/] [#FCDB46].###.[/] [#FAD244]#...#[/] [#F8C642]####.[/] [#F6B740].###.[/] [#F3A73D]..#..[/] [#F0953A].....[/] [#EC8236]####.[/] [#E96D33]#####[/] [#E5562F]####.[/] [#E03F2A].###.[/] [#DC2626]#....[/]
+banner_hero: |-
+  [#3B82F6]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#DC2626]♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ [/]
+  [#DC2626]                                        [/]
+  [bold #FDE047]COWBOY BEBOP                            [/]
+  [#E5ECF7]Bounty hunters in space, jazz in the ba…[/]
+  [#DC2626]                                        [/]
+  [#DC2626]♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ [/]
+  [#3B82F6]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

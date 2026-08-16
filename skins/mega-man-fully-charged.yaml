@@ -1,0 +1,94 @@
+name: mega-man-fully-charged
+description: The blue bomber reborn for a new generation.
+colors:
+  banner_border: '#2563EB'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#545A65'
+  banner_text: '#E5ECF7'
+  ui_accent: '#FDE047'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5ECF7'
+  input_rule: '#2563EB'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A1F29'
+  status_bar_text: '#E5ECF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#545A65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A1F29'
+  completion_menu_bg: '#060C16'
+  completion_menu_current_bg: '#555026'
+  completion_menu_meta_bg: '#050A13'
+  completion_menu_meta_current_bg: '#4B4724'
+  session_label: '#F8FAFC'
+  session_border: '#545A65'
+spinner:
+  waiting_faces:
+  - (✹)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✹)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - charging up
+  - blasting robots
+  - fighting Dr. Light's creations
+  - saving Silicon City
+  - power-ing up
+  wings:
+  - - ⟪✹
+    - ✹⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Mega Man Agent
+  welcome: Mega Man, fully charged! Type your message or /help!
+  goodbye: Power down. See you next charge!
+  response_label: ' ✹ MEGA MAN '
+  prompt_symbol: '✹ ❯ '
+  help_header: (✹) MEGA MAN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE151]#####[/] [#FCE463].####[/] [#FCE77A].###.[/] [#FBEB95].....[/] [#FAF0B4]#...#[/] [#F9F5D7].###.[/] [#F8FAFC]#...#[/]
+  [#FDE047]##.##[/] [#FDE151]#....[/] [#FCE463]#....[/] [#FCE77A]#...#[/] [#FBEB95].....[/] [#FAF0B4]##.##[/] [#F9F5D7]#...#[/] [#F8FAFC]##..#[/]
+  [#FDE047]#.#.#[/] [#FDE151]####.[/] [#FCE463]#..##[/] [#FCE77A]#####[/] [#FBEB95].....[/] [#FAF0B4]#.#.#[/] [#F9F5D7]#####[/] [#F8FAFC]#.#.#[/]
+  [#FDE047]#...#[/] [#FDE151]#....[/] [#FCE463]#...#[/] [#FCE77A]#...#[/] [#FBEB95].....[/] [#FAF0B4]#...#[/] [#F9F5D7]#...#[/] [#F8FAFC]#..##[/]
+  [#FDE047]#...#[/] [#FDE151]#####[/] [#FCE463].####[/] [#FCE77A]#...#[/] [#FBEB95].....[/] [#FAF0B4]#...#[/] [#F9F5D7]#...#[/] [#F8FAFC]#...#[/]
+banner_hero: |-
+  [#2563EB]╭────────────────────────────────────────╮[/]
+  [#F8FAFC]✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ [/]
+  [#F8FAFC]                                        [/]
+  [bold #FDE047]MEGA MAN                                [/]
+  [#E5ECF7]The blue bomber reborn for a new genera…[/]
+  [#F8FAFC]                                        [/]
+  [#F8FAFC]✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ [/]
+  [#2563EB]╰────────────────────────────────────────╯[/]

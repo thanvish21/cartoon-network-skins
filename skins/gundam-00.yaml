@@ -1,0 +1,94 @@
+name: gundam-00
+description: Celestial Being intervenes to end war with Gundams.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5F5454'
+  banner_text: '#F6E8E8'
+  ui_accent: '#FDE047'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E8E8'
+  input_rule: '#DC2626'
+  response_border: '#FDE047'
+  status_bar_bg: '#201819'
+  status_bar_text: '#F6E8E8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5F5454'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201819'
+  completion_menu_bg: '#0D0405'
+  completion_menu_current_bg: '#5A4A1A'
+  completion_menu_meta_bg: '#0B0304'
+  completion_menu_meta_current_bg: '#504217'
+  session_label: '#FACC15'
+  session_border: '#5F5454'
+spinner:
+  waiting_faces:
+  - (✩)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✩)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - intervening
+  - bringing peace with the Gundams
+  - piloting the Exia
+  - fighting for change
+  - initiating the plan
+  wings:
+  - - ⟪✩
+    - ✩⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Gundam Agent
+  welcome: GN drive online! Type your message or /help.
+  goodbye: Intervention complete. Setsuna out.
+  response_label: ' ✩ GUNDAM 00 '
+  prompt_symbol: '✩ ❯ '
+  help_header: (✩) GUNDAM 00 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDDF45]#...#[/] [#FDDE41]#...#[/] [#FCDB3C]####.[/] [#FCD935].###.[/] [#FCD62E]#...#[/] [#FBD327].....[/] [#FBD01E].###.[/] [#FACC15].###.[/]
+  [#FDE047]#....[/] [#FDDF45]#...#[/] [#FDDE41]##..#[/] [#FCDB3C]#...#[/] [#FCD935]#...#[/] [#FCD62E]##.##[/] [#FBD327].....[/] [#FBD01E]#..##[/] [#FACC15]#..##[/]
+  [#FDE047]#..##[/] [#FDDF45]#...#[/] [#FDDE41]#.#.#[/] [#FCDB3C]#...#[/] [#FCD935]#####[/] [#FCD62E]#.#.#[/] [#FBD327].....[/] [#FBD01E]#.#.#[/] [#FACC15]#.#.#[/]
+  [#FDE047]#...#[/] [#FDDF45]#...#[/] [#FDDE41]#..##[/] [#FCDB3C]#...#[/] [#FCD935]#...#[/] [#FCD62E]#...#[/] [#FBD327].....[/] [#FBD01E]##..#[/] [#FACC15]##..#[/]
+  [#FDE047].####[/] [#FDDF45].###.[/] [#FDDE41]#...#[/] [#FCDB3C]####.[/] [#FCD935]#...#[/] [#FCD62E]#...#[/] [#FBD327].....[/] [#FBD01E].###.[/] [#FACC15].###.[/]
+banner_hero: |-
+  [#DC2626]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#FACC15]✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ [/]
+  [#FACC15]                                        [/]
+  [bold #FDE047]GUNDAM 00                               [/]
+  [#F6E8E8]Celestial Being intervenes to end war w…[/]
+  [#FACC15]                                        [/]
+  [#FACC15]✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ ✩ [/]
+  [#DC2626]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

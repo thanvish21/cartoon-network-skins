@@ -1,0 +1,94 @@
+name: g-gundam
+description: The Gundam Fight tournament decides Earth's fate.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5F5454'
+  banner_text: '#F6E9E9'
+  ui_accent: '#FDE047'
+  ui_label: '#22C55E'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E9E9'
+  input_rule: '#DC2626'
+  response_border: '#FDE047'
+  status_bar_bg: '#201818'
+  status_bar_text: '#F6E9E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5F5454'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201818'
+  completion_menu_bg: '#0D0404'
+  completion_menu_current_bg: '#5A4A19'
+  completion_menu_meta_bg: '#0B0303'
+  completion_menu_meta_current_bg: '#504217'
+  session_label: '#22C55E'
+  session_border: '#5F5454'
+spinner:
+  waiting_faces:
+  - (❃)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (❃)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - fighting the Gundam Fight
+  - burning the Gundam
+  - training with the crew
+  - defending Earth
+  - going gold
+  wings:
+  - - ⟪❃
+    - ❃⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Fighter Agent
+  welcome: Gundam Fight ready! Type your message or /help, fighter!
+  goodbye: The King of Hearts wins! Later!
+  response_label: ' ❃ G GUNDAM '
+  prompt_symbol: '❃ ❯ '
+  help_header: (❃) G GUNDAM Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#F1DF48].....[/] [#DCDC4B].####[/] [#C0D84D]#...#[/] [#9ED451]#...#[/] [#79D055]####.[/] [#4FCB59].###.[/] [#22C55E]#...#[/]
+  [#FDE047]#....[/] [#F1DF48].....[/] [#DCDC4B]#....[/] [#C0D84D]#...#[/] [#9ED451]##..#[/] [#79D055]#...#[/] [#4FCB59]#...#[/] [#22C55E]##.##[/]
+  [#FDE047]#..##[/] [#F1DF48].....[/] [#DCDC4B]#..##[/] [#C0D84D]#...#[/] [#9ED451]#.#.#[/] [#79D055]#...#[/] [#4FCB59]#####[/] [#22C55E]#.#.#[/]
+  [#FDE047]#...#[/] [#F1DF48].....[/] [#DCDC4B]#...#[/] [#C0D84D]#...#[/] [#9ED451]#..##[/] [#79D055]#...#[/] [#4FCB59]#...#[/] [#22C55E]#...#[/]
+  [#FDE047].####[/] [#F1DF48].....[/] [#DCDC4B].####[/] [#C0D84D].###.[/] [#9ED451]#...#[/] [#79D055]####.[/] [#4FCB59]#...#[/] [#22C55E]#...#[/]
+banner_hero: |-
+  [#DC2626]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#22C55E]❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ [/]
+  [#22C55E]                                        [/]
+  [bold #FDE047]G GUNDAM                                [/]
+  [#F6E9E9]The Gundam Fight tournament decides Ear…[/]
+  [#22C55E]                                        [/]
+  [#22C55E]❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ ❃ [/]
+  [#DC2626]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

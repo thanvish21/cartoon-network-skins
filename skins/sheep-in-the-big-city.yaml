@@ -1,0 +1,94 @@
+name: sheep-in-the-big-city
+description: An escaped military sheep living in the big city.
+colors:
+  banner_border: '#E5E7EB'
+  banner_title: '#F87171'
+  banner_accent: '#F87171'
+  banner_dim: '#5D5F63'
+  banner_text: '#EDEFF2'
+  ui_accent: '#F87171'
+  ui_label: '#9CA3AF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EDEFF2'
+  input_rule: '#E5E7EB'
+  response_border: '#F87171'
+  status_bar_bg: '#232529'
+  status_bar_text: '#EDEFF2'
+  status_bar_strong: '#F87171'
+  status_bar_dim: '#5D5F63'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#232529'
+  completion_menu_bg: '#101216'
+  completion_menu_current_bg: '#5A3033'
+  completion_menu_meta_bg: '#0E0F13'
+  completion_menu_meta_current_bg: '#512D2F'
+  session_label: '#9CA3AF'
+  session_border: '#5D5F63'
+spinner:
+  waiting_faces:
+  - (☁)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☁)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - herding
+  - dodging the military
+  - losing the leash
+  - being woolly
+  - hiding from General Specific
+  wings:
+  - - ⟪☁
+    - ☁⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Sheep Agent
+  welcome: Baa! Type your message or /help. (That's sheep for hello.)
+  goodbye: Baa baa! Goodbye!
+  response_label: ' ☁ SHEEP '
+  prompt_symbol: '☁ ❯ '
+  help_header: (☁) SHEEP Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F87171].####[/] [#EC7779]#...#[/] [#D78387]#####[/] [#BC9199]#####[/] [#9CA3AF]####.[/]
+  [#F87171]#....[/] [#EC7779]#...#[/] [#D78387]#....[/] [#BC9199]#....[/] [#9CA3AF]#...#[/]
+  [#F87171].###.[/] [#EC7779]#####[/] [#D78387]####.[/] [#BC9199]####.[/] [#9CA3AF]####.[/]
+  [#F87171]....#[/] [#EC7779]#...#[/] [#D78387]#....[/] [#BC9199]#....[/] [#9CA3AF]#....[/]
+  [#F87171]####.[/] [#EC7779]#...#[/] [#D78387]#####[/] [#BC9199]#####[/] [#9CA3AF]#....[/]
+banner_hero: |-
+  [#E5E7EB]╭────────────────────────────────────────╮[/]
+  [#9CA3AF]☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ [/]
+  [#9CA3AF]                                        [/]
+  [bold #F87171]SHEEP                                   [/]
+  [#EDEFF2]An escaped military sheep living in the…[/]
+  [#9CA3AF]                                        [/]
+  [#9CA3AF]☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ [/]
+  [#E5E7EB]╰────────────────────────────────────────╯[/]

@@ -1,0 +1,94 @@
+name: regular-show
+description: Mordecai and Rigby's very regular, very weird park jobs.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#565D66'
+  banner_text: '#E7EEF7'
+  ui_accent: '#FDE047'
+  ui_label: '#4ADE80'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7EEF7'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1C222A'
+  status_bar_text: '#E7EEF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#565D66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1C222A'
+  completion_menu_bg: '#080F18'
+  completion_menu_current_bg: '#565227'
+  completion_menu_meta_bg: '#070D14'
+  completion_menu_meta_current_bg: '#4D4A25'
+  session_label: '#4ADE80'
+  session_border: '#565D66'
+spinner:
+  waiting_faces:
+  - (☰)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☰)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - slacking off
+  - playing video games
+  - working at the park
+  - escaping death
+  - ordering slushies
+  wings:
+  - - ⟪☰
+    - ☰⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Park Agent
+  welcome: Ooooh! Type your message or /help, dude.
+  goodbye: Alright, time to clock out. Later!
+  response_label: ' ☰ REGULAR SHOW '
+  prompt_symbol: '☰ ❯ '
+  help_header: (☰) REGULAR SHOW Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#F8E049]#####[/] [#EFE04B].####[/] [#E4E04F]#...#[/] [#D6E053]#....[/] [#C6DF58].###.[/] [#B5DF5E]####.[/] [#A2DF64].....[/] [#8EDF6A].####[/] [#79DF71]#...#[/] [#62DE78].###.[/] [#4ADE80]#...#[/]
+  [#FDE047]#...#[/] [#F8E049]#....[/] [#EFE04B]#....[/] [#E4E04F]#...#[/] [#D6E053]#....[/] [#C6DF58]#...#[/] [#B5DF5E]#...#[/] [#A2DF64].....[/] [#8EDF6A]#....[/] [#79DF71]#...#[/] [#62DE78]#...#[/] [#4ADE80]#...#[/]
+  [#FDE047]####.[/] [#F8E049]####.[/] [#EFE04B]#..##[/] [#E4E04F]#...#[/] [#D6E053]#....[/] [#C6DF58]#####[/] [#B5DF5E]####.[/] [#A2DF64].....[/] [#8EDF6A].###.[/] [#79DF71]#####[/] [#62DE78]#...#[/] [#4ADE80]#.#.#[/]
+  [#FDE047]#..#.[/] [#F8E049]#....[/] [#EFE04B]#...#[/] [#E4E04F]#...#[/] [#D6E053]#....[/] [#C6DF58]#...#[/] [#B5DF5E]#..#.[/] [#A2DF64].....[/] [#8EDF6A]....#[/] [#79DF71]#...#[/] [#62DE78]#...#[/] [#4ADE80]##.##[/]
+  [#FDE047]#...#[/] [#F8E049]#####[/] [#EFE04B].####[/] [#E4E04F].###.[/] [#D6E053]#####[/] [#C6DF58]#...#[/] [#B5DF5E]#...#[/] [#A2DF64].....[/] [#8EDF6A]####.[/] [#79DF71]#...#[/] [#62DE78].###.[/] [#4ADE80]#...#[/]
+banner_hero: |-
+  [#3B82F6]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#4ADE80]☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ [/]
+  [#4ADE80]                                        [/]
+  [bold #FDE047]REGULAR SHOW                            [/]
+  [#E7EEF7]Mordecai and Rigby's very regular, very…[/]
+  [#4ADE80]                                        [/]
+  [#4ADE80]☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ ☰ [/]
+  [#3B82F6]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

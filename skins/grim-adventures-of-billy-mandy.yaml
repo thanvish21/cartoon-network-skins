@@ -1,0 +1,94 @@
+name: grim-adventures-of-billy-mandy
+description: Grim, Billy and Mandy — the weirdest trio this side of Endsville.
+colors:
+  banner_border: '#4ADE80'
+  banner_title: '#F87171'
+  banner_accent: '#F87171'
+  banner_dim: '#576159'
+  banner_text: '#E9F6ED'
+  ui_accent: '#F87171'
+  ui_label: '#A3E635'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F6ED'
+  input_rule: '#4ADE80'
+  response_border: '#F87171'
+  status_bar_bg: '#1C241E'
+  status_bar_text: '#E9F6ED'
+  status_bar_strong: '#F87171'
+  status_bar_dim: '#576159'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1C241E'
+  completion_menu_bg: '#08110A'
+  completion_menu_current_bg: '#55302B'
+  completion_menu_meta_bg: '#070E08'
+  completion_menu_meta_current_bg: '#4B2C27'
+  session_label: '#A3E635'
+  session_border: '#576159'
+spinner:
+  waiting_faces:
+  - (☠)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☠)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - scything
+  - cursing deals
+  - enduring Billy
+  - suffering Mandy
+  - visiting Endsville
+  wings:
+  - - ⟪☠
+    - ☠⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Grim Agent
+  welcome: Heh heh heh. Type your message or /help if you dare.
+  goodbye: I'm outta here. See ya, Billy!
+  response_label: ' ☠ BILLY & MANDY '
+  prompt_symbol: '☠ ❯ '
+  help_header: (☠) BILLY & MANDY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F87171]####.[/] [#F67470]#####[/] [#F2796D]#....[/] [#ED806A]#....[/] [#E88865]#...#[/] [#E19061].....[/] [#DA9A5C].###.[/] [#D2A556].....[/] [#CAB150]#...#[/] [#C1BD4A].###.[/] [#B7CA43]#...#[/] [#ADD83C]####.[/] [#A3E635]#...#[/]
+  [#F87171]#...#[/] [#F67470]..#..[/] [#F2796D]#....[/] [#ED806A]#....[/] [#E88865].#.#.[/] [#E19061].....[/] [#DA9A5C]#...#[/] [#D2A556].....[/] [#CAB150]##.##[/] [#C1BD4A]#...#[/] [#B7CA43]##..#[/] [#ADD83C]#...#[/] [#A3E635].#.#.[/]
+  [#F87171]####.[/] [#F67470]..#..[/] [#F2796D]#....[/] [#ED806A]#....[/] [#E88865]..#..[/] [#E19061].....[/] [#DA9A5C]..#..[/] [#D2A556].....[/] [#CAB150]#.#.#[/] [#C1BD4A]#####[/] [#B7CA43]#.#.#[/] [#ADD83C]#...#[/] [#A3E635]..#..[/]
+  [#F87171]#...#[/] [#F67470]..#..[/] [#F2796D]#....[/] [#ED806A]#....[/] [#E88865]..#..[/] [#E19061].....[/] [#DA9A5C].#.#.[/] [#D2A556].....[/] [#CAB150]#...#[/] [#C1BD4A]#...#[/] [#B7CA43]#..##[/] [#ADD83C]#...#[/] [#A3E635]..#..[/]
+  [#F87171]####.[/] [#F67470]#####[/] [#F2796D]#####[/] [#ED806A]#####[/] [#E88865]..#..[/] [#E19061].....[/] [#DA9A5C]##..#[/] [#D2A556].....[/] [#CAB150]#...#[/] [#C1BD4A]#...#[/] [#B7CA43]#...#[/] [#ADD83C]####.[/] [#A3E635]..#..[/]
+banner_hero: |-
+  [#4ADE80]╭────────────────────────────────────────╮[/]
+  [#A3E635]☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ [/]
+  [#A3E635]                                        [/]
+  [bold #F87171]BILLY & MANDY                           [/]
+  [#E9F6ED]Grim, Billy and Mandy — the weirdest tr…[/]
+  [#A3E635]                                        [/]
+  [#A3E635]☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ ☠ [/]
+  [#4ADE80]╰────────────────────────────────────────╯[/]

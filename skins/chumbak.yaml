@@ -1,0 +1,94 @@
+name: chumbak
+description: A magnet-powered kid attracting adventure.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#556256'
+  banner_text: '#E8F6EA'
+  ui_accent: '#FDE047'
+  ui_label: '#FB923C'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8F6EA'
+  input_rule: '#22C55E'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A251A'
+  status_bar_text: '#E8F6EA'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#556256'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A251A'
+  completion_menu_bg: '#061206'
+  completion_menu_current_bg: '#55541B'
+  completion_menu_meta_bg: '#050F05'
+  completion_menu_meta_current_bg: '#4B4C18'
+  session_label: '#FB923C'
+  session_border: '#556256'
+spinner:
+  waiting_faces:
+  - (✿)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✿)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - magnet-izing
+  - attracting trouble
+  - using magnetic powers
+  - helping the town
+  - sticking around
+  wings:
+  - - ⟪✿
+    - ✿⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Chumbak Agent
+  welcome: Magnetic power, activate! Type your message or /help!
+  goodbye: Magnet off! See you!
+  response_label: ' ✿ CHUMBAK '
+  prompt_symbol: '✿ ❯ '
+  help_header: (✿) CHUMBAK Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDDB46]#...#[/] [#FDD145]#...#[/] [#FCC443]#...#[/] [#FCB641]####.[/] [#FBA53F].###.[/] [#FB923C]#...#[/]
+  [#FDE047]#....[/] [#FDDB46]#...#[/] [#FDD145]#...#[/] [#FCC443]##.##[/] [#FCB641]#...#[/] [#FBA53F]#...#[/] [#FB923C]#..#.[/]
+  [#FDE047]#....[/] [#FDDB46]#####[/] [#FDD145]#...#[/] [#FCC443]#.#.#[/] [#FCB641]####.[/] [#FBA53F]#####[/] [#FB923C]###..[/]
+  [#FDE047]#....[/] [#FDDB46]#...#[/] [#FDD145]#...#[/] [#FCC443]#...#[/] [#FCB641]#...#[/] [#FBA53F]#...#[/] [#FB923C]#..#.[/]
+  [#FDE047].####[/] [#FDDB46]#...#[/] [#FDD145].###.[/] [#FCC443]#...#[/] [#FCB641]####.[/] [#FBA53F]#...#[/] [#FB923C]#...#[/]
+banner_hero: |-
+  [#22C55E]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#FB923C]✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ [/]
+  [#FB923C]                                        [/]
+  [bold #FDE047]CHUMBAK                                 [/]
+  [#E8F6EA]A magnet-powered kid attracting adventu…[/]
+  [#FB923C]                                        [/]
+  [#FB923C]✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ [/]
+  [#22C55E]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

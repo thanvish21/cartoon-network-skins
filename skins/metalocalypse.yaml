@@ -1,0 +1,94 @@
+name: metalocalypse
+description: The world's greatest death metal band, Dethklok.
+colors:
+  banner_border: '#1E293B'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#56575B'
+  banner_text: '#E8EBEF'
+  ui_accent: '#FACC15'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8EBEF'
+  input_rule: '#1E293B'
+  response_border: '#FACC15'
+  status_bar_bg: '#1B1C1F'
+  status_bar_text: '#E8EBEF'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#56575B'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B1C1F'
+  completion_menu_bg: '#07080B'
+  completion_menu_current_bg: '#55470E'
+  completion_menu_meta_bg: '#060709'
+  completion_menu_meta_current_bg: '#4B3F0E'
+  session_label: '#EF4444'
+  session_border: '#56575B'
+spinner:
+  waiting_faces:
+  - (⚝)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⚝)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - being brutal
+  - rehearsing
+  - touring
+  - dealing with the Tribunal
+  - making music
+  wings:
+  - - ⟪⚝
+    - ⚝⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Dethklok Agent
+  welcome: Brutal! Type your message or /help... or face the consequences!
+  goodbye: Dethklok out! Go into the water!
+  response_label: ' ⚝ METALOCALYPSE '
+  prompt_symbol: '⚝ ❯ '
+  help_header: (⚝) METALOCALYPSE Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]#...#[/] [#FAC916]#####[/] [#F9C318]#####[/] [#F9BB1B].###.[/] [#F8B21E]#....[/] [#F7A722].###.[/] [#F69C26].####[/] [#F58F2A].###.[/] [#F4822F]#....[/] [#F37434]#...#[/] [#F26539]####.[/] [#F0553E].####[/] [#EF4444]#####[/]
+  [#FACC15]##.##[/] [#FAC916]#....[/] [#F9C318]..#..[/] [#F9BB1B]#...#[/] [#F8B21E]#....[/] [#F7A722]#...#[/] [#F69C26]#....[/] [#F58F2A]#...#[/] [#F4822F]#....[/] [#F37434].#.#.[/] [#F26539]#...#[/] [#F0553E]#....[/] [#EF4444]#....[/]
+  [#FACC15]#.#.#[/] [#FAC916]####.[/] [#F9C318]..#..[/] [#F9BB1B]#####[/] [#F8B21E]#....[/] [#F7A722]#...#[/] [#F69C26]#....[/] [#F58F2A]#####[/] [#F4822F]#....[/] [#F37434]..#..[/] [#F26539]####.[/] [#F0553E].###.[/] [#EF4444]####.[/]
+  [#FACC15]#...#[/] [#FAC916]#....[/] [#F9C318]..#..[/] [#F9BB1B]#...#[/] [#F8B21E]#....[/] [#F7A722]#...#[/] [#F69C26]#....[/] [#F58F2A]#...#[/] [#F4822F]#....[/] [#F37434]..#..[/] [#F26539]#....[/] [#F0553E]....#[/] [#EF4444]#....[/]
+  [#FACC15]#...#[/] [#FAC916]#####[/] [#F9C318]..#..[/] [#F9BB1B]#...#[/] [#F8B21E]#####[/] [#F7A722].###.[/] [#F69C26].####[/] [#F58F2A]#...#[/] [#F4822F]#####[/] [#F37434]..#..[/] [#F26539]#....[/] [#F0553E]####.[/] [#EF4444]#####[/]
+banner_hero: |-
+  [#1E293B]╭╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╮[/]
+  [#EF4444]⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ [/]
+  [#EF4444]                                        [/]
+  [bold #FACC15]METALOCALYPSE                           [/]
+  [#E8EBEF]The world's greatest death metal band, …[/]
+  [#EF4444]                                        [/]
+  [#EF4444]⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ ⚝ [/]
+  [#1E293B]╰╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╯[/]

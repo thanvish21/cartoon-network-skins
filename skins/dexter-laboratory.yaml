@@ -1,0 +1,94 @@
+name: dexter-laboratory
+description: The boy genius and his secret lab full of inventions.
+colors:
+  banner_border: '#14B8A6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#526260'
+  banner_text: '#DDF3F0'
+  ui_accent: '#FDE047'
+  ui_label: '#F472B6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#DDF3F0'
+  input_rule: '#14B8A6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B2725'
+  status_bar_text: '#DDF3F0'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#526260'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B2725'
+  completion_menu_bg: '#071412'
+  completion_menu_current_bg: '#565523'
+  completion_menu_meta_bg: '#06110F'
+  completion_menu_meta_current_bg: '#4C4D21'
+  session_label: '#F472B6'
+  session_border: '#526260'
+spinner:
+  waiting_faces:
+  - (⚗)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⚗)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - running experiments
+  - engineering a device
+  - keeping it secret
+  - avoiding Dee Dee
+  - labeling everything
+  wings:
+  - - ⟪⚗
+    - ⚗⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Dexter Agent
+  welcome: Ooo, what does this button do? Type your message or /help!
+  goodbye: Experiment complete. Goodbye!
+  response_label: ' ⚗ DEXTER''S LAB '
+  prompt_symbol: '⚗ ❯ '
+  help_header: (⚗) DEXTER'S LAB Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#FDDD4A]#####[/] [#FCD750]#...#[/] [#FCD057]#####[/] [#FBC85F]#####[/] [#FABE69]####.[/] [#F9B474]..#..[/] [#F8A87F].####[/] [#F79C8C].....[/] [#F68F99]#....[/] [#F581A7].###.[/] [#F472B6]####.[/]
+  [#FDE047]#...#[/] [#FDDD4A]#....[/] [#FCD750].#.#.[/] [#FCD057]..#..[/] [#FBC85F]#....[/] [#FABE69]#...#[/] [#F9B474]..#..[/] [#F8A87F]#....[/] [#F79C8C].....[/] [#F68F99]#....[/] [#F581A7]#...#[/] [#F472B6]#...#[/]
+  [#FDE047]#...#[/] [#FDDD4A]####.[/] [#FCD750]..#..[/] [#FCD057]..#..[/] [#FBC85F]####.[/] [#FABE69]####.[/] [#F9B474].....[/] [#F8A87F].###.[/] [#F79C8C].....[/] [#F68F99]#....[/] [#F581A7]#####[/] [#F472B6]####.[/]
+  [#FDE047]#...#[/] [#FDDD4A]#....[/] [#FCD750].#.#.[/] [#FCD057]..#..[/] [#FBC85F]#....[/] [#FABE69]#..#.[/] [#F9B474].....[/] [#F8A87F]....#[/] [#F79C8C].....[/] [#F68F99]#....[/] [#F581A7]#...#[/] [#F472B6]#...#[/]
+  [#FDE047]####.[/] [#FDDD4A]#####[/] [#FCD750]#...#[/] [#FCD057]..#..[/] [#FBC85F]#####[/] [#FABE69]#...#[/] [#F9B474].....[/] [#F8A87F]####.[/] [#F79C8C].....[/] [#F68F99]#####[/] [#F581A7]#...#[/] [#F472B6]####.[/]
+banner_hero: |-
+  [#14B8A6]╭────────────────────────────────────────╮[/]
+  [#F472B6]⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ [/]
+  [#F472B6]                                        [/]
+  [bold #FDE047]DEXTER'S LAB                            [/]
+  [#DDF3F0]The boy genius and his secret lab full …[/]
+  [#F472B6]                                        [/]
+  [#F472B6]⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ ⚗ [/]
+  [#14B8A6]╰────────────────────────────────────────╯[/]

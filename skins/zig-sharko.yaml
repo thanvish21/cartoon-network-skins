@@ -1,0 +1,94 @@
+name: zig-sharko
+description: A hyena's endless attempts to catch a mermaid.
+colors:
+  banner_border: '#22D3EE'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#546163'
+  banner_text: '#E6F5F7'
+  ui_accent: '#FDE047'
+  ui_label: '#FB923C'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6F5F7'
+  input_rule: '#22D3EE'
+  response_border: '#FDE047'
+  status_bar_bg: '#192527'
+  status_bar_text: '#E6F5F7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#546163'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#192527'
+  completion_menu_bg: '#051214'
+  completion_menu_current_bg: '#545424'
+  completion_menu_meta_bg: '#040F11'
+  completion_menu_meta_current_bg: '#4A4C22'
+  session_label: '#FB923C'
+  session_border: '#546163'
+spinner:
+  waiting_faces:
+  - (✾)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✾)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - chasing the mermaid
+  - scheming
+  - dealing with Sharko
+  - splashing around
+  - failing hilariously
+  wings:
+  - - ⟪✾
+    - ✾⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Zig Agent
+  welcome: Splash! Type your message or /help!
+  goodbye: The mermaid got away... again! Bye!
+  response_label: ' ✾ ZIG & SHARKO '
+  prompt_symbol: '✾ ❯ '
+  help_header: (✾) ZIG & SHARKO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FDDE47]#####[/] [#FDDA46].####[/] [#FDD545].....[/] [#FDCF45].###.[/] [#FCC844].....[/] [#FCC143].####[/] [#FCB841]#...#[/] [#FCB040].###.[/] [#FCA63F]####.[/] [#FB9C3D]#...#[/] [#FB923C].###.[/]
+  [#FDE047]...#.[/] [#FDDE47]..#..[/] [#FDDA46]#....[/] [#FDD545].....[/] [#FDCF45]#...#[/] [#FCC844].....[/] [#FCC143]#....[/] [#FCB841]#...#[/] [#FCB040]#...#[/] [#FCA63F]#...#[/] [#FB9C3D]#..#.[/] [#FB923C]#...#[/]
+  [#FDE047]..#..[/] [#FDDE47]..#..[/] [#FDDA46]#..##[/] [#FDD545].....[/] [#FDCF45]..#..[/] [#FCC844].....[/] [#FCC143].###.[/] [#FCB841]#####[/] [#FCB040]#####[/] [#FCA63F]####.[/] [#FB9C3D]###..[/] [#FB923C]#...#[/]
+  [#FDE047].#...[/] [#FDDE47]..#..[/] [#FDDA46]#...#[/] [#FDD545].....[/] [#FDCF45].#.#.[/] [#FCC844].....[/] [#FCC143]....#[/] [#FCB841]#...#[/] [#FCB040]#...#[/] [#FCA63F]#..#.[/] [#FB9C3D]#..#.[/] [#FB923C]#...#[/]
+  [#FDE047]#####[/] [#FDDE47]#####[/] [#FDDA46].####[/] [#FDD545].....[/] [#FDCF45]##..#[/] [#FCC844].....[/] [#FCC143]####.[/] [#FCB841]#...#[/] [#FCB040]#...#[/] [#FCA63F]#...#[/] [#FB9C3D]#...#[/] [#FB923C].###.[/]
+banner_hero: |-
+  [#22D3EE]╭────────────────────────────────────────╮[/]
+  [#FB923C]✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ [/]
+  [#FB923C]                                        [/]
+  [bold #FDE047]ZIG & SHARKO                            [/]
+  [#E6F5F7]A hyena's endless attempts to catch a m…[/]
+  [#FB923C]                                        [/]
+  [#FB923C]✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ ✾ [/]
+  [#22D3EE]╰────────────────────────────────────────╯[/]

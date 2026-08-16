@@ -1,0 +1,94 @@
+name: ed-edd-n-eddy
+description: Three friends, endless scams and one huge jawbreaker.
+colors:
+  banner_border: '#FB923C'
+  banner_title: '#FDBA74'
+  banner_accent: '#FDBA74'
+  banner_dim: '#625B52'
+  banner_text: '#F8EFE0'
+  ui_accent: '#FDBA74'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8EFE0'
+  input_rule: '#FB923C'
+  response_border: '#FDBA74'
+  status_bar_bg: '#251F19'
+  status_bar_text: '#F8EFE0'
+  status_bar_strong: '#FDBA74'
+  status_bar_dim: '#625B52'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251F19'
+  completion_menu_bg: '#120B05'
+  completion_menu_current_bg: '#5D4329'
+  completion_menu_meta_bg: '#0F0904'
+  completion_menu_meta_current_bg: '#543C24'
+  session_label: '#FDE047'
+  session_border: '#625B52'
+spinner:
+  waiting_faces:
+  - (◉)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◉)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - collecting jawbreakers
+  - scamming for quarters
+  - planning a scam
+  - double-dealing
+  - hiding from the Kankers
+  wings:
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Eddy Agent
+  welcome: Scam alert! Type your message or /help for jawbreakers.
+  goodbye: Out of jawbreakers. See ya, chowderheads!
+  response_label: ' ◉ ED EDD N EDDY '
+  prompt_symbol: '◉ ❯ '
+  help_header: (◉) ED EDD N EDDY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDBA74]#####[/] [#FDBB73]####.[/] [#FDBD71].....[/] [#FDBF6E]#####[/] [#FDC16B]####.[/] [#FDC468]####.[/] [#FDC764].....[/] [#FDCB60]#...#[/] [#FDCF5C].....[/] [#FDD357]#####[/] [#FDD752]####.[/] [#FDDB4D]####.[/] [#FDE047]#...#[/]
+  [#FDBA74]#....[/] [#FDBB73]#...#[/] [#FDBD71].....[/] [#FDBF6E]#....[/] [#FDC16B]#...#[/] [#FDC468]#...#[/] [#FDC764].....[/] [#FDCB60]##..#[/] [#FDCF5C].....[/] [#FDD357]#....[/] [#FDD752]#...#[/] [#FDDB4D]#...#[/] [#FDE047].#.#.[/]
+  [#FDBA74]####.[/] [#FDBB73]#...#[/] [#FDBD71].....[/] [#FDBF6E]####.[/] [#FDC16B]#...#[/] [#FDC468]#...#[/] [#FDC764].....[/] [#FDCB60]#.#.#[/] [#FDCF5C].....[/] [#FDD357]####.[/] [#FDD752]#...#[/] [#FDDB4D]#...#[/] [#FDE047]..#..[/]
+  [#FDBA74]#....[/] [#FDBB73]#...#[/] [#FDBD71].....[/] [#FDBF6E]#....[/] [#FDC16B]#...#[/] [#FDC468]#...#[/] [#FDC764].....[/] [#FDCB60]#..##[/] [#FDCF5C].....[/] [#FDD357]#....[/] [#FDD752]#...#[/] [#FDDB4D]#...#[/] [#FDE047]..#..[/]
+  [#FDBA74]#####[/] [#FDBB73]####.[/] [#FDBD71].....[/] [#FDBF6E]#####[/] [#FDC16B]####.[/] [#FDC468]####.[/] [#FDC764].....[/] [#FDCB60]#...#[/] [#FDCF5C].....[/] [#FDD357]#####[/] [#FDD752]####.[/] [#FDDB4D]####.[/] [#FDE047]..#..[/]
+banner_hero: |-
+  [#FB923C]╭────────────────────────────────────────╮[/]
+  [#FDE047]◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ [/]
+  [#FDE047]                                        [/]
+  [bold #FDBA74]ED EDD N EDDY                           [/]
+  [#F8EFE0]Three friends, endless scams and one hu…[/]
+  [#FDE047]                                        [/]
+  [#FDE047]◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ [/]
+  [#FB923C]╰────────────────────────────────────────╯[/]

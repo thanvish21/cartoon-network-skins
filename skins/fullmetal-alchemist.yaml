@@ -1,0 +1,94 @@
+name: fullmetal-alchemist
+description: Two brothers and the law of equivalent exchange.
+colors:
+  banner_border: '#D97706'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5E5851'
+  banner_text: '#F4EEE3'
+  ui_accent: '#FDE047'
+  ui_label: '#DC2626'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F4EEE3'
+  input_rule: '#D97706'
+  response_border: '#FDE047'
+  status_bar_bg: '#201C17'
+  status_bar_text: '#F4EEE3'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5E5851'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201C17'
+  completion_menu_bg: '#0D0803'
+  completion_menu_current_bg: '#5A4D19'
+  completion_menu_meta_bg: '#0B0703'
+  completion_menu_meta_current_bg: '#504416'
+  session_label: '#DC2626'
+  session_border: '#5E5851'
+spinner:
+  waiting_faces:
+  - (✜)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✜)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - transmuting
+  - seeking the Philosopher's Stone
+  - performing alchemy
+  - searching for answers
+  - fighting homunculi
+  wings:
+  - - ⟪✜
+    - ✜⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Alchemist Agent
+  welcome: Equivalent exchange. Type your message or /help.
+  goodbye: The Philosopher's Stone quest continues.
+  response_label: ' ✜ FULLMETAL '
+  prompt_symbol: '✜ ❯ '
+  help_header: (✜) FULLMETAL Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FCD846]#...#[/] [#F9C943]#....[/] [#F5B53F]#....[/] [#F19E3B]#...#[/] [#ED8437]#####[/] [#E86732]#####[/] [#E2482C].###.[/] [#DC2626]#....[/]
+  [#FDE047]#....[/] [#FCD846]#...#[/] [#F9C943]#....[/] [#F5B53F]#....[/] [#F19E3B]##.##[/] [#ED8437]#....[/] [#E86732]..#..[/] [#E2482C]#...#[/] [#DC2626]#....[/]
+  [#FDE047]####.[/] [#FCD846]#...#[/] [#F9C943]#....[/] [#F5B53F]#....[/] [#F19E3B]#.#.#[/] [#ED8437]####.[/] [#E86732]..#..[/] [#E2482C]#####[/] [#DC2626]#....[/]
+  [#FDE047]#....[/] [#FCD846]#...#[/] [#F9C943]#....[/] [#F5B53F]#....[/] [#F19E3B]#...#[/] [#ED8437]#....[/] [#E86732]..#..[/] [#E2482C]#...#[/] [#DC2626]#....[/]
+  [#FDE047]#....[/] [#FCD846].###.[/] [#F9C943]#####[/] [#F5B53F]#####[/] [#F19E3B]#...#[/] [#ED8437]#####[/] [#E86732]..#..[/] [#E2482C]#...#[/] [#DC2626]#####[/]
+banner_hero: |-
+  [#D97706]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#DC2626]✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ [/]
+  [#DC2626]                                        [/]
+  [bold #FDE047]FULLMETAL                               [/]
+  [#F4EEE3]Two brothers and the law of equivalent …[/]
+  [#DC2626]                                        [/]
+  [#DC2626]✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ ✜ [/]
+  [#D97706]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

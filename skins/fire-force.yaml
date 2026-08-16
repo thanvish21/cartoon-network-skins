@@ -1,0 +1,94 @@
+name: fire-force
+description: Special fire brigades fighting Infernals with flames.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#605852'
+  banner_text: '#F7EFE5'
+  ui_accent: '#FDE047'
+  ui_label: '#3B82F6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#211B17'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#605852'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#211B17'
+  completion_menu_bg: '#0E0703'
+  completion_menu_current_bg: '#5A4C19'
+  completion_menu_meta_bg: '#0C0603'
+  completion_menu_meta_current_bg: '#514416'
+  session_label: '#3B82F6'
+  session_border: '#605852'
+spinner:
+  waiting_faces:
+  - (♨)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (♨)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - igniting
+  - fighting the Infernals
+  - controlling flames
+  - training with Company 8
+  - saving civilians
+  wings:
+  - - ⟪♨
+    - ♨⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Fire Soldier Agent
+  welcome: Ignition! Type your message or /help, soldier!
+  goodbye: Fire out! Company 8 reporting in!
+  response_label: ' ♨ FIRE FORCE '
+  prompt_symbol: '♨ ❯ '
+  help_header: (♨) FIRE FORCE Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#F6DD4D]#####[/] [#E9D659]####.[/] [#D8CE69]#####[/] [#C4C47B].....[/] [#ADB98F]#####[/] [#93ADA6].###.[/] [#78A0BF]####.[/] [#5A91DA].####[/] [#3B82F6]#####[/]
+  [#FDE047]#....[/] [#F6DD4D]..#..[/] [#E9D659]#...#[/] [#D8CE69]#....[/] [#C4C47B].....[/] [#ADB98F]#....[/] [#93ADA6]#...#[/] [#78A0BF]#...#[/] [#5A91DA]#....[/] [#3B82F6]#....[/]
+  [#FDE047]####.[/] [#F6DD4D]..#..[/] [#E9D659]####.[/] [#D8CE69]####.[/] [#C4C47B].....[/] [#ADB98F]####.[/] [#93ADA6]#...#[/] [#78A0BF]####.[/] [#5A91DA]#....[/] [#3B82F6]####.[/]
+  [#FDE047]#....[/] [#F6DD4D]..#..[/] [#E9D659]#..#.[/] [#D8CE69]#....[/] [#C4C47B].....[/] [#ADB98F]#....[/] [#93ADA6]#...#[/] [#78A0BF]#..#.[/] [#5A91DA]#....[/] [#3B82F6]#....[/]
+  [#FDE047]#....[/] [#F6DD4D]#####[/] [#E9D659]#...#[/] [#D8CE69]#####[/] [#C4C47B].....[/] [#ADB98F]#....[/] [#93ADA6].###.[/] [#78A0BF]#...#[/] [#5A91DA].####[/] [#3B82F6]#####[/]
+banner_hero: |-
+  [#F97316]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#3B82F6]♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ [/]
+  [#3B82F6]                                        [/]
+  [bold #FDE047]FIRE FORCE                              [/]
+  [#F7EFE5]Special fire brigades fighting Infernal…[/]
+  [#3B82F6]                                        [/]
+  [#3B82F6]♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ ♨ [/]
+  [#F97316]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

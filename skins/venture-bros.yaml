@@ -1,0 +1,94 @@
+name: venture-bros
+description: The Venture family — failed scientists and bodyguards.
+colors:
+  banner_border: '#64748B'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#595B5E'
+  banner_text: '#EBEDF0'
+  ui_accent: '#FDE047'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EBEDF0'
+  input_rule: '#64748B'
+  response_border: '#FDE047'
+  status_bar_bg: '#1E1F22'
+  status_bar_text: '#EBEDF0'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#595B5E'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E1F22'
+  completion_menu_bg: '#0A0C0F'
+  completion_menu_current_bg: '#585021'
+  completion_menu_meta_bg: '#080A0D'
+  completion_menu_meta_current_bg: '#4E471F'
+  session_label: '#FACC15'
+  session_border: '#595B5E'
+spinner:
+  waiting_faces:
+  - (☂)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☂)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - going on adventures
+  - dealing with the Monarch
+  - inventing
+  - protecting the family
+  - failing upward
+  wings:
+  - - ⟪☂
+    - ☂⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Venture Agent
+  welcome: Go Team Venture! Type your message or /help!
+  goodbye: The compound is safe. Later!
+  response_label: ' ☂ VENTURE BROS '
+  prompt_symbol: '☂ ❯ '
+  help_header: (☂) VENTURE BROS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDDF46]#####[/] [#FDDE43]#...#[/] [#FDDD40]#####[/] [#FCDC3C]#...#[/] [#FCDA38]####.[/] [#FCD833]#####[/] [#FBD62E].....[/] [#FBD428]####.[/] [#FBD122]####.[/] [#FACF1C].###.[/] [#FACC15].####[/]
+  [#FDE047]#...#[/] [#FDDF46]#....[/] [#FDDE43]##..#[/] [#FDDD40]..#..[/] [#FCDC3C]#...#[/] [#FCDA38]#...#[/] [#FCD833]#....[/] [#FBD62E].....[/] [#FBD428]#...#[/] [#FBD122]#...#[/] [#FACF1C]#...#[/] [#FACC15]#....[/]
+  [#FDE047]#...#[/] [#FDDF46]####.[/] [#FDDE43]#.#.#[/] [#FDDD40]..#..[/] [#FCDC3C]#...#[/] [#FCDA38]####.[/] [#FCD833]####.[/] [#FBD62E].....[/] [#FBD428]####.[/] [#FBD122]####.[/] [#FACF1C]#...#[/] [#FACC15].###.[/]
+  [#FDE047].#.#.[/] [#FDDF46]#....[/] [#FDDE43]#..##[/] [#FDDD40]..#..[/] [#FCDC3C]#...#[/] [#FCDA38]#..#.[/] [#FCD833]#....[/] [#FBD62E].....[/] [#FBD428]#...#[/] [#FBD122]#..#.[/] [#FACF1C]#...#[/] [#FACC15]....#[/]
+  [#FDE047]..#..[/] [#FDDF46]#####[/] [#FDDE43]#...#[/] [#FDDD40]..#..[/] [#FCDC3C].###.[/] [#FCDA38]#...#[/] [#FCD833]#####[/] [#FBD62E].....[/] [#FBD428]####.[/] [#FBD122]#...#[/] [#FACF1C].###.[/] [#FACC15]####.[/]
+banner_hero: |-
+  [#64748B]╭╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╮[/]
+  [#FACC15]☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ [/]
+  [#FACC15]                                        [/]
+  [bold #FDE047]VENTURE BROS                            [/]
+  [#EBEDF0]The Venture family — failed scientists …[/]
+  [#FACC15]                                        [/]
+  [#FACC15]☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ ☂ [/]
+  [#64748B]╰╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╯[/]

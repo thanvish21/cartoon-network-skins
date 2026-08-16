@@ -1,0 +1,94 @@
+name: viramputin
+description: A cartoonist's characters come to life in a wild town.
+colors:
+  banner_border: '#E879F9'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#62576C'
+  banner_text: '#F6EAF9'
+  ui_accent: '#FDE047'
+  ui_label: '#22D3EE'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6EAF9'
+  input_rule: '#E879F9'
+  response_border: '#FDE047'
+  status_bar_bg: '#261C32'
+  status_bar_text: '#F6EAF9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#62576C'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#261C32'
+  completion_menu_bg: '#130820'
+  completion_menu_current_bg: '#5E4D2C'
+  completion_menu_meta_bg: '#10071B'
+  completion_menu_meta_current_bg: '#55442B'
+  session_label: '#22D3EE'
+  session_border: '#62576C'
+spinner:
+  waiting_faces:
+  - (✵)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✵)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - drawing
+  - bringing characters to life
+  - escaping the villains
+  - making cartoons
+  - having wild adventures
+  wings:
+  - - ⟪✵
+    - ✵⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Viramputin Agent
+  welcome: Cartoons alive! Type your message or /help!
+  goodbye: Ink's dry. Bye!
+  response_label: ' ✵ VIRAMPUTIN '
+  prompt_symbol: '✵ ❯ '
+  help_header: (✵) VIRAMPUTIN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#F5E04D]#####[/] [#E6DF58]####.[/] [#D3DD67].###.[/] [#BCDC78]#...#[/] [#A2DB8C]####.[/] [#86D9A2]#...#[/] [#67D7BA]#####[/] [#45D5D3]#####[/] [#22D3EE]#...#[/]
+  [#FDE047]#...#[/] [#F5E04D]..#..[/] [#E6DF58]#...#[/] [#D3DD67]#...#[/] [#BCDC78]##.##[/] [#A2DB8C]#...#[/] [#86D9A2]#...#[/] [#67D7BA]..#..[/] [#45D5D3]..#..[/] [#22D3EE]##..#[/]
+  [#FDE047]#...#[/] [#F5E04D]..#..[/] [#E6DF58]####.[/] [#D3DD67]#####[/] [#BCDC78]#.#.#[/] [#A2DB8C]####.[/] [#86D9A2]#...#[/] [#67D7BA]..#..[/] [#45D5D3]..#..[/] [#22D3EE]#.#.#[/]
+  [#FDE047].#.#.[/] [#F5E04D]..#..[/] [#E6DF58]#..#.[/] [#D3DD67]#...#[/] [#BCDC78]#...#[/] [#A2DB8C]#....[/] [#86D9A2]#...#[/] [#67D7BA]..#..[/] [#45D5D3]..#..[/] [#22D3EE]#..##[/]
+  [#FDE047]..#..[/] [#F5E04D]#####[/] [#E6DF58]#...#[/] [#D3DD67]#...#[/] [#BCDC78]#...#[/] [#A2DB8C]#....[/] [#86D9A2].###.[/] [#67D7BA]..#..[/] [#45D5D3]#####[/] [#22D3EE]#...#[/]
+banner_hero: |-
+  [#E879F9]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#22D3EE]✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ [/]
+  [#22D3EE]                                        [/]
+  [bold #FDE047]VIRAMPUTIN                              [/]
+  [#F6EAF9]A cartoonist's characters come to life …[/]
+  [#22D3EE]                                        [/]
+  [#22D3EE]✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ [/]
+  [#E879F9]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

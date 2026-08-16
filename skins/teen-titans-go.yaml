@@ -1,0 +1,94 @@
+name: teen-titans-go
+description: The Titans' silly, snack-fueled side adventures.
+colors:
+  banner_border: '#8B5CF6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5C5864'
+  banner_text: '#F1ECF8'
+  ui_accent: '#FDE047'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F1ECF8'
+  input_rule: '#8B5CF6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1F1D27'
+  status_bar_text: '#F1ECF8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5C5864'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F1D27'
+  completion_menu_bg: '#0C0914'
+  completion_menu_current_bg: '#594E24'
+  completion_menu_meta_bg: '#0A0811'
+  completion_menu_meta_current_bg: '#4F4522'
+  session_label: '#38BDF8'
+  session_border: '#5C5864'
+spinner:
+  waiting_faces:
+  - (♯)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (♯)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - silly heroing
+  - fighting over pizza
+  - singing songs
+  - arguing
+  - going to the movies
+  wings:
+  - - ⟪♯
+    - ♯⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Titan Agent
+  welcome: Titans, GO! Type your message or /help!
+  goodbye: Titans, stop! See ya!
+  response_label: ' ♯ TITANS GO '
+  prompt_symbol: '♯ ❯ '
+  help_header: (♯) TITANS GO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#F4DE4F]#####[/] [#E4DC5D]#####[/] [#D0D870].###.[/] [#B7D486]#...#[/] [#9CCF9E].####[/] [#7DC9BA].....[/] [#5CC3D8].####[/] [#38BDF8].###.[/]
+  [#FDE047]..#..[/] [#F4DE4F]..#..[/] [#E4DC5D]..#..[/] [#D0D870]#...#[/] [#B7D486]##..#[/] [#9CCF9E]#....[/] [#7DC9BA].....[/] [#5CC3D8]#....[/] [#38BDF8]#...#[/]
+  [#FDE047]..#..[/] [#F4DE4F]..#..[/] [#E4DC5D]..#..[/] [#D0D870]#####[/] [#B7D486]#.#.#[/] [#9CCF9E].###.[/] [#7DC9BA].....[/] [#5CC3D8]#..##[/] [#38BDF8]#...#[/]
+  [#FDE047]..#..[/] [#F4DE4F]..#..[/] [#E4DC5D]..#..[/] [#D0D870]#...#[/] [#B7D486]#..##[/] [#9CCF9E]....#[/] [#7DC9BA].....[/] [#5CC3D8]#...#[/] [#38BDF8]#...#[/]
+  [#FDE047]..#..[/] [#F4DE4F]#####[/] [#E4DC5D]..#..[/] [#D0D870]#...#[/] [#B7D486]#...#[/] [#9CCF9E]####.[/] [#7DC9BA].....[/] [#5CC3D8].####[/] [#38BDF8].###.[/]
+banner_hero: |-
+  [#8B5CF6]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#38BDF8]♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ [/]
+  [#38BDF8]                                        [/]
+  [bold #FDE047]TITANS GO                               [/]
+  [#F1ECF8]The Titans' silly, snack-fueled side ad…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ ♯ [/]
+  [#8B5CF6]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

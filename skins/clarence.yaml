@@ -1,0 +1,94 @@
+name: clarence
+description: A relentlessly sunny kid and his friends in Aberdale.
+colors:
+  banner_border: '#FACC15'
+  banner_title: '#FB923C'
+  banner_accent: '#FB923C'
+  banner_dim: '#636056'
+  banner_text: '#F9F5E8'
+  ui_accent: '#FB923C'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9F5E8'
+  input_rule: '#FACC15'
+  response_border: '#FB923C'
+  status_bar_bg: '#25231C'
+  status_bar_text: '#F9F5E8'
+  status_bar_strong: '#FB923C'
+  status_bar_dim: '#636056'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#25231C'
+  completion_menu_bg: '#121008'
+  completion_menu_current_bg: '#5D3A19'
+  completion_menu_meta_bg: '#0F0E07'
+  completion_menu_meta_current_bg: '#533417'
+  session_label: '#38BDF8'
+  session_border: '#636056'
+spinner:
+  waiting_faces:
+  - (☼)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☼)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - playing outside
+  - being sunny
+  - making friends
+  - exploring Aberdale
+  - having fun
+  wings:
+  - - ⟪☼
+    - ☼⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Clarence Agent
+  welcome: Woo! Type your message or /help, buddy!
+  goodbye: Sun's going down. See ya!
+  response_label: ' ☼ CLARENCE '
+  prompt_symbol: '☼ ❯ '
+  help_header: (☼) CLARENCE Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FB923C].####[/] [#F09446]#....[/] [#DD9959].###.[/] [#C49E71]####.[/] [#A7A58D]#####[/] [#85ACAD]#...#[/] [#60B4D1].####[/] [#38BDF8]#####[/]
+  [#FB923C]#....[/] [#F09446]#....[/] [#DD9959]#...#[/] [#C49E71]#...#[/] [#A7A58D]#....[/] [#85ACAD]##..#[/] [#60B4D1]#....[/] [#38BDF8]#....[/]
+  [#FB923C]#....[/] [#F09446]#....[/] [#DD9959]#####[/] [#C49E71]####.[/] [#A7A58D]####.[/] [#85ACAD]#.#.#[/] [#60B4D1]#....[/] [#38BDF8]####.[/]
+  [#FB923C]#....[/] [#F09446]#....[/] [#DD9959]#...#[/] [#C49E71]#..#.[/] [#A7A58D]#....[/] [#85ACAD]#..##[/] [#60B4D1]#....[/] [#38BDF8]#....[/]
+  [#FB923C].####[/] [#F09446]#####[/] [#DD9959]#...#[/] [#C49E71]#...#[/] [#A7A58D]#####[/] [#85ACAD]#...#[/] [#60B4D1].####[/] [#38BDF8]#####[/]
+banner_hero: |-
+  [#FACC15]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#38BDF8]☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ [/]
+  [#38BDF8]                                        [/]
+  [bold #FB923C]CLARENCE                                [/]
+  [#F9F5E8]A relentlessly sunny kid and his friend…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ [/]
+  [#FACC15]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

@@ -1,0 +1,94 @@
+name: ben-10-alien-force
+description: Teen Ben leads a team against the Highbreed invasion.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FFFFFF'
+  banner_accent: '#FFFFFF'
+  banner_dim: '#50555E'
+  banner_text: '#DCE6F5'
+  ui_accent: '#FFFFFF'
+  ui_label: '#93C5FD'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#DCE6F5'
+  input_rule: '#3B82F6'
+  response_border: '#FFFFFF'
+  status_bar_bg: '#191B20'
+  status_bar_text: '#DCE6F5'
+  status_bar_strong: '#FFFFFF'
+  status_bar_dim: '#50555E'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#191B20'
+  completion_menu_bg: '#05070D'
+  completion_menu_current_bg: '#55565A'
+  completion_menu_meta_bg: '#04060B'
+  completion_menu_meta_current_bg: '#4B4C51'
+  session_label: '#93C5FD'
+  session_border: '#50555E'
+spinner:
+  waiting_faces:
+  - (◈)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◈)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - assembling the team
+  - tracking the Highbreed
+  - summoning aliens
+  - mapping the galaxy
+  - leading the charge
+  wings:
+  - - ⟪◈
+    - ◈⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Alien Force Agent
+  welcome: Alien Force online. Type your message or /help to join the team.
+  goodbye: Deactivating the Omnitrix. See you, hero.
+  response_label: ' ◈ ALIEN FORCE '
+  prompt_symbol: '◈ ❯ '
+  help_header: (◈) ALIEN FORCE Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FFFFFF].###.[/] [#FCFDFF]#....[/] [#F5FAFF]#####[/] [#EDF5FF]#####[/] [#E4F0FE]#...#[/] [#D9EAFE].....[/] [#CDE4FE]#####[/] [#C0DDFE].###.[/] [#B2D5FE]####.[/] [#A3CDFD].####[/] [#93C5FD]#####[/]
+  [#FFFFFF]#...#[/] [#FCFDFF]#....[/] [#F5FAFF]..#..[/] [#EDF5FF]#....[/] [#E4F0FE]##..#[/] [#D9EAFE].....[/] [#CDE4FE]#....[/] [#C0DDFE]#...#[/] [#B2D5FE]#...#[/] [#A3CDFD]#....[/] [#93C5FD]#....[/]
+  [#FFFFFF]#####[/] [#FCFDFF]#....[/] [#F5FAFF]..#..[/] [#EDF5FF]####.[/] [#E4F0FE]#.#.#[/] [#D9EAFE].....[/] [#CDE4FE]####.[/] [#C0DDFE]#...#[/] [#B2D5FE]####.[/] [#A3CDFD]#....[/] [#93C5FD]####.[/]
+  [#FFFFFF]#...#[/] [#FCFDFF]#....[/] [#F5FAFF]..#..[/] [#EDF5FF]#....[/] [#E4F0FE]#..##[/] [#D9EAFE].....[/] [#CDE4FE]#....[/] [#C0DDFE]#...#[/] [#B2D5FE]#..#.[/] [#A3CDFD]#....[/] [#93C5FD]#....[/]
+  [#FFFFFF]#...#[/] [#FCFDFF]#####[/] [#F5FAFF]#####[/] [#EDF5FF]#####[/] [#E4F0FE]#...#[/] [#D9EAFE].....[/] [#CDE4FE]#....[/] [#C0DDFE].###.[/] [#B2D5FE]#...#[/] [#A3CDFD].####[/] [#93C5FD]#####[/]
+banner_hero: |-
+  [#3B82F6]╭────────────────────────────────────────╮[/]
+  [#93C5FD]◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ [/]
+  [#93C5FD]                                        [/]
+  [bold #FFFFFF]ALIEN FORCE                             [/]
+  [#DCE6F5]Teen Ben leads a team against the Highb…[/]
+  [#93C5FD]                                        [/]
+  [#93C5FD]◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ [/]
+  [#3B82F6]╰────────────────────────────────────────╯[/]

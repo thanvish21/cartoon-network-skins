@@ -1,0 +1,94 @@
+name: garfield-show
+description: The lasagna-loving cat and his friends.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#605A52'
+  banner_text: '#F7EFE4'
+  ui_accent: '#FDE047'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE4'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#221D17'
+  status_bar_text: '#F7EFE4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#605A52'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221D17'
+  completion_menu_bg: '#0F0903'
+  completion_menu_current_bg: '#5B4E19'
+  completion_menu_meta_bg: '#0D0803'
+  completion_menu_meta_current_bg: '#524516'
+  session_label: '#FACC15'
+  session_border: '#605A52'
+spinner:
+  waiting_faces:
+  - (✿)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✿)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - eating lasagna
+  - napping
+  - annoying Jon
+  - outsmarting Odie
+  - hating Mondays
+  wings:
+  - - ⟪✿
+    - ✿⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Garfield Agent
+  welcome: I hate Mondays. Type your message or /help... and bring lasagna.
+  goodbye: Time for a nap. Goodbye!
+  response_label: ' ✿ GARFIELD '
+  prompt_symbol: '✿ ❯ '
+  help_header: (✿) GARFIELD Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDDF44].###.[/] [#FDDD3F]####.[/] [#FCDA39]#####[/] [#FCD731]#####[/] [#FBD429]#####[/] [#FBD01F]#....[/] [#FACC15]####.[/]
+  [#FDE047]#....[/] [#FDDF44]#...#[/] [#FDDD3F]#...#[/] [#FCDA39]#....[/] [#FCD731]..#..[/] [#FBD429]#....[/] [#FBD01F]#....[/] [#FACC15]#...#[/]
+  [#FDE047]#..##[/] [#FDDF44]#####[/] [#FDDD3F]####.[/] [#FCDA39]####.[/] [#FCD731]..#..[/] [#FBD429]####.[/] [#FBD01F]#....[/] [#FACC15]#...#[/]
+  [#FDE047]#...#[/] [#FDDF44]#...#[/] [#FDDD3F]#..#.[/] [#FCDA39]#....[/] [#FCD731]..#..[/] [#FBD429]#....[/] [#FBD01F]#....[/] [#FACC15]#...#[/]
+  [#FDE047].####[/] [#FDDF44]#...#[/] [#FDDD3F]#...#[/] [#FCDA39]#....[/] [#FCD731]#####[/] [#FBD429]#####[/] [#FBD01F]#####[/] [#FACC15]####.[/]
+banner_hero: |-
+  [#F97316]╭────────────────────────────────────────╮[/]
+  [#FACC15]✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ [/]
+  [#FACC15]                                        [/]
+  [bold #FDE047]GARFIELD                                [/]
+  [#F7EFE4]The lasagna-loving cat and his friends. [/]
+  [#FACC15]                                        [/]
+  [#FACC15]✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ [/]
+  [#F97316]╰────────────────────────────────────────╯[/]

@@ -1,0 +1,94 @@
+name: courage-the-cowardly-dog
+description: A scaredy-cat dog protecting his owners in Nowhere.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5C5664'
+  banner_text: '#F0E8F8'
+  ui_accent: '#FDE047'
+  ui_label: '#F472B6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F0E8F8'
+  input_rule: '#A855F7'
+  response_border: '#FDE047'
+  status_bar_bg: '#201C27'
+  status_bar_text: '#F0E8F8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5C5664'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201C27'
+  completion_menu_bg: '#0D0814'
+  completion_menu_current_bg: '#5A4D24'
+  completion_menu_meta_bg: '#0B0711'
+  completion_menu_meta_current_bg: '#504422'
+  session_label: '#F472B6'
+  session_border: '#5C5664'
+spinner:
+  waiting_faces:
+  - (☎)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☎)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - staying very still
+  - answering the phone
+  - surviving Nowhere
+  - facing the strange
+  - protecting Muriel
+  wings:
+  - - ⟪☎
+    - ☎⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Courage Agent
+  welcome: The things I do for love... Type your message or /help. Stupid dog!
+  goodbye: Finally, quiet in Nowhere. Goodbye!
+  response_label: ' ☎ COURAGE '
+  prompt_symbol: '☎ ❯ '
+  help_header: (☎) COURAGE Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FCD94F].###.[/] [#FBCB5C]#...#[/] [#FAB96E]####.[/] [#F8A483].###.[/] [#F68C9B].####[/] [#F472B6]#####[/]
+  [#FDE047]#....[/] [#FCD94F]#...#[/] [#FBCB5C]#...#[/] [#FAB96E]#...#[/] [#F8A483]#...#[/] [#F68C9B]#....[/] [#F472B6]#....[/]
+  [#FDE047]#....[/] [#FCD94F]#...#[/] [#FBCB5C]#...#[/] [#FAB96E]####.[/] [#F8A483]#####[/] [#F68C9B]#..##[/] [#F472B6]####.[/]
+  [#FDE047]#....[/] [#FCD94F]#...#[/] [#FBCB5C]#...#[/] [#FAB96E]#..#.[/] [#F8A483]#...#[/] [#F68C9B]#...#[/] [#F472B6]#....[/]
+  [#FDE047].####[/] [#FCD94F].###.[/] [#FBCB5C].###.[/] [#FAB96E]#...#[/] [#F8A483]#...#[/] [#F68C9B].####[/] [#F472B6]#####[/]
+banner_hero: |-
+  [#A855F7]╭────────────────────────────────────────╮[/]
+  [#F472B6]☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ [/]
+  [#F472B6]                                        [/]
+  [bold #FDE047]COURAGE                                 [/]
+  [#F0E8F8]A scaredy-cat dog protecting his owners…[/]
+  [#F472B6]                                        [/]
+  [#F472B6]☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ ☎ [/]
+  [#A855F7]╰────────────────────────────────────────╯[/]

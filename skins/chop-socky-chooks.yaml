@@ -1,0 +1,94 @@
+name: chop-socky-chooks
+description: Three kung-fu chickens defending their fish-and-chip shop.
+colors:
+  banner_border: '#EF4444'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#635555'
+  banner_text: '#F9E9E9'
+  ui_accent: '#FACC15'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9E9E9'
+  input_rule: '#EF4444'
+  response_border: '#FACC15'
+  status_bar_bg: '#251A1A'
+  status_bar_text: '#F9E9E9'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#635555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251A1A'
+  completion_menu_bg: '#120606'
+  completion_menu_current_bg: '#5C450B'
+  completion_menu_meta_bg: '#0F0505'
+  completion_menu_meta_current_bg: '#533D0A'
+  session_label: '#F8FAFC'
+  session_border: '#635555'
+spinner:
+  waiting_faces:
+  - (✚)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✚)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - kung-fu fighting
+  - clucking chaos
+  - defending the shop
+  - kicking butt
+  - being awesome
+  wings:
+  - - ⟪✚
+    - ✚⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Chop Socky Agent
+  welcome: Kung fu chickens ready! Type your message or /help!
+  goodbye: Wok's closed! Bye!
+  response_label: ' ✚ CHOP SOCKY '
+  prompt_symbol: '✚ ❯ '
+  help_header: (✚) CHOP SOCKY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15].####[/] [#FACE1E]#...#[/] [#FAD12D].###.[/] [#FAD541]####.[/] [#F9DA59].....[/] [#F9DF75].####[/] [#F9E593].###.[/] [#F9ECB3].####[/] [#F8F3D7]#...#[/] [#F8FAFC]#...#[/]
+  [#FACC15]#....[/] [#FACE1E]#...#[/] [#FAD12D]#...#[/] [#FAD541]#...#[/] [#F9DA59].....[/] [#F9DF75]#....[/] [#F9E593]#...#[/] [#F9ECB3]#....[/] [#F8F3D7]#..#.[/] [#F8FAFC].#.#.[/]
+  [#FACC15]#....[/] [#FACE1E]#####[/] [#FAD12D]#...#[/] [#FAD541]####.[/] [#F9DA59].....[/] [#F9DF75].###.[/] [#F9E593]#...#[/] [#F9ECB3]#....[/] [#F8F3D7]###..[/] [#F8FAFC]..#..[/]
+  [#FACC15]#....[/] [#FACE1E]#...#[/] [#FAD12D]#...#[/] [#FAD541]#....[/] [#F9DA59].....[/] [#F9DF75]....#[/] [#F9E593]#...#[/] [#F9ECB3]#....[/] [#F8F3D7]#..#.[/] [#F8FAFC]..#..[/]
+  [#FACC15].####[/] [#FACE1E]#...#[/] [#FAD12D].###.[/] [#FAD541]#....[/] [#F9DA59].....[/] [#F9DF75]####.[/] [#F9E593].###.[/] [#F9ECB3].####[/] [#F8F3D7]#...#[/] [#F8FAFC]..#..[/]
+banner_hero: |-
+  [#EF4444]╭────────────────────────────────────────╮[/]
+  [#F8FAFC]✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ [/]
+  [#F8FAFC]                                        [/]
+  [bold #FACC15]CHOP SOCKY                              [/]
+  [#F9E9E9]Three kung-fu chickens defending their …[/]
+  [#F8FAFC]                                        [/]
+  [#F8FAFC]✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ [/]
+  [#EF4444]╰────────────────────────────────────────╯[/]

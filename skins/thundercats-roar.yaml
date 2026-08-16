@@ -1,0 +1,94 @@
+name: thundercats-roar
+description: The goofy 2019 reboot of the classic cat heroes.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#605A53'
+  banner_text: '#F7EFE5'
+  ui_accent: '#FDE047'
+  ui_label: '#60A5FA'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#221D18'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#605A53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221D18'
+  completion_menu_bg: '#0F0904'
+  completion_menu_current_bg: '#5B4E19'
+  completion_menu_meta_bg: '#0D0803'
+  completion_menu_meta_current_bg: '#524517'
+  session_label: '#60A5FA'
+  session_border: '#605A53'
+spinner:
+  waiting_faces:
+  - (☇)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☇)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - summoning the sword
+  - being silly
+  - fighting Mumm-Ra
+  - roaring
+  - having cat adventures
+  wings:
+  - - ⟪☇
+    - ☇⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: ThunderCat Agent
+  welcome: ThunderCats, ho! Type your message or /help!
+  goodbye: ThunderCats out! Hoooo!
+  response_label: ' ☇ THUNDERCATS '
+  prompt_symbol: '☇ ❯ '
+  help_header: (☇) THUNDERCATS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#F8DE4D]#...#[/] [#EFDB57]#...#[/] [#E3D664]#...#[/] [#D5D174]####.[/] [#C5CB86]#####[/] [#B4C59A]####.[/] [#A1BDB0].####[/] [#8DB6C7].###.[/] [#77AEE0]#####[/] [#60A5FA].####[/]
+  [#FDE047]..#..[/] [#F8DE4D]#...#[/] [#EFDB57]#...#[/] [#E3D664]##..#[/] [#D5D174]#...#[/] [#C5CB86]#....[/] [#B4C59A]#...#[/] [#A1BDB0]#....[/] [#8DB6C7]#...#[/] [#77AEE0]..#..[/] [#60A5FA]#....[/]
+  [#FDE047]..#..[/] [#F8DE4D]#####[/] [#EFDB57]#...#[/] [#E3D664]#.#.#[/] [#D5D174]#...#[/] [#C5CB86]####.[/] [#B4C59A]####.[/] [#A1BDB0]#....[/] [#8DB6C7]#####[/] [#77AEE0]..#..[/] [#60A5FA].###.[/]
+  [#FDE047]..#..[/] [#F8DE4D]#...#[/] [#EFDB57]#...#[/] [#E3D664]#..##[/] [#D5D174]#...#[/] [#C5CB86]#....[/] [#B4C59A]#..#.[/] [#A1BDB0]#....[/] [#8DB6C7]#...#[/] [#77AEE0]..#..[/] [#60A5FA]....#[/]
+  [#FDE047]..#..[/] [#F8DE4D]#...#[/] [#EFDB57].###.[/] [#E3D664]#...#[/] [#D5D174]####.[/] [#C5CB86]#####[/] [#B4C59A]#...#[/] [#A1BDB0].####[/] [#8DB6C7]#...#[/] [#77AEE0]..#..[/] [#60A5FA]####.[/]
+banner_hero: |-
+  [#F97316]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#60A5FA]☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ [/]
+  [#60A5FA]                                        [/]
+  [bold #FDE047]THUNDERCATS                             [/]
+  [#F7EFE5]The goofy 2019 reboot of the classic ca…[/]
+  [#60A5FA]                                        [/]
+  [#60A5FA]☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ ☇ [/]
+  [#F97316]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

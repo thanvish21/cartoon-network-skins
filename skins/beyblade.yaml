@@ -1,0 +1,94 @@
+name: beyblade
+description: Spinning tops battle it out in the beystadium.
+colors:
+  banner_border: '#F59E0B'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#605A52'
+  banner_text: '#F6F0E4'
+  ui_accent: '#FDE047'
+  ui_label: '#3B82F6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6F0E4'
+  input_rule: '#F59E0B'
+  response_border: '#FDE047'
+  status_bar_bg: '#221E17'
+  status_bar_text: '#F6F0E4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#605A52'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221E17'
+  completion_menu_bg: '#0F0A03'
+  completion_menu_current_bg: '#5B4E19'
+  completion_menu_meta_bg: '#0D0803'
+  completion_menu_meta_current_bg: '#524616'
+  session_label: '#3B82F6'
+  session_border: '#605A52'
+spinner:
+  waiting_faces:
+  - (◒)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◒)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - spinning
+  - letting it rip
+  - battling in the beystadium
+  - training the bit-beasts
+  - winning the tournament
+  wings:
+  - - ⟪◒
+    - ◒⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Blader Agent
+  welcome: Let it rip! Type your message or /help, blader!
+  goodbye: Spin finish! Great battle!
+  response_label: ' ◒ BEYBLADE '
+  prompt_symbol: '◒ ❯ '
+  help_header: (◒) BEYBLADE Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#F3DB50]#####[/] [#DFD262]#...#[/] [#C7C678]####.[/] [#A9B793]#....[/] [#88A7B1].###.[/] [#6395D2]####.[/] [#3B82F6]#####[/]
+  [#FDE047]#...#[/] [#F3DB50]#....[/] [#DFD262].#.#.[/] [#C7C678]#...#[/] [#A9B793]#....[/] [#88A7B1]#...#[/] [#6395D2]#...#[/] [#3B82F6]#....[/]
+  [#FDE047]####.[/] [#F3DB50]####.[/] [#DFD262]..#..[/] [#C7C678]####.[/] [#A9B793]#....[/] [#88A7B1]#####[/] [#6395D2]#...#[/] [#3B82F6]####.[/]
+  [#FDE047]#...#[/] [#F3DB50]#....[/] [#DFD262]..#..[/] [#C7C678]#...#[/] [#A9B793]#....[/] [#88A7B1]#...#[/] [#6395D2]#...#[/] [#3B82F6]#....[/]
+  [#FDE047]####.[/] [#F3DB50]#####[/] [#DFD262]..#..[/] [#C7C678]####.[/] [#A9B793]#####[/] [#88A7B1]#...#[/] [#6395D2]####.[/] [#3B82F6]#####[/]
+banner_hero: |-
+  [#F59E0B]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#3B82F6]◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ [/]
+  [#3B82F6]                                        [/]
+  [bold #FDE047]BEYBLADE                                [/]
+  [#F6F0E4]Spinning tops battle it out in the beys…[/]
+  [#3B82F6]                                        [/]
+  [#3B82F6]◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ ◒ [/]
+  [#F59E0B]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

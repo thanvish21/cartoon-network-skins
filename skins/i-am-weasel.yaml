@@ -1,0 +1,94 @@
+name: i-am-weasel
+description: I.M. Weasel, the brilliant one — and I.R. Baboon, his rival.
+colors:
+  banner_border: '#FACC15'
+  banner_title: '#F87171'
+  banner_accent: '#F87171'
+  banner_dim: '#606155'
+  banner_text: '#F8F4E4'
+  ui_accent: '#F87171'
+  ui_label: '#2DD4BF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8F4E4'
+  input_rule: '#FACC15'
+  response_border: '#F87171'
+  status_bar_bg: '#21251C'
+  status_bar_text: '#F8F4E4'
+  status_bar_strong: '#F87171'
+  status_bar_dim: '#606155'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#21251C'
+  completion_menu_bg: '#0E1208'
+  completion_menu_current_bg: '#59302A'
+  completion_menu_meta_bg: '#0C0F07'
+  completion_menu_meta_current_bg: '#502D25'
+  session_label: '#2DD4BF'
+  session_border: '#606155'
+spinner:
+  waiting_faces:
+  - (☝)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☝)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - weaseling through
+  - showing off
+  - outsmarting Baboon
+  - being brilliant
+  - posing for portraits
+  wings:
+  - - ⟪☝
+    - ☝⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: I.M. Weasel Agent
+  welcome: Ah, good day! Type your message or /help, if you can keep up.
+  goodbye: Until next time, you delightful creatures!
+  response_label: ' ☝ I AM WEASEL '
+  prompt_symbol: '☝ ❯ '
+  help_header: (☝) I AM WEASEL Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F87171]#####[/] [#F27473].....[/] [#E67A78].###.[/] [#D7817E]#...#[/] [#C58A85].....[/] [#B0948D]#...#[/] [#9A9F95]#####[/] [#81AB9F].###.[/] [#67B8A9].####[/] [#4BC6B4]#####[/] [#2DD4BF]#....[/]
+  [#F87171]..#..[/] [#F27473].....[/] [#E67A78]#...#[/] [#D7817E]##.##[/] [#C58A85].....[/] [#B0948D]#...#[/] [#9A9F95]#....[/] [#81AB9F]#...#[/] [#67B8A9]#....[/] [#4BC6B4]#....[/] [#2DD4BF]#....[/]
+  [#F87171]..#..[/] [#F27473].....[/] [#E67A78]#####[/] [#D7817E]#.#.#[/] [#C58A85].....[/] [#B0948D]#.#.#[/] [#9A9F95]####.[/] [#81AB9F]#####[/] [#67B8A9].###.[/] [#4BC6B4]####.[/] [#2DD4BF]#....[/]
+  [#F87171]..#..[/] [#F27473].....[/] [#E67A78]#...#[/] [#D7817E]#...#[/] [#C58A85].....[/] [#B0948D]##.##[/] [#9A9F95]#....[/] [#81AB9F]#...#[/] [#67B8A9]....#[/] [#4BC6B4]#....[/] [#2DD4BF]#....[/]
+  [#F87171]#####[/] [#F27473].....[/] [#E67A78]#...#[/] [#D7817E]#...#[/] [#C58A85].....[/] [#B0948D]#...#[/] [#9A9F95]#####[/] [#81AB9F]#...#[/] [#67B8A9]####.[/] [#4BC6B4]#####[/] [#2DD4BF]#####[/]
+banner_hero: |-
+  [#FACC15]╭────────────────────────────────────────╮[/]
+  [#2DD4BF]☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ [/]
+  [#2DD4BF]                                        [/]
+  [bold #F87171]I AM WEASEL                             [/]
+  [#F8F4E4]I.M. Weasel, the brilliant one — and I.…[/]
+  [#2DD4BF]                                        [/]
+  [#2DD4BF]☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ ☝ [/]
+  [#FACC15]╰────────────────────────────────────────╯[/]

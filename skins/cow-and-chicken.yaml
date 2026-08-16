@@ -1,0 +1,94 @@
+name: cow-and-chicken
+description: The adventures of a cow and her chicken brother.
+colors:
+  banner_border: '#EF4444'
+  banner_title: '#F97316'
+  banner_accent: '#F97316'
+  banner_dim: '#645757'
+  banner_text: '#F8E9E9'
+  ui_accent: '#F97316'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8E9E9'
+  input_rule: '#EF4444'
+  response_border: '#F97316'
+  status_bar_bg: '#271C1C'
+  status_bar_text: '#F8E9E9'
+  status_bar_strong: '#F97316'
+  status_bar_dim: '#645757'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#271C1C'
+  completion_menu_bg: '#140808'
+  completion_menu_current_bg: '#5D2A0C'
+  completion_menu_meta_bg: '#110707'
+  completion_menu_meta_current_bg: '#54260C'
+  session_label: '#FDE047'
+  session_border: '#645757'
+spinner:
+  waiting_faces:
+  - (●)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (●)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - mooing
+  - outsmarting the Red Guy
+  - bothering Dad
+  - hiding the plan
+  - being a cow
+  wings:
+  - - ⟪●
+    - ●⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Cow & Chicken Agent
+  welcome: Moo! Type your message or /help, cousin.
+  goodbye: Moo moo! Goodbye!
+  response_label: ' ● COW & CHICKEN '
+  prompt_symbol: '● ❯ '
+  help_header: (●) COW & CHICKEN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F97316].####[/] [#F97617].###.[/] [#F97A19]#...#[/] [#FA811C].....[/] [#FA881F].###.[/] [#FA9023].....[/] [#FA9A27].####[/] [#FBA42C]#...#[/] [#FBAE31]#####[/] [#FCBA36].####[/] [#FCC63B]#...#[/] [#FDD341]#####[/] [#FDE047]#...#[/]
+  [#F97316]#....[/] [#F97617]#...#[/] [#F97A19]#...#[/] [#FA811C].....[/] [#FA881F]#...#[/] [#FA9023].....[/] [#FA9A27]#....[/] [#FBA42C]#...#[/] [#FBAE31]..#..[/] [#FCBA36]#....[/] [#FCC63B]#..#.[/] [#FDD341]#....[/] [#FDE047]##..#[/]
+  [#F97316]#....[/] [#F97617]#...#[/] [#F97A19]#.#.#[/] [#FA811C].....[/] [#FA881F]..#..[/] [#FA9023].....[/] [#FA9A27]#....[/] [#FBA42C]#####[/] [#FBAE31]..#..[/] [#FCBA36]#....[/] [#FCC63B]###..[/] [#FDD341]####.[/] [#FDE047]#.#.#[/]
+  [#F97316]#....[/] [#F97617]#...#[/] [#F97A19]##.##[/] [#FA811C].....[/] [#FA881F].#.#.[/] [#FA9023].....[/] [#FA9A27]#....[/] [#FBA42C]#...#[/] [#FBAE31]..#..[/] [#FCBA36]#....[/] [#FCC63B]#..#.[/] [#FDD341]#....[/] [#FDE047]#..##[/]
+  [#F97316].####[/] [#F97617].###.[/] [#F97A19]#...#[/] [#FA811C].....[/] [#FA881F]##..#[/] [#FA9023].....[/] [#FA9A27].####[/] [#FBA42C]#...#[/] [#FBAE31]#####[/] [#FCBA36].####[/] [#FCC63B]#...#[/] [#FDD341]#####[/] [#FDE047]#...#[/]
+banner_hero: |-
+  [#EF4444]╭────────────────────────────────────────╮[/]
+  [#FDE047]● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● [/]
+  [#FDE047]                                        [/]
+  [bold #F97316]COW & CHICKEN                           [/]
+  [#F8E9E9]The adventures of a cow and her chicken…[/]
+  [#FDE047]                                        [/]
+  [#FDE047]● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● [/]
+  [#EF4444]╰────────────────────────────────────────╯[/]

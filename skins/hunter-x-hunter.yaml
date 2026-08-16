@@ -1,0 +1,94 @@
+name: hunter-x-hunter
+description: Gon and Killua take the Hunter Exam and master Nen.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#546059'
+  banner_text: '#E8F6EC'
+  ui_accent: '#FDE047'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8F6EC'
+  input_rule: '#22C55E'
+  response_border: '#FDE047'
+  status_bar_bg: '#19231E'
+  status_bar_text: '#E8F6EC'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#546059'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#19231E'
+  completion_menu_bg: '#05100A'
+  completion_menu_current_bg: '#54531E'
+  completion_menu_meta_bg: '#040E08'
+  completion_menu_meta_current_bg: '#4A4A1B'
+  session_label: '#38BDF8'
+  session_border: '#546059'
+spinner:
+  waiting_faces:
+  - (⛏)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⛏)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - hunting
+  - mastering Nen
+  - climbing the tower
+  - taking the Hunter Exam
+  - finding Ging
+  wings:
+  - - ⟪⛏
+    - ⛏⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Hunter Agent
+  welcome: Let's go hunting! Type your message or /help!
+  goodbye: The hunt continues! See you!
+  response_label: ' ⛏ HUNTERXHUNTER '
+  prompt_symbol: '⛏ ❯ '
+  help_header: (⛏) HUNTERXHUNTER Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#F8DF4B]#...#[/] [#F0DE53]#...#[/] [#E4DC5D]#####[/] [#D7D969]#####[/] [#C8D777]####.[/] [#B7D486]#...#[/] [#A5D096]#...#[/] [#92CDA7]#...#[/] [#7DC9BA]#...#[/] [#67C5CE]#####[/] [#50C1E2]#####[/] [#38BDF8]####.[/]
+  [#FDE047]#...#[/] [#F8DF4B]#...#[/] [#F0DE53]##..#[/] [#E4DC5D]..#..[/] [#D7D969]#....[/] [#C8D777]#...#[/] [#B7D486].#.#.[/] [#A5D096]#...#[/] [#92CDA7]#...#[/] [#7DC9BA]##..#[/] [#67C5CE]..#..[/] [#50C1E2]#....[/] [#38BDF8]#...#[/]
+  [#FDE047]#####[/] [#F8DF4B]#...#[/] [#F0DE53]#.#.#[/] [#E4DC5D]..#..[/] [#D7D969]####.[/] [#C8D777]####.[/] [#B7D486]..#..[/] [#A5D096]#####[/] [#92CDA7]#...#[/] [#7DC9BA]#.#.#[/] [#67C5CE]..#..[/] [#50C1E2]####.[/] [#38BDF8]####.[/]
+  [#FDE047]#...#[/] [#F8DF4B]#...#[/] [#F0DE53]#..##[/] [#E4DC5D]..#..[/] [#D7D969]#....[/] [#C8D777]#..#.[/] [#B7D486].#.#.[/] [#A5D096]#...#[/] [#92CDA7]#...#[/] [#7DC9BA]#..##[/] [#67C5CE]..#..[/] [#50C1E2]#....[/] [#38BDF8]#..#.[/]
+  [#FDE047]#...#[/] [#F8DF4B].###.[/] [#F0DE53]#...#[/] [#E4DC5D]..#..[/] [#D7D969]#####[/] [#C8D777]#...#[/] [#B7D486]#...#[/] [#A5D096]#...#[/] [#92CDA7].###.[/] [#7DC9BA]#...#[/] [#67C5CE]..#..[/] [#50C1E2]#####[/] [#38BDF8]#...#[/]
+banner_hero: |-
+  [#22C55E]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#38BDF8]⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ [/]
+  [#38BDF8]                                        [/]
+  [bold #FDE047]HUNTERXHUNTER                           [/]
+  [#E8F6EC]Gon and Killua take the Hunter Exam and…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ [/]
+  [#22C55E]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

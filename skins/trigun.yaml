@@ -1,0 +1,94 @@
+name: trigun
+description: Vash the Stampede — the pacifist gunslinger with a $$60 billion bounty.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#5E5555'
+  banner_text: '#F5E9E9'
+  ui_accent: '#FACC15'
+  ui_label: '#E5E7EB'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F5E9E9'
+  input_rule: '#DC2626'
+  response_border: '#FACC15'
+  status_bar_bg: '#1F1919'
+  status_bar_text: '#F5E9E9'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#5E5555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F1919'
+  completion_menu_bg: '#0C0505'
+  completion_menu_current_bg: '#58450A'
+  completion_menu_meta_bg: '#0A0404'
+  completion_menu_meta_current_bg: '#4F3D09'
+  session_label: '#E5E7EB'
+  session_border: '#5E5555'
+spinner:
+  waiting_faces:
+  - (❊)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (❊)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - dodging bullets
+  - love and peace
+  - outrunning the bounty
+  - protecting everyone
+  - drawing the Colt
+  wings:
+  - - ⟪❊
+    - ❊⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Stampede Agent
+  welcome: Love and peace! Type your message or /help!
+  goodbye: Love and peace! See you around!
+  response_label: ' ❊ TRIGUN '
+  prompt_symbol: '❊ ❯ '
+  help_header: (❊) TRIGUN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]#####[/] [#F8CE28]####.[/] [#F5D34B]#####[/] [#F0D978].####[/] [#EBDFAE]#...#[/] [#E5E7EB]#...#[/]
+  [#FACC15]..#..[/] [#F8CE28]#...#[/] [#F5D34B]..#..[/] [#F0D978]#....[/] [#EBDFAE]#...#[/] [#E5E7EB]##..#[/]
+  [#FACC15]..#..[/] [#F8CE28]####.[/] [#F5D34B]..#..[/] [#F0D978]#..##[/] [#EBDFAE]#...#[/] [#E5E7EB]#.#.#[/]
+  [#FACC15]..#..[/] [#F8CE28]#..#.[/] [#F5D34B]..#..[/] [#F0D978]#...#[/] [#EBDFAE]#...#[/] [#E5E7EB]#..##[/]
+  [#FACC15]..#..[/] [#F8CE28]#...#[/] [#F5D34B]#####[/] [#F0D978].####[/] [#EBDFAE].###.[/] [#E5E7EB]#...#[/]
+banner_hero: |-
+  [#DC2626]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#E5E7EB]❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ [/]
+  [#E5E7EB]                                        [/]
+  [bold #FACC15]TRIGUN                                  [/]
+  [#F5E9E9]Vash the Stampede — the pacifist gunsli…[/]
+  [#E5E7EB]                                        [/]
+  [#E5E7EB]❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ ❊ [/]
+  [#DC2626]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

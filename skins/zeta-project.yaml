@@ -1,0 +1,94 @@
+name: zeta-project
+description: A prototype spy robot trying to prove he's not a weapon.
+colors:
+  banner_border: '#64748B'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#595B5E'
+  banner_text: '#EBEDF0'
+  ui_accent: '#FDE047'
+  ui_label: '#22D3EE'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EBEDF0'
+  input_rule: '#64748B'
+  response_border: '#FDE047'
+  status_bar_bg: '#1F2023'
+  status_bar_text: '#EBEDF0'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#595B5E'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F2023'
+  completion_menu_bg: '#0B0D10'
+  completion_menu_current_bg: '#585122'
+  completion_menu_meta_bg: '#090B0E'
+  completion_menu_meta_current_bg: '#4F481F'
+  session_label: '#22D3EE'
+  session_border: '#595B5E'
+spinner:
+  waiting_faces:
+  - (⌖)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⌖)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - going undercover
+  - evading capture
+  - helping people
+  - proving he's not a weapon
+  - hiding from the NSA
+  wings:
+  - - ⟪⌖
+    - ⌖⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Zeta Agent
+  welcome: Zeta online. Type your message or /help, Ro.
+  goodbye: Going dark. Zeta out.
+  response_label: ' ⌖ ZETA PROJECT '
+  prompt_symbol: '⌖ ❯ '
+  help_header: (⌖) ZETA PROJECT Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#F7E04C]#####[/] [#ECDF54]#####[/] [#DEDE5F].###.[/] [#CDDD6C].....[/] [#BADC7A]####.[/] [#A5DB8A]####.[/] [#8ED99C].###.[/] [#75D8AF]..###[/] [#5BD6C3]#####[/] [#3FD5D8].####[/] [#22D3EE]#####[/]
+  [#FDE047]...#.[/] [#F7E04C]#....[/] [#ECDF54]..#..[/] [#DEDE5F]#...#[/] [#CDDD6C].....[/] [#BADC7A]#...#[/] [#A5DB8A]#...#[/] [#8ED99C]#...#[/] [#75D8AF]...#.[/] [#5BD6C3]#....[/] [#3FD5D8]#....[/] [#22D3EE]..#..[/]
+  [#FDE047]..#..[/] [#F7E04C]####.[/] [#ECDF54]..#..[/] [#DEDE5F]#####[/] [#CDDD6C].....[/] [#BADC7A]####.[/] [#A5DB8A]####.[/] [#8ED99C]#...#[/] [#75D8AF]...#.[/] [#5BD6C3]####.[/] [#3FD5D8]#....[/] [#22D3EE]..#..[/]
+  [#FDE047].#...[/] [#F7E04C]#....[/] [#ECDF54]..#..[/] [#DEDE5F]#...#[/] [#CDDD6C].....[/] [#BADC7A]#....[/] [#A5DB8A]#..#.[/] [#8ED99C]#...#[/] [#75D8AF]#..#.[/] [#5BD6C3]#....[/] [#3FD5D8]#....[/] [#22D3EE]..#..[/]
+  [#FDE047]#####[/] [#F7E04C]#####[/] [#ECDF54]..#..[/] [#DEDE5F]#...#[/] [#CDDD6C].....[/] [#BADC7A]#....[/] [#A5DB8A]#...#[/] [#8ED99C].###.[/] [#75D8AF].##..[/] [#5BD6C3]#####[/] [#3FD5D8].####[/] [#22D3EE]..#..[/]
+banner_hero: |-
+  [#64748B]╭════════════════════════════════════════╮[/]
+  [#22D3EE]⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ [/]
+  [#22D3EE]                                        [/]
+  [bold #FDE047]ZETA PROJECT                            [/]
+  [#EBEDF0]A prototype spy robot trying to prove h…[/]
+  [#22D3EE]                                        [/]
+  [#22D3EE]⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ ⌖ [/]
+  [#64748B]╰════════════════════════════════════════╯[/]

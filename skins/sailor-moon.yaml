@@ -1,0 +1,94 @@
+name: sailor-moon
+description: Usagi and the Sailor Guardians fight evil by moonlight.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#635962'
+  banner_text: '#F9EBF3'
+  ui_accent: '#FDE047'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9EBF3'
+  input_rule: '#F472B6'
+  response_border: '#FDE047'
+  status_bar_bg: '#251E27'
+  status_bar_text: '#F9EBF3'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#635962'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251E27'
+  completion_menu_bg: '#120A14'
+  completion_menu_current_bg: '#5D4E24'
+  completion_menu_meta_bg: '#0F0811'
+  completion_menu_meta_current_bg: '#544622'
+  session_label: '#38BDF8'
+  session_border: '#635962'
+spinner:
+  waiting_faces:
+  - (☾)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☾)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - transforming
+  - fighting evil by moonlight
+  - protecting love and justice
+  - activating Moon Prism Power
+  - fighting the Dark Kingdom
+  wings:
+  - - ⟪☾
+    - ☾⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Guardian Agent
+  welcome: Fighting evil by moonlight! Type your message or /help!
+  goodbye: Moon prism power! Goodbye!
+  response_label: ' ☾ SAILOR MOON '
+  prompt_symbol: '☾ ❯ '
+  help_header: (☾) SAILOR MOON Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#F7DF4D].###.[/] [#EBDD57]#####[/] [#DDDA64]#....[/] [#CBD774].###.[/] [#B7D486]####.[/] [#A1D099].....[/] [#8ACCAF]#...#[/] [#70C7C6].###.[/] [#55C2DE].###.[/] [#38BDF8]#...#[/]
+  [#FDE047]#....[/] [#F7DF4D]#...#[/] [#EBDD57]..#..[/] [#DDDA64]#....[/] [#CBD774]#...#[/] [#B7D486]#...#[/] [#A1D099].....[/] [#8ACCAF]##.##[/] [#70C7C6]#...#[/] [#55C2DE]#...#[/] [#38BDF8]##..#[/]
+  [#FDE047].###.[/] [#F7DF4D]#####[/] [#EBDD57]..#..[/] [#DDDA64]#....[/] [#CBD774]#...#[/] [#B7D486]####.[/] [#A1D099].....[/] [#8ACCAF]#.#.#[/] [#70C7C6]#...#[/] [#55C2DE]#...#[/] [#38BDF8]#.#.#[/]
+  [#FDE047]....#[/] [#F7DF4D]#...#[/] [#EBDD57]..#..[/] [#DDDA64]#....[/] [#CBD774]#...#[/] [#B7D486]#..#.[/] [#A1D099].....[/] [#8ACCAF]#...#[/] [#70C7C6]#...#[/] [#55C2DE]#...#[/] [#38BDF8]#..##[/]
+  [#FDE047]####.[/] [#F7DF4D]#...#[/] [#EBDD57]#####[/] [#DDDA64]#####[/] [#CBD774].###.[/] [#B7D486]#...#[/] [#A1D099].....[/] [#8ACCAF]#...#[/] [#70C7C6].###.[/] [#55C2DE].###.[/] [#38BDF8]#...#[/]
+banner_hero: |-
+  [#F472B6]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#38BDF8]☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ [/]
+  [#38BDF8]                                        [/]
+  [bold #FDE047]SAILOR MOON                             [/]
+  [#F9EBF3]Usagi and the Sailor Guardians fight ev…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ [/]
+  [#F472B6]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

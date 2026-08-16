@@ -1,0 +1,94 @@
+name: demon-slayer
+description: Tanjiro's quest to cure his sister and slay demons.
+colors:
+  banner_border: '#15803D'
+  banner_title: '#F36E6E'
+  banner_accent: '#EF4444'
+  banner_dim: '#54605A'
+  banner_text: '#E9F5EE'
+  ui_accent: '#EF4444'
+  ui_label: '#1E293B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F5EE'
+  input_rule: '#15803D'
+  response_border: '#EF4444'
+  status_bar_bg: '#18231E'
+  status_bar_text: '#E9F5EE'
+  status_bar_strong: '#EF4444'
+  status_bar_dim: '#54605A'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#18231E'
+  completion_menu_bg: '#04100A'
+  completion_menu_current_bg: '#4F211D'
+  completion_menu_meta_bg: '#030E08'
+  completion_menu_meta_current_bg: '#461F1A'
+  session_label: '#1E293B'
+  session_border: '#54605A'
+spinner:
+  waiting_faces:
+  - (✷)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✷)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - breathing techniques
+  - slaying demons
+  - training with the Hashira
+  - protecting Nezuko
+  - hunting Muzan
+  wings:
+  - - ⟪✷
+    - ✷⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Slayer Agent
+  welcome: Total concentration! Type your message or /help, slayer!
+  goodbye: The demons are vanquished. Later!
+  response_label: ' ✷ DEMON SLAYER '
+  prompt_symbol: '✷ ❯ '
+  help_header: (✷) DEMON SLAYER Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#EF4444]####.[/] [#E94344]#####[/] [#DF4243]#...#[/] [#D14043].###.[/] [#C13E42]#...#[/] [#AF3C41].....[/] [#9B3940].####[/] [#85363F]#....[/] [#6D333E].###.[/] [#54303D]#...#[/] [#3A2D3C]#####[/] [#1E293B]####.[/]
+  [#EF4444]#...#[/] [#E94344]#....[/] [#DF4243]##.##[/] [#D14043]#...#[/] [#C13E42]##..#[/] [#AF3C41].....[/] [#9B3940]#....[/] [#85363F]#....[/] [#6D333E]#...#[/] [#54303D].#.#.[/] [#3A2D3C]#....[/] [#1E293B]#...#[/]
+  [#EF4444]#...#[/] [#E94344]####.[/] [#DF4243]#.#.#[/] [#D14043]#...#[/] [#C13E42]#.#.#[/] [#AF3C41].....[/] [#9B3940].###.[/] [#85363F]#....[/] [#6D333E]#####[/] [#54303D]..#..[/] [#3A2D3C]####.[/] [#1E293B]####.[/]
+  [#EF4444]#...#[/] [#E94344]#....[/] [#DF4243]#...#[/] [#D14043]#...#[/] [#C13E42]#..##[/] [#AF3C41].....[/] [#9B3940]....#[/] [#85363F]#....[/] [#6D333E]#...#[/] [#54303D]..#..[/] [#3A2D3C]#....[/] [#1E293B]#..#.[/]
+  [#EF4444]####.[/] [#E94344]#####[/] [#DF4243]#...#[/] [#D14043].###.[/] [#C13E42]#...#[/] [#AF3C41].....[/] [#9B3940]####.[/] [#85363F]#####[/] [#6D333E]#...#[/] [#54303D]..#..[/] [#3A2D3C]#####[/] [#1E293B]#...#[/]
+banner_hero: |-
+  [#15803D]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#1E293B]✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ [/]
+  [#1E293B]                                        [/]
+  [bold #EF4444]DEMON SLAYER                            [/]
+  [#E9F5EE]Tanjiro's quest to cure his sister and …[/]
+  [#1E293B]                                        [/]
+  [#1E293B]✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ ✷ [/]
+  [#15803D]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

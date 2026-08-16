@@ -1,0 +1,94 @@
+name: mike-lu-og
+description: A city girl, a genius and a native boy on a tropical island.
+colors:
+  banner_border: '#2DD4BF'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#546764'
+  banner_text: '#E2F5F2'
+  ui_accent: '#FDE047'
+  ui_label: '#FB923C'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E2F5F2'
+  input_rule: '#2DD4BF'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B2C2A'
+  status_bar_text: '#E2F5F2'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#546764'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B2C2A'
+  completion_menu_bg: '#071A18'
+  completion_menu_current_bg: '#565927'
+  completion_menu_meta_bg: '#061614'
+  completion_menu_meta_current_bg: '#4C5125'
+  session_label: '#FB923C'
+  session_border: '#546764'
+spinner:
+  waiting_faces:
+  - (☼)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☼)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - island-hopping
+  - inventing gadgets
+  - learning island ways
+  - sunbathing
+  - discovering things
+  wings:
+  - - ⟪☼
+    - ☼⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Island Agent
+  welcome: Aloha! Type your message or /help and explore the island.
+  goodbye: See you on the beach!
+  response_label: ' ☼ MIKE LU & OG '
+  prompt_symbol: '☼ ❯ '
+  help_header: (☼) MIKE LU & OG Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDDE47]#####[/] [#FDDA46]#...#[/] [#FDD545]#####[/] [#FDCF45].....[/] [#FCC844]#....[/] [#FCC143]#...#[/] [#FCB841].....[/] [#FCB040].###.[/] [#FCA63F].....[/] [#FB9C3D].###.[/] [#FB923C].####[/]
+  [#FDE047]##.##[/] [#FDDE47]..#..[/] [#FDDA46]#..#.[/] [#FDD545]#....[/] [#FDCF45].....[/] [#FCC844]#....[/] [#FCC143]#...#[/] [#FCB841].....[/] [#FCB040]#...#[/] [#FCA63F].....[/] [#FB9C3D]#...#[/] [#FB923C]#....[/]
+  [#FDE047]#.#.#[/] [#FDDE47]..#..[/] [#FDDA46]###..[/] [#FDD545]####.[/] [#FDCF45].....[/] [#FCC844]#....[/] [#FCC143]#...#[/] [#FCB841].....[/] [#FCB040]..#..[/] [#FCA63F].....[/] [#FB9C3D]#...#[/] [#FB923C]#..##[/]
+  [#FDE047]#...#[/] [#FDDE47]..#..[/] [#FDDA46]#..#.[/] [#FDD545]#....[/] [#FDCF45].....[/] [#FCC844]#....[/] [#FCC143]#...#[/] [#FCB841].....[/] [#FCB040].#.#.[/] [#FCA63F].....[/] [#FB9C3D]#...#[/] [#FB923C]#...#[/]
+  [#FDE047]#...#[/] [#FDDE47]#####[/] [#FDDA46]#...#[/] [#FDD545]#####[/] [#FDCF45].....[/] [#FCC844]#####[/] [#FCC143].###.[/] [#FCB841].....[/] [#FCB040]##..#[/] [#FCA63F].....[/] [#FB9C3D].###.[/] [#FB923C].####[/]
+banner_hero: |-
+  [#2DD4BF]╭────────────────────────────────────────╮[/]
+  [#FB923C]☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ [/]
+  [#FB923C]                                        [/]
+  [bold #FDE047]MIKE LU & OG                            [/]
+  [#E2F5F2]A city girl, a genius and a native boy …[/]
+  [#FB923C]                                        [/]
+  [#FB923C]☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ [/]
+  [#2DD4BF]╰────────────────────────────────────────╯[/]

@@ -1,0 +1,94 @@
+name: samurai-champloo
+description: Hip-hop samurai road trip across Edo Japan.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#615A52'
+  banner_text: '#F7EFE4'
+  ui_accent: '#FDE047'
+  ui_label: '#D97706'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE4'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#231D17'
+  status_bar_text: '#F7EFE4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#615A52'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#231D17'
+  completion_menu_bg: '#100903'
+  completion_menu_current_bg: '#5C4E19'
+  completion_menu_meta_bg: '#0E0803'
+  completion_menu_meta_current_bg: '#524516'
+  session_label: '#D97706'
+  session_border: '#615A52'
+spinner:
+  waiting_faces:
+  - (✶)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✶)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - samurai-ing
+  - finding the sunflower samurai
+  - battling in Edo
+  - flipping blades
+  - going on the road
+  wings:
+  - - ⟪✶
+    - ✶⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Champloo Agent
+  welcome: Let's get this bread, samurai. Type your message or /help.
+  goodbye: The sunflower samurai awaits. Later!
+  response_label: ' ✶ CHAMPLOO '
+  prompt_symbol: '✶ ❯ '
+  help_header: (✶) CHAMPLOO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FBDA43]#...#[/] [#F8D03D].###.[/] [#F3C335]#...#[/] [#EDB32B]####.[/] [#E7A120]#....[/] [#E08D13].###.[/] [#D97706].###.[/]
+  [#FDE047]#....[/] [#FBDA43]#...#[/] [#F8D03D]#...#[/] [#F3C335]##.##[/] [#EDB32B]#...#[/] [#E7A120]#....[/] [#E08D13]#...#[/] [#D97706]#...#[/]
+  [#FDE047]#....[/] [#FBDA43]#####[/] [#F8D03D]#####[/] [#F3C335]#.#.#[/] [#EDB32B]####.[/] [#E7A120]#....[/] [#E08D13]#...#[/] [#D97706]#...#[/]
+  [#FDE047]#....[/] [#FBDA43]#...#[/] [#F8D03D]#...#[/] [#F3C335]#...#[/] [#EDB32B]#....[/] [#E7A120]#....[/] [#E08D13]#...#[/] [#D97706]#...#[/]
+  [#FDE047].####[/] [#FBDA43]#...#[/] [#F8D03D]#...#[/] [#F3C335]#...#[/] [#EDB32B]#....[/] [#E7A120]#####[/] [#E08D13].###.[/] [#D97706].###.[/]
+banner_hero: |-
+  [#F97316]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#D97706]✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ [/]
+  [#D97706]                                        [/]
+  [bold #FDE047]CHAMPLOO                                [/]
+  [#F7EFE4]Hip-hop samurai road trip across Edo Ja…[/]
+  [#D97706]                                        [/]
+  [#D97706]✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ [/]
+  [#F97316]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

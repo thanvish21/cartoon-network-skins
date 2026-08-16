@@ -1,0 +1,94 @@
+name: taffy
+description: A crafty cat and a dog in a mansion full of schemes.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#635961'
+  banner_text: '#F9EBF3'
+  ui_accent: '#FDE047'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9EBF3'
+  input_rule: '#F472B6'
+  response_border: '#FDE047'
+  status_bar_bg: '#251E25'
+  status_bar_text: '#F9EBF3'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#635961'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251E25'
+  completion_menu_bg: '#120A12'
+  completion_menu_current_bg: '#5D4E23'
+  completion_menu_meta_bg: '#0F080F'
+  completion_menu_meta_current_bg: '#544621'
+  session_label: '#38BDF8'
+  session_border: '#635961'
+spinner:
+  waiting_faces:
+  - (✺)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✺)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - scheming
+  - sneaking around
+  - outsmarting everyone
+  - finding snacks
+  - causing trouble
+  wings:
+  - - ⟪✺
+    - ✺⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Taffy Agent
+  welcome: Sneaky! Type your message or /help!
+  goodbye: Time for mischief. Bye!
+  response_label: ' ✺ TAFFY '
+  prompt_symbol: '✺ ❯ '
+  help_header: (✺) TAFFY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#E4DC5D].###.[/] [#B7D486]#####[/] [#7DC9BA]#####[/] [#38BDF8]#...#[/]
+  [#FDE047]..#..[/] [#E4DC5D]#...#[/] [#B7D486]#....[/] [#7DC9BA]#....[/] [#38BDF8].#.#.[/]
+  [#FDE047]..#..[/] [#E4DC5D]#####[/] [#B7D486]####.[/] [#7DC9BA]####.[/] [#38BDF8]..#..[/]
+  [#FDE047]..#..[/] [#E4DC5D]#...#[/] [#B7D486]#....[/] [#7DC9BA]#....[/] [#38BDF8]..#..[/]
+  [#FDE047]..#..[/] [#E4DC5D]#...#[/] [#B7D486]#....[/] [#7DC9BA]#....[/] [#38BDF8]..#..[/]
+banner_hero: |-
+  [#F472B6]╭────────────────────────────────────────╮[/]
+  [#38BDF8]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#38BDF8]                                        [/]
+  [bold #FDE047]TAFFY                                   [/]
+  [#F9EBF3]A crafty cat and a dog in a mansion ful…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#F472B6]╰────────────────────────────────────────╯[/]

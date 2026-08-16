@@ -1,0 +1,94 @@
+name: code-lyoko
+description: Virtual warriors entering Lyoko to fight XANA.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#555C66'
+  banner_text: '#E6EDF7'
+  ui_accent: '#FDE047'
+  ui_label: '#A855F7'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6EDF7'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B212A'
+  status_bar_text: '#E6EDF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#555C66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B212A'
+  completion_menu_bg: '#070E18'
+  completion_menu_current_bg: '#565127'
+  completion_menu_meta_bg: '#060C14'
+  completion_menu_meta_current_bg: '#4C4925'
+  session_label: '#A855F7'
+  session_border: '#555C66'
+spinner:
+  waiting_faces:
+  - (◈)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◈)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - entering Lyoko
+  - fighting XANA
+  - scanner-ing
+  - virtually-world-ing
+  - saving the world
+  wings:
+  - - ⟪◈
+    - ◈⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Lyoko Agent
+  welcome: Lyoko online! Type your message or /help, warrior!
+  goodbye: Returning to reality. Lyoko out!
+  response_label: ' ◈ CODE LYOKO '
+  prompt_symbol: '◈ ❯ '
+  help_header: (◈) CODE LYOKO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FADB4E].###.[/] [#F4D159]####.[/] [#EDC569]#####[/] [#E4B77B].....[/] [#DAA690]#....[/] [#CF94A7]#...#[/] [#C381C0].###.[/] [#B66CDA]#...#[/] [#A855F7].###.[/]
+  [#FDE047]#....[/] [#FADB4E]#...#[/] [#F4D159]#...#[/] [#EDC569]#....[/] [#E4B77B].....[/] [#DAA690]#....[/] [#CF94A7].#.#.[/] [#C381C0]#...#[/] [#B66CDA]#..#.[/] [#A855F7]#...#[/]
+  [#FDE047]#....[/] [#FADB4E]#...#[/] [#F4D159]#...#[/] [#EDC569]####.[/] [#E4B77B].....[/] [#DAA690]#....[/] [#CF94A7]..#..[/] [#C381C0]#...#[/] [#B66CDA]###..[/] [#A855F7]#...#[/]
+  [#FDE047]#....[/] [#FADB4E]#...#[/] [#F4D159]#...#[/] [#EDC569]#....[/] [#E4B77B].....[/] [#DAA690]#....[/] [#CF94A7]..#..[/] [#C381C0]#...#[/] [#B66CDA]#..#.[/] [#A855F7]#...#[/]
+  [#FDE047].####[/] [#FADB4E].###.[/] [#F4D159]####.[/] [#EDC569]#####[/] [#E4B77B].....[/] [#DAA690]#####[/] [#CF94A7]..#..[/] [#C381C0].###.[/] [#B66CDA]#...#[/] [#A855F7].###.[/]
+banner_hero: |-
+  [#3B82F6]╭────────────────────────────────────────╮[/]
+  [#A855F7]◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ [/]
+  [#A855F7]                                        [/]
+  [bold #FDE047]CODE LYOKO                              [/]
+  [#E6EDF7]Virtual warriors entering Lyoko to figh…[/]
+  [#A855F7]                                        [/]
+  [#A855F7]◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ [/]
+  [#3B82F6]╰────────────────────────────────────────╯[/]

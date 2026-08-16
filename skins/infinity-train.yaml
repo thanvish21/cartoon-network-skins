@@ -1,0 +1,94 @@
+name: infinity-train
+description: Passengers ride an endless train solving their personal issues.
+colors:
+  banner_border: '#FB923C'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#615B54'
+  banner_text: '#F7EFE5'
+  ui_accent: '#FDE047'
+  ui_label: '#A855F7'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#FB923C'
+  response_border: '#FDE047'
+  status_bar_bg: '#231F1A'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#615B54'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#231F1A'
+  completion_menu_bg: '#100B06'
+  completion_menu_current_bg: '#5C4F1B'
+  completion_menu_meta_bg: '#0E0905'
+  completion_menu_meta_current_bg: '#524718'
+  session_label: '#A855F7'
+  session_border: '#615B54'
+spinner:
+  waiting_faces:
+  - (✱)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✱)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - riding the train
+  - facing the numbers
+  - solving the mystery
+  - meeting the passengers
+  - finding the exit
+  wings:
+  - - ⟪✱
+    - ✱⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Train Agent
+  welcome: Welcome aboard the Infinity Train. Type your message or /help.
+  goodbye: End of the line... for now.
+  response_label: ' ✱ INFINITY TRAIN '
+  prompt_symbol: '✱ ❯ '
+  help_header: (✱) INFINITY TRAIN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FBDD4B]#...#[/] [#F8D852]#####[/] [#F4D15B]#####[/] [#EEC865]#...#[/] [#E9BF71]#####[/] [#E2B47E]#####[/] [#DBA98D]#...#[/] [#D49D9C].....[/] [#CC90AC]#####[/] [#C482BE]####.[/] [#BB74D0].###.[/] [#B265E3]#####[/] [#A855F7]#...#[/]
+  [#FDE047]..#..[/] [#FBDD4B]##..#[/] [#F8D852]#....[/] [#F4D15B]..#..[/] [#EEC865]##..#[/] [#E9BF71]..#..[/] [#E2B47E]..#..[/] [#DBA98D].#.#.[/] [#D49D9C].....[/] [#CC90AC]..#..[/] [#C482BE]#...#[/] [#BB74D0]#...#[/] [#B265E3]..#..[/] [#A855F7]##..#[/]
+  [#FDE047]..#..[/] [#FBDD4B]#.#.#[/] [#F8D852]####.[/] [#F4D15B]..#..[/] [#EEC865]#.#.#[/] [#E9BF71]..#..[/] [#E2B47E]..#..[/] [#DBA98D]..#..[/] [#D49D9C].....[/] [#CC90AC]..#..[/] [#C482BE]####.[/] [#BB74D0]#####[/] [#B265E3]..#..[/] [#A855F7]#.#.#[/]
+  [#FDE047]..#..[/] [#FBDD4B]#..##[/] [#F8D852]#....[/] [#F4D15B]..#..[/] [#EEC865]#..##[/] [#E9BF71]..#..[/] [#E2B47E]..#..[/] [#DBA98D]..#..[/] [#D49D9C].....[/] [#CC90AC]..#..[/] [#C482BE]#..#.[/] [#BB74D0]#...#[/] [#B265E3]..#..[/] [#A855F7]#..##[/]
+  [#FDE047]#####[/] [#FBDD4B]#...#[/] [#F8D852]#....[/] [#F4D15B]#####[/] [#EEC865]#...#[/] [#E9BF71]#####[/] [#E2B47E]..#..[/] [#DBA98D]..#..[/] [#D49D9C].....[/] [#CC90AC]..#..[/] [#C482BE]#...#[/] [#BB74D0]#...#[/] [#B265E3]#####[/] [#A855F7]#...#[/]
+banner_hero: |-
+  [#FB923C]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#A855F7]✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ [/]
+  [#A855F7]                                        [/]
+  [bold #FDE047]INFINITY TRAIN                          [/]
+  [#F7EFE5]Passengers ride an endless train solvin…[/]
+  [#A855F7]                                        [/]
+  [#A855F7]✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ ✱ [/]
+  [#FB923C]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

@@ -1,0 +1,94 @@
+name: teen-titans
+description: The classic Titans — Robin, Starfire, Raven, Cyborg and Beast Boy.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#F87171'
+  banner_accent: '#F87171'
+  banner_dim: '#605555'
+  banner_text: '#F6E9E9'
+  ui_accent: '#F87171'
+  ui_label: '#6B7280'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E9E9'
+  input_rule: '#DC2626'
+  response_border: '#F87171'
+  status_bar_bg: '#221919'
+  status_bar_text: '#F6E9E9'
+  status_bar_strong: '#F87171'
+  status_bar_dim: '#605555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221919'
+  completion_menu_bg: '#0F0505'
+  completion_menu_current_bg: '#5A2828'
+  completion_menu_meta_bg: '#0D0404'
+  completion_menu_meta_current_bg: '#502323'
+  session_label: '#6B7280'
+  session_border: '#605555'
+spinner:
+  waiting_faces:
+  - (✖)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✖)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - assemble-ing
+  - fighting Slade
+  - training at the tower
+  - going on missions
+  - protecting Jump City
+  wings:
+  - - ⟪✖
+    - ✖⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Titan Agent
+  welcome: Titans together! Type your message or /help, hero.
+  goodbye: Titans out!
+  response_label: ' ✖ TEEN TITANS '
+  prompt_symbol: '✖ ❯ '
+  help_header: (✖) TEEN TITANS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F87171]#####[/] [#F47171]#####[/] [#EB7172]#####[/] [#E17173]#...#[/] [#D47175].....[/] [#C67176]#####[/] [#B67178]#####[/] [#A5727A]#####[/] [#93727C].###.[/] [#80727E]#...#[/] [#6B7280].####[/]
+  [#F87171]..#..[/] [#F47171]#....[/] [#EB7172]#....[/] [#E17173]##..#[/] [#D47175].....[/] [#C67176]..#..[/] [#B67178]..#..[/] [#A5727A]..#..[/] [#93727C]#...#[/] [#80727E]##..#[/] [#6B7280]#....[/]
+  [#F87171]..#..[/] [#F47171]####.[/] [#EB7172]####.[/] [#E17173]#.#.#[/] [#D47175].....[/] [#C67176]..#..[/] [#B67178]..#..[/] [#A5727A]..#..[/] [#93727C]#####[/] [#80727E]#.#.#[/] [#6B7280].###.[/]
+  [#F87171]..#..[/] [#F47171]#....[/] [#EB7172]#....[/] [#E17173]#..##[/] [#D47175].....[/] [#C67176]..#..[/] [#B67178]..#..[/] [#A5727A]..#..[/] [#93727C]#...#[/] [#80727E]#..##[/] [#6B7280]....#[/]
+  [#F87171]..#..[/] [#F47171]#####[/] [#EB7172]#####[/] [#E17173]#...#[/] [#D47175].....[/] [#C67176]..#..[/] [#B67178]#####[/] [#A5727A]..#..[/] [#93727C]#...#[/] [#80727E]#...#[/] [#6B7280]####.[/]
+banner_hero: |-
+  [#DC2626]╭════════════════════════════════════════╮[/]
+  [#6B7280]✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ [/]
+  [#6B7280]                                        [/]
+  [bold #F87171]TEEN TITANS                             [/]
+  [#F6E9E9]The classic Titans — Robin, Starfire, R…[/]
+  [#6B7280]                                        [/]
+  [#6B7280]✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ [/]
+  [#DC2626]╰════════════════════════════════════════╯[/]

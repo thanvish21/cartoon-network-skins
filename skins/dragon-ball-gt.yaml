@@ -1,0 +1,94 @@
+name: dragon-ball-gt
+description: Goku shrunk to a kid, searching the Black Star Dragon Balls.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5F5555'
+  banner_text: '#F6E9E9'
+  ui_accent: '#FDE047'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E9E9'
+  input_rule: '#DC2626'
+  response_border: '#FDE047'
+  status_bar_bg: '#211919'
+  status_bar_text: '#F6E9E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5F5555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#211919'
+  completion_menu_bg: '#0E0505'
+  completion_menu_current_bg: '#5A4B1A'
+  completion_menu_meta_bg: '#0C0404'
+  completion_menu_meta_current_bg: '#514217'
+  session_label: '#FACC15'
+  session_border: '#5F5555'
+spinner:
+  waiting_faces:
+  - (☀)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☀)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - searching the Black Star Balls
+  - going Golden Oozaru
+  - flying around the galaxy
+  - collecting Dragon Balls
+  - fighting Baby
+  wings:
+  - - ⟪☀
+    - ☀⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: GT Agent
+  welcome: Dragon Ball GT online! Type your message or /help!
+  goodbye: The Dragon Balls are safe. Later!
+  response_label: ' ☀ DRAGON BALL GT '
+  prompt_symbol: '☀ ❯ '
+  help_header: (☀) DRAGON BALL GT Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#FDE046]####.[/] [#FDDF44].###.[/] [#FDDE41].####[/] [#FCDD3E].###.[/] [#FCDB3B]#...#[/] [#FCDA37].....[/] [#FCD833]####.[/] [#FCD62F].###.[/] [#FBD42A]#....[/] [#FBD325]#....[/] [#FBD020].....[/] [#FACE1B].####[/] [#FACC15]#####[/]
+  [#FDE047]#...#[/] [#FDE046]#...#[/] [#FDDF44]#...#[/] [#FDDE41]#....[/] [#FCDD3E]#...#[/] [#FCDB3B]##..#[/] [#FCDA37].....[/] [#FCD833]#...#[/] [#FCD62F]#...#[/] [#FBD42A]#....[/] [#FBD325]#....[/] [#FBD020].....[/] [#FACE1B]#....[/] [#FACC15]..#..[/]
+  [#FDE047]#...#[/] [#FDE046]####.[/] [#FDDF44]#####[/] [#FDDE41]#..##[/] [#FCDD3E]#...#[/] [#FCDB3B]#.#.#[/] [#FCDA37].....[/] [#FCD833]####.[/] [#FCD62F]#####[/] [#FBD42A]#....[/] [#FBD325]#....[/] [#FBD020].....[/] [#FACE1B]#..##[/] [#FACC15]..#..[/]
+  [#FDE047]#...#[/] [#FDE046]#..#.[/] [#FDDF44]#...#[/] [#FDDE41]#...#[/] [#FCDD3E]#...#[/] [#FCDB3B]#..##[/] [#FCDA37].....[/] [#FCD833]#...#[/] [#FCD62F]#...#[/] [#FBD42A]#....[/] [#FBD325]#....[/] [#FBD020].....[/] [#FACE1B]#...#[/] [#FACC15]..#..[/]
+  [#FDE047]####.[/] [#FDE046]#...#[/] [#FDDF44]#...#[/] [#FDDE41].####[/] [#FCDD3E].###.[/] [#FCDB3B]#...#[/] [#FCDA37].....[/] [#FCD833]####.[/] [#FCD62F]#...#[/] [#FBD42A]#####[/] [#FBD325]#####[/] [#FBD020].....[/] [#FACE1B].####[/] [#FACC15]..#..[/]
+banner_hero: |-
+  [#DC2626]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#FACC15]☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ [/]
+  [#FACC15]                                        [/]
+  [bold #FDE047]DRAGON BALL GT                          [/]
+  [#F6E9E9]Goku shrunk to a kid, searching the Bla…[/]
+  [#FACC15]                                        [/]
+  [#FACC15]☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ ☀ [/]
+  [#DC2626]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

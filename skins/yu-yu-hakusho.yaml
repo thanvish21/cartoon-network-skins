@@ -1,0 +1,94 @@
+name: yu-yu-hakusho
+description: Spirit detective Yusuke fighting the demon world.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#555C66'
+  banner_text: '#E6EDF7'
+  ui_accent: '#FDE047'
+  ui_label: '#4ADE80'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6EDF7'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B212A'
+  status_bar_text: '#E6EDF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#555C66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B212A'
+  completion_menu_bg: '#070E18'
+  completion_menu_current_bg: '#565127'
+  completion_menu_meta_bg: '#060C14'
+  completion_menu_meta_current_bg: '#4C4925'
+  session_label: '#4ADE80'
+  session_border: '#555C66'
+spinner:
+  waiting_faces:
+  - (✺)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✺)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - hunting demons
+  - fighting in the Dark Tournament
+  - charging the Spirit Gun
+  - protecting the living world
+  - working with the team
+  wings:
+  - - ⟪✺
+    - ✺⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Spirit Detective Agent
+  welcome: Spirit gun charged! Type your message or /help, detective.
+  goodbye: Case closed. Later!
+  response_label: ' ✺ YU YU HAKUSHO '
+  prompt_symbol: '✺ ❯ '
+  help_header: (✺) YU YU HAKUSHO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#F9E048]#...#[/] [#F1E04B].....[/] [#E7E04E]#...#[/] [#DBE052]#...#[/] [#CDDF56].....[/] [#BEDF5B]#...#[/] [#ADDF60].###.[/] [#9CDF66]#...#[/] [#89DF6C]#...#[/] [#75DE72].####[/] [#60DE79]#...#[/] [#4ADE80].###.[/]
+  [#FDE047].#.#.[/] [#F9E048]#...#[/] [#F1E04B].....[/] [#E7E04E].#.#.[/] [#DBE052]#...#[/] [#CDDF56].....[/] [#BEDF5B]#...#[/] [#ADDF60]#...#[/] [#9CDF66]#..#.[/] [#89DF6C]#...#[/] [#75DE72]#....[/] [#60DE79]#...#[/] [#4ADE80]#...#[/]
+  [#FDE047]..#..[/] [#F9E048]#...#[/] [#F1E04B].....[/] [#E7E04E]..#..[/] [#DBE052]#...#[/] [#CDDF56].....[/] [#BEDF5B]#####[/] [#ADDF60]#####[/] [#9CDF66]###..[/] [#89DF6C]#...#[/] [#75DE72].###.[/] [#60DE79]#####[/] [#4ADE80]#...#[/]
+  [#FDE047]..#..[/] [#F9E048]#...#[/] [#F1E04B].....[/] [#E7E04E]..#..[/] [#DBE052]#...#[/] [#CDDF56].....[/] [#BEDF5B]#...#[/] [#ADDF60]#...#[/] [#9CDF66]#..#.[/] [#89DF6C]#...#[/] [#75DE72]....#[/] [#60DE79]#...#[/] [#4ADE80]#...#[/]
+  [#FDE047]..#..[/] [#F9E048].###.[/] [#F1E04B].....[/] [#E7E04E]..#..[/] [#DBE052].###.[/] [#CDDF56].....[/] [#BEDF5B]#...#[/] [#ADDF60]#...#[/] [#9CDF66]#...#[/] [#89DF6C].###.[/] [#75DE72]####.[/] [#60DE79]#...#[/] [#4ADE80].###.[/]
+banner_hero: |-
+  [#3B82F6]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#4ADE80]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#4ADE80]                                        [/]
+  [bold #FDE047]YU YU HAKUSHO                           [/]
+  [#E6EDF7]Spirit detective Yusuke fighting the de…[/]
+  [#4ADE80]                                        [/]
+  [#4ADE80]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#3B82F6]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

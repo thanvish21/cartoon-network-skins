@@ -1,0 +1,94 @@
+name: mixels
+description: Mix and match creatures from the Nixel-infested Mixel world.
+colors:
+  banner_border: '#FB923C'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#605A53'
+  banner_text: '#F7EFE5'
+  ui_accent: '#FDE047'
+  ui_label: '#3B82F6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#FB923C'
+  response_border: '#FDE047'
+  status_bar_bg: '#221E18'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#605A53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221E18'
+  completion_menu_bg: '#0F0A04'
+  completion_menu_current_bg: '#5B4E19'
+  completion_menu_meta_bg: '#0D0803'
+  completion_menu_meta_current_bg: '#524617'
+  session_label: '#3B82F6'
+  session_border: '#605A53'
+spinner:
+  waiting_faces:
+  - (◼)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◼)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - mixing
+  - building combos
+  - fighting Nixels
+  - combining powers
+  - creating new mixes
+  wings:
+  - - ⟪◼
+    - ◼⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Mix Agent
+  welcome: Mixels, mix! Type your message or /help!
+  goodbye: Unmix! Goodbye!
+  response_label: ' ◼ MIXELS '
+  prompt_symbol: '◼ ❯ '
+  help_header: (◼) MIXELS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#ECD857]#####[/] [#CCC873]#...#[/] [#A3B498]#####[/] [#729DC4]#....[/] [#3B82F6].####[/]
+  [#FDE047]##.##[/] [#ECD857]..#..[/] [#CCC873].#.#.[/] [#A3B498]#....[/] [#729DC4]#....[/] [#3B82F6]#....[/]
+  [#FDE047]#.#.#[/] [#ECD857]..#..[/] [#CCC873]..#..[/] [#A3B498]####.[/] [#729DC4]#....[/] [#3B82F6].###.[/]
+  [#FDE047]#...#[/] [#ECD857]..#..[/] [#CCC873].#.#.[/] [#A3B498]#....[/] [#729DC4]#....[/] [#3B82F6]....#[/]
+  [#FDE047]#...#[/] [#ECD857]#####[/] [#CCC873]#...#[/] [#A3B498]#####[/] [#729DC4]#####[/] [#3B82F6]####.[/]
+banner_hero: |-
+  [#FB923C]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#3B82F6]◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ [/]
+  [#3B82F6]                                        [/]
+  [bold #FDE047]MIXELS                                  [/]
+  [#F7EFE5]Mix and match creatures from the Nixel-…[/]
+  [#3B82F6]                                        [/]
+  [#3B82F6]◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ ◼ [/]
+  [#FB923C]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

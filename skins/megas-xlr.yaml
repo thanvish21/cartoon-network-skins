@@ -1,0 +1,94 @@
+name: megas-xlr
+description: A giant robot from the future, a slacker driver and a mechanic.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625757'
+  banner_text: '#F7E9E9'
+  ui_accent: '#FDE047'
+  ui_label: '#9CA3AF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7E9E9'
+  input_rule: '#DC2626'
+  response_border: '#FDE047'
+  status_bar_bg: '#251C1C'
+  status_bar_text: '#F7E9E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625757'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251C1C'
+  completion_menu_bg: '#120808'
+  completion_menu_current_bg: '#5D4D1C'
+  completion_menu_meta_bg: '#0F0707'
+  completion_menu_meta_current_bg: '#54441A'
+  session_label: '#9CA3AF'
+  session_border: '#625757'
+spinner:
+  waiting_faces:
+  - (⚙)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⚙)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - crushing the Klag
+  - repairing the giant robot
+  - driving Megas
+  - blasting enemies
+  - ordering takeout
+  wings:
+  - - ⟪⚙
+    - ⚙⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Megas Agent
+  welcome: Coop's in the driver's seat! Type your message or /help.
+  goodbye: Megas shutting down. See ya!
+  response_label: ' ⚙ MEGAS XLR '
+  prompt_symbol: '⚙ ❯ '
+  help_header: (⚙) MEGAS XLR Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#F9DD4C]#####[/] [#F1D854].####[/] [#E7D25F].###.[/] [#DBCA6C].####[/] [#CDC27A].....[/] [#BEB88B]#...#[/] [#AEAE9C]#....[/] [#9CA3AF]####.[/]
+  [#FDE047]##.##[/] [#F9DD4C]#....[/] [#F1D854]#....[/] [#E7D25F]#...#[/] [#DBCA6C]#....[/] [#CDC27A].....[/] [#BEB88B].#.#.[/] [#AEAE9C]#....[/] [#9CA3AF]#...#[/]
+  [#FDE047]#.#.#[/] [#F9DD4C]####.[/] [#F1D854]#..##[/] [#E7D25F]#####[/] [#DBCA6C].###.[/] [#CDC27A].....[/] [#BEB88B]..#..[/] [#AEAE9C]#....[/] [#9CA3AF]####.[/]
+  [#FDE047]#...#[/] [#F9DD4C]#....[/] [#F1D854]#...#[/] [#E7D25F]#...#[/] [#DBCA6C]....#[/] [#CDC27A].....[/] [#BEB88B].#.#.[/] [#AEAE9C]#....[/] [#9CA3AF]#..#.[/]
+  [#FDE047]#...#[/] [#F9DD4C]#####[/] [#F1D854].####[/] [#E7D25F]#...#[/] [#DBCA6C]####.[/] [#CDC27A].....[/] [#BEB88B]#...#[/] [#AEAE9C]#####[/] [#9CA3AF]#...#[/]
+banner_hero: |-
+  [#DC2626]╭────────────────────────────────────────╮[/]
+  [#9CA3AF]⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ [/]
+  [#9CA3AF]                                        [/]
+  [bold #FDE047]MEGAS XLR                               [/]
+  [#F7E9E9]A giant robot from the future, a slacke…[/]
+  [#9CA3AF]                                        [/]
+  [#9CA3AF]⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ [/]
+  [#DC2626]╰────────────────────────────────────────╯[/]

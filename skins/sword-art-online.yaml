@@ -1,0 +1,94 @@
+name: sword-art-online
+description: Players trapped in a deadly VRMMO must clear the game.
+colors:
+  banner_border: '#22D3EE'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#536166'
+  banner_text: '#E6F4F8'
+  ui_accent: '#FDE047'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6F4F8'
+  input_rule: '#22D3EE'
+  response_border: '#FDE047'
+  status_bar_bg: '#18252A'
+  status_bar_text: '#E6F4F8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#536166'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#18252A'
+  completion_menu_bg: '#041218'
+  completion_menu_current_bg: '#545427'
+  completion_menu_meta_bg: '#030F14'
+  completion_menu_meta_current_bg: '#4A4C25'
+  session_label: '#F8FAFC'
+  session_border: '#536166'
+spinner:
+  waiting_faces:
+  - (✹)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✹)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - clearing the floor
+  - trapped in Aincrad
+  - dueling with swords
+  - leveling up
+  - surviving the game
+  wings:
+  - - ⟪✹
+    - ✹⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: SAO Agent
+  welcome: Link start! Type your message or /help, player!
+  goodbye: Logging out. See you in the next world!
+  response_label: ' ✹ SWORD ART '
+  prompt_symbol: '✹ ❯ '
+  help_header: (✹) SWORD ART Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE14F]#...#[/] [#FCE35E].###.[/] [#FCE671]####.[/] [#FBE987]####.[/] [#FBEDA0].....[/] [#FAF1BD].###.[/] [#F9F5DB]####.[/] [#F8FAFC]#####[/]
+  [#FDE047]#....[/] [#FDE14F]#...#[/] [#FCE35E]#...#[/] [#FCE671]#...#[/] [#FBE987]#...#[/] [#FBEDA0].....[/] [#FAF1BD]#...#[/] [#F9F5DB]#...#[/] [#F8FAFC]..#..[/]
+  [#FDE047].###.[/] [#FDE14F]#.#.#[/] [#FCE35E]#...#[/] [#FCE671]####.[/] [#FBE987]#...#[/] [#FBEDA0].....[/] [#FAF1BD]#####[/] [#F9F5DB]####.[/] [#F8FAFC]..#..[/]
+  [#FDE047]....#[/] [#FDE14F]##.##[/] [#FCE35E]#...#[/] [#FCE671]#..#.[/] [#FBE987]#...#[/] [#FBEDA0].....[/] [#FAF1BD]#...#[/] [#F9F5DB]#..#.[/] [#F8FAFC]..#..[/]
+  [#FDE047]####.[/] [#FDE14F]#...#[/] [#FCE35E].###.[/] [#FCE671]#...#[/] [#FBE987]####.[/] [#FBEDA0].....[/] [#FAF1BD]#...#[/] [#F9F5DB]#...#[/] [#F8FAFC]..#..[/]
+banner_hero: |-
+  [#22D3EE]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#F8FAFC]✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ [/]
+  [#F8FAFC]                                        [/]
+  [bold #FDE047]SWORD ART                               [/]
+  [#E6F4F8]Players trapped in a deadly VRMMO must …[/]
+  [#F8FAFC]                                        [/]
+  [#F8FAFC]✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ [/]
+  [#22D3EE]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

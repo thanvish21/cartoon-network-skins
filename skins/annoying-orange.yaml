@@ -1,0 +1,94 @@
+name: annoying-orange
+description: The obnoxious fruit that never stops talking.
+colors:
+  banner_border: '#FB923C'
+  banner_title: '#4ADE80'
+  banner_accent: '#4ADE80'
+  banner_dim: '#615A53'
+  banner_text: '#F8F0E6'
+  ui_accent: '#4ADE80'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8F0E6'
+  input_rule: '#FB923C'
+  response_border: '#4ADE80'
+  status_bar_bg: '#221E18'
+  status_bar_text: '#F8F0E6'
+  status_bar_strong: '#4ADE80'
+  status_bar_dim: '#615A53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221E18'
+  completion_menu_bg: '#0F0A04'
+  completion_menu_current_bg: '#224E2C'
+  completion_menu_meta_bg: '#0D0803'
+  completion_menu_meta_current_bg: '#204527'
+  session_label: '#FDE047'
+  session_border: '#615A53'
+spinner:
+  waiting_faces:
+  - (❍)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (❍)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - asking annoying questions
+  - dodging the knife
+  - yelling at fruit
+  - talking nonstop
+  - telling puns
+  wings:
+  - - ⟪❍
+    - ❍⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Orange Agent
+  welcome: HEY APPLE! Type your message or /help... or don't. HEY!
+  goodbye: Okay, bye! Wait, come back! HEY!
+  response_label: ' ❍ ANNOYING ORANGE '
+  prompt_symbol: '❍ ❯ '
+  help_header: (❍) ANNOYING ORANGE Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#4ADE80].###.[/] [#4DDE7F]#...#[/] [#54DE7D]#...#[/] [#5CDE7A].###.[/] [#65DE77]#...#[/] [#70DE74]#####[/] [#7CDF70]#...#[/] [#89DF6C].####[/] [#97DF67].....[/] [#A6DF63].###.[/] [#B6DF5E]####.[/] [#C7DF58].###.[/] [#D8E053]#...#[/] [#EAE04D].####[/] [#FDE047]#####[/]
+  [#4ADE80]#...#[/] [#4DDE7F]##..#[/] [#54DE7D]##..#[/] [#5CDE7A]#...#[/] [#65DE77].#.#.[/] [#70DE74]..#..[/] [#7CDF70]##..#[/] [#89DF6C]#....[/] [#97DF67].....[/] [#A6DF63]#...#[/] [#B6DF5E]#...#[/] [#C7DF58]#...#[/] [#D8E053]##..#[/] [#EAE04D]#....[/] [#FDE047]#....[/]
+  [#4ADE80]#####[/] [#4DDE7F]#.#.#[/] [#54DE7D]#.#.#[/] [#5CDE7A]#...#[/] [#65DE77]..#..[/] [#70DE74]..#..[/] [#7CDF70]#.#.#[/] [#89DF6C]#..##[/] [#97DF67].....[/] [#A6DF63]#...#[/] [#B6DF5E]####.[/] [#C7DF58]#####[/] [#D8E053]#.#.#[/] [#EAE04D]#..##[/] [#FDE047]####.[/]
+  [#4ADE80]#...#[/] [#4DDE7F]#..##[/] [#54DE7D]#..##[/] [#5CDE7A]#...#[/] [#65DE77]..#..[/] [#70DE74]..#..[/] [#7CDF70]#..##[/] [#89DF6C]#...#[/] [#97DF67].....[/] [#A6DF63]#...#[/] [#B6DF5E]#..#.[/] [#C7DF58]#...#[/] [#D8E053]#..##[/] [#EAE04D]#...#[/] [#FDE047]#....[/]
+  [#4ADE80]#...#[/] [#4DDE7F]#...#[/] [#54DE7D]#...#[/] [#5CDE7A].###.[/] [#65DE77]..#..[/] [#70DE74]#####[/] [#7CDF70]#...#[/] [#89DF6C].####[/] [#97DF67].....[/] [#A6DF63].###.[/] [#B6DF5E]#...#[/] [#C7DF58]#...#[/] [#D8E053]#...#[/] [#EAE04D].####[/] [#FDE047]#####[/]
+banner_hero: |-
+  [#FB923C]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#FDE047]❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ [/]
+  [#FDE047]                                        [/]
+  [bold #4ADE80]ANNOYING ORANGE                         [/]
+  [#F8F0E6]The obnoxious fruit that never stops ta…[/]
+  [#FDE047]                                        [/]
+  [#FDE047]❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ ❍ [/]
+  [#FB923C]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

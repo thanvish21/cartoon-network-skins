@@ -1,0 +1,94 @@
+name: 6teen
+description: Six teens working and hanging out at the Galleria mall.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#645860'
+  banner_text: '#F8EAF2'
+  ui_accent: '#FDE047'
+  ui_label: '#60A5FA'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8EAF2'
+  input_rule: '#F472B6'
+  response_border: '#FDE047'
+  status_bar_bg: '#271E25'
+  status_bar_text: '#F8EAF2'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#645860'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#271E25'
+  completion_menu_bg: '#140A12'
+  completion_menu_current_bg: '#5F4E23'
+  completion_menu_meta_bg: '#11080F'
+  completion_menu_meta_current_bg: '#554621'
+  session_label: '#60A5FA'
+  session_border: '#645860'
+spinner:
+  waiting_faces:
+  - (♡)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (♡)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - hanging at the mall
+  - working retail
+  - avoiding the manager
+  - shopping
+  - meeting at the food court
+  wings:
+  - - ⟪♡
+    - ♡⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Mall Agent
+  welcome: The mall is open! Type your message or /help.
+  goodbye: Mall's closing! See you tomorrow!
+  response_label: ' ♡ 6TEEN '
+  prompt_symbol: '♡ ❯ '
+  help_header: (♡) 6TEEN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].###.[/] [#E9D95D]#####[/] [#C5CB86]#####[/] [#97BABB]#####[/] [#60A5FA]#...#[/]
+  [#FDE047]#....[/] [#E9D95D]..#..[/] [#C5CB86]#....[/] [#97BABB]#....[/] [#60A5FA]##..#[/]
+  [#FDE047]####.[/] [#E9D95D]..#..[/] [#C5CB86]####.[/] [#97BABB]####.[/] [#60A5FA]#.#.#[/]
+  [#FDE047]#...#[/] [#E9D95D]..#..[/] [#C5CB86]#....[/] [#97BABB]#....[/] [#60A5FA]#..##[/]
+  [#FDE047].###.[/] [#E9D95D]..#..[/] [#C5CB86]#####[/] [#97BABB]#####[/] [#60A5FA]#...#[/]
+banner_hero: |-
+  [#F472B6]╭────────────────────────────────────────╮[/]
+  [#60A5FA]♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ [/]
+  [#60A5FA]                                        [/]
+  [bold #FDE047]6TEEN                                   [/]
+  [#F8EAF2]Six teens working and hanging out at th…[/]
+  [#60A5FA]                                        [/]
+  [#60A5FA]♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ [/]
+  [#F472B6]╰────────────────────────────────────────╯[/]

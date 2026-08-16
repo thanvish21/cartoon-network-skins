@@ -1,0 +1,94 @@
+name: samurai-jack
+description: A samurai trapped in a future ruled by the demon Aku.
+colors:
+  banner_border: '#EF4444'
+  banner_title: '#2DD4BF'
+  banner_accent: '#2DD4BF'
+  banner_dim: '#5F5556'
+  banner_text: '#F6E9E9'
+  ui_accent: '#2DD4BF'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E9E9'
+  input_rule: '#EF4444'
+  response_border: '#2DD4BF'
+  status_bar_bg: '#20191B'
+  status_bar_text: '#F6E9E9'
+  status_bar_strong: '#2DD4BF'
+  status_bar_dim: '#5F5556'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#20191B'
+  completion_menu_bg: '#0D0507'
+  completion_menu_current_bg: '#174742'
+  completion_menu_meta_bg: '#0B0406'
+  completion_menu_meta_current_bg: '#163F3B'
+  session_label: '#F8FAFC'
+  session_border: '#5F5556'
+spinner:
+  waiting_faces:
+  - (⚔)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⚔)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - severing evil
+  - training with the katana
+  - hunting Aku
+  - surviving the future
+  - mastering the blade
+  wings:
+  - - ⟪⚔
+    - ⚔⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Samurai Jack Agent
+  welcome: I must get back to the past! Type your message or /help.
+  goodbye: Farewell. The battle continues.
+  response_label: ' ⚔ SAMURAI JACK '
+  prompt_symbol: '⚔ ❯ '
+  help_header: (⚔) SAMURAI JACK Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#2DD4BF].####[/] [#33D5C1].###.[/] [#3DD7C4]#...#[/] [#4AD9C8]#...#[/] [#5ADCCC]####.[/] [#6BE0D2].###.[/] [#7FE3D8]#####[/] [#94E7DE].....[/] [#ABECE5]..###[/] [#C3F0EC].###.[/] [#DDF5F4].####[/] [#F8FAFC]#...#[/]
+  [#2DD4BF]#....[/] [#33D5C1]#...#[/] [#3DD7C4]##.##[/] [#4AD9C8]#...#[/] [#5ADCCC]#...#[/] [#6BE0D2]#...#[/] [#7FE3D8]..#..[/] [#94E7DE].....[/] [#ABECE5]...#.[/] [#C3F0EC]#...#[/] [#DDF5F4]#....[/] [#F8FAFC]#..#.[/]
+  [#2DD4BF].###.[/] [#33D5C1]#####[/] [#3DD7C4]#.#.#[/] [#4AD9C8]#...#[/] [#5ADCCC]####.[/] [#6BE0D2]#####[/] [#7FE3D8]..#..[/] [#94E7DE].....[/] [#ABECE5]...#.[/] [#C3F0EC]#####[/] [#DDF5F4]#....[/] [#F8FAFC]###..[/]
+  [#2DD4BF]....#[/] [#33D5C1]#...#[/] [#3DD7C4]#...#[/] [#4AD9C8]#...#[/] [#5ADCCC]#..#.[/] [#6BE0D2]#...#[/] [#7FE3D8]..#..[/] [#94E7DE].....[/] [#ABECE5]#..#.[/] [#C3F0EC]#...#[/] [#DDF5F4]#....[/] [#F8FAFC]#..#.[/]
+  [#2DD4BF]####.[/] [#33D5C1]#...#[/] [#3DD7C4]#...#[/] [#4AD9C8].###.[/] [#5ADCCC]#...#[/] [#6BE0D2]#...#[/] [#7FE3D8]#####[/] [#94E7DE].....[/] [#ABECE5].##..[/] [#C3F0EC]#...#[/] [#DDF5F4].####[/] [#F8FAFC]#...#[/]
+banner_hero: |-
+  [#EF4444]╭────────────────────────────────────────╮[/]
+  [#F8FAFC]⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ [/]
+  [#F8FAFC]                                        [/]
+  [bold #2DD4BF]SAMURAI JACK                            [/]
+  [#F6E9E9]A samurai trapped in a future ruled by …[/]
+  [#F8FAFC]                                        [/]
+  [#F8FAFC]⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ ⚔ [/]
+  [#EF4444]╰────────────────────────────────────────╯[/]

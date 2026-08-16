@@ -1,0 +1,94 @@
+name: space-dandy
+description: The dandy guy in space, hunting rare aliens.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#22D3EE'
+  banner_accent: '#22D3EE'
+  banner_dim: '#605A53'
+  banner_text: '#F7EFE5'
+  ui_accent: '#22D3EE'
+  ui_label: '#A855F7'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#F97316'
+  response_border: '#22D3EE'
+  status_bar_bg: '#221D18'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#22D3EE'
+  status_bar_dim: '#605A53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221D18'
+  completion_menu_bg: '#0F0904'
+  completion_menu_current_bg: '#154A4F'
+  completion_menu_meta_bg: '#0D0803'
+  completion_menu_meta_current_bg: '#144246'
+  session_label: '#A855F7'
+  session_border: '#605A53'
+spinner:
+  waiting_faces:
+  - (❁)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (❁)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - hunting rare aliens
+  - exploring the galaxy
+  - dodging the Gogol Empire
+  - being dandy
+  - finding new species
+  wings:
+  - - ⟪❁
+    - ❁⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Dandy Agent
+  welcome: Dandy, baby! Type your message or /help!
+  goodbye: See you, baby!
+  response_label: ' ❁ SPACE DANDY '
+  prompt_symbol: '❁ ❯ '
+  help_header: (❁) SPACE DANDY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#22D3EE].####[/] [#26CFEE]####.[/] [#2EC8EF].###.[/] [#38BEEF].####[/] [#44B3F0]#####[/] [#51A6F1].....[/] [#6098F2]####.[/] [#7089F3].###.[/] [#8279F4]#...#[/] [#9467F6]####.[/] [#A855F7]#...#[/]
+  [#22D3EE]#....[/] [#26CFEE]#...#[/] [#2EC8EF]#...#[/] [#38BEEF]#....[/] [#44B3F0]#....[/] [#51A6F1].....[/] [#6098F2]#...#[/] [#7089F3]#...#[/] [#8279F4]##..#[/] [#9467F6]#...#[/] [#A855F7].#.#.[/]
+  [#22D3EE].###.[/] [#26CFEE]####.[/] [#2EC8EF]#####[/] [#38BEEF]#....[/] [#44B3F0]####.[/] [#51A6F1].....[/] [#6098F2]#...#[/] [#7089F3]#####[/] [#8279F4]#.#.#[/] [#9467F6]#...#[/] [#A855F7]..#..[/]
+  [#22D3EE]....#[/] [#26CFEE]#....[/] [#2EC8EF]#...#[/] [#38BEEF]#....[/] [#44B3F0]#....[/] [#51A6F1].....[/] [#6098F2]#...#[/] [#7089F3]#...#[/] [#8279F4]#..##[/] [#9467F6]#...#[/] [#A855F7]..#..[/]
+  [#22D3EE]####.[/] [#26CFEE]#....[/] [#2EC8EF]#...#[/] [#38BEEF].####[/] [#44B3F0]#####[/] [#51A6F1].....[/] [#6098F2]####.[/] [#7089F3]#...#[/] [#8279F4]#...#[/] [#9467F6]####.[/] [#A855F7]..#..[/]
+banner_hero: |-
+  [#F97316]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#A855F7]❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ [/]
+  [#A855F7]                                        [/]
+  [bold #22D3EE]SPACE DANDY                             [/]
+  [#F7EFE5]The dandy guy in space, hunting rare al…[/]
+  [#A855F7]                                        [/]
+  [#A855F7]❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ ❁ [/]
+  [#F97316]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

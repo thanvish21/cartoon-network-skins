@@ -1,0 +1,94 @@
+name: whats-new-scooby-doo
+description: The 2000s Mystery Inc. — same gang, new mysteries.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#556256'
+  banner_text: '#E8F6EA'
+  ui_accent: '#FDE047'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8F6EA'
+  input_rule: '#22C55E'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A251A'
+  status_bar_text: '#E8F6EA'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#556256'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A251A'
+  completion_menu_bg: '#061206'
+  completion_menu_current_bg: '#55541B'
+  completion_menu_meta_bg: '#050F05'
+  completion_menu_meta_current_bg: '#4B4C18'
+  session_label: '#F59E0B'
+  session_border: '#556256'
+spinner:
+  waiting_faces:
+  - (✳)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✳)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - solving mysteries
+  - unmasking the ghost
+  - chasing clues
+  - getting scared
+  - eating snacks
+  wings:
+  - - ⟪✳
+    - ✳⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Scooby Agent
+  welcome: Ruh-roh, Raggy! Type your message or /help!
+  goodbye: Mystery solved! Scooby Snacks for all!
+  response_label: ' ✳ SCOOBY DOO '
+  prompt_symbol: '✳ ❯ '
+  help_header: (✳) SCOOBY DOO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDDE45].####[/] [#FCD941].###.[/] [#FBD33B].###.[/] [#FBCC35]####.[/] [#FAC52E]#...#[/] [#F9BC26].....[/] [#F8B31E]####.[/] [#F6A915].###.[/] [#F59E0B].###.[/]
+  [#FDE047]#....[/] [#FDDE45]#....[/] [#FCD941]#...#[/] [#FBD33B]#...#[/] [#FBCC35]#...#[/] [#FAC52E].#.#.[/] [#F9BC26].....[/] [#F8B31E]#...#[/] [#F6A915]#...#[/] [#F59E0B]#...#[/]
+  [#FDE047].###.[/] [#FDDE45]#....[/] [#FCD941]#...#[/] [#FBD33B]#...#[/] [#FBCC35]####.[/] [#FAC52E]..#..[/] [#F9BC26].....[/] [#F8B31E]#...#[/] [#F6A915]#...#[/] [#F59E0B]#...#[/]
+  [#FDE047]....#[/] [#FDDE45]#....[/] [#FCD941]#...#[/] [#FBD33B]#...#[/] [#FBCC35]#...#[/] [#FAC52E]..#..[/] [#F9BC26].....[/] [#F8B31E]#...#[/] [#F6A915]#...#[/] [#F59E0B]#...#[/]
+  [#FDE047]####.[/] [#FDDE45].####[/] [#FCD941].###.[/] [#FBD33B].###.[/] [#FBCC35]####.[/] [#FAC52E]..#..[/] [#F9BC26].....[/] [#F8B31E]####.[/] [#F6A915].###.[/] [#F59E0B].###.[/]
+banner_hero: |-
+  [#22C55E]╭────────────────────────────────────────╮[/]
+  [#F59E0B]✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ [/]
+  [#F59E0B]                                        [/]
+  [bold #FDE047]SCOOBY DOO                              [/]
+  [#E8F6EA]The 2000s Mystery Inc. — same gang, new…[/]
+  [#F59E0B]                                        [/]
+  [#F59E0B]✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ [/]
+  [#22C55E]╰────────────────────────────────────────╯[/]

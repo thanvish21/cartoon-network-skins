@@ -1,0 +1,94 @@
+name: ben-10-ultimate-alien
+description: The Ultimatrix era — every transformation, one step further.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FFFFFF'
+  banner_accent: '#FFFFFF'
+  banner_dim: '#5E5252'
+  banner_text: '#F5E0E0'
+  ui_accent: '#FFFFFF'
+  ui_label: '#F87171'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F5E0E0'
+  input_rule: '#DC2626'
+  response_border: '#FFFFFF'
+  status_bar_bg: '#201919'
+  status_bar_text: '#F5E0E0'
+  status_bar_strong: '#FFFFFF'
+  status_bar_dim: '#5E5252'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201919'
+  completion_menu_bg: '#0D0505'
+  completion_menu_current_bg: '#5A5555'
+  completion_menu_meta_bg: '#0B0404'
+  completion_menu_meta_current_bg: '#514B4B'
+  session_label: '#F87171'
+  session_border: '#5E5252'
+spinner:
+  waiting_faces:
+  - (▲)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (▲)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - evolving the Ultimatrix
+  - unleashing ultimate forms
+  - scanning the map of infinity
+  - analyzing the threat
+  - going ultimate
+  wings:
+  - - ⟪▲
+    - ▲⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Ultimatrix Agent
+  welcome: Ultimatrix ready. Type your message or /help and evolve.
+  goodbye: Ultimatrix powering down. Stay ultimate!
+  response_label: ' ▲ ULTIMATE ALIEN '
+  prompt_symbol: '▲ ❯ '
+  help_header: (▲) ULTIMATE ALIEN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FFFFFF]#...#[/] [#FFFCFC]#....[/] [#FFF6F6]#####[/] [#FEEFEF]#####[/] [#FEE7E7]#...#[/] [#FDDDDD].###.[/] [#FDD2D2]#####[/] [#FCC7C7]#####[/] [#FCBABA].....[/] [#FBADAD].###.[/] [#FA9F9F]#....[/] [#FA9090]#####[/] [#F98181]#####[/] [#F87171]#...#[/]
+  [#FFFFFF]#...#[/] [#FFFCFC]#....[/] [#FFF6F6]..#..[/] [#FEEFEF]..#..[/] [#FEE7E7]##.##[/] [#FDDDDD]#...#[/] [#FDD2D2]..#..[/] [#FCC7C7]#....[/] [#FCBABA].....[/] [#FBADAD]#...#[/] [#FA9F9F]#....[/] [#FA9090]..#..[/] [#F98181]#....[/] [#F87171]##..#[/]
+  [#FFFFFF]#...#[/] [#FFFCFC]#....[/] [#FFF6F6]..#..[/] [#FEEFEF]..#..[/] [#FEE7E7]#.#.#[/] [#FDDDDD]#####[/] [#FDD2D2]..#..[/] [#FCC7C7]####.[/] [#FCBABA].....[/] [#FBADAD]#####[/] [#FA9F9F]#....[/] [#FA9090]..#..[/] [#F98181]####.[/] [#F87171]#.#.#[/]
+  [#FFFFFF]#...#[/] [#FFFCFC]#....[/] [#FFF6F6]..#..[/] [#FEEFEF]..#..[/] [#FEE7E7]#...#[/] [#FDDDDD]#...#[/] [#FDD2D2]..#..[/] [#FCC7C7]#....[/] [#FCBABA].....[/] [#FBADAD]#...#[/] [#FA9F9F]#....[/] [#FA9090]..#..[/] [#F98181]#....[/] [#F87171]#..##[/]
+  [#FFFFFF].###.[/] [#FFFCFC]#####[/] [#FFF6F6]..#..[/] [#FEEFEF]#####[/] [#FEE7E7]#...#[/] [#FDDDDD]#...#[/] [#FDD2D2]..#..[/] [#FCC7C7]#####[/] [#FCBABA].....[/] [#FBADAD]#...#[/] [#FA9F9F]#####[/] [#FA9090]#####[/] [#F98181]#####[/] [#F87171]#...#[/]
+banner_hero: |-
+  [#DC2626]╭────────────────────────────────────────╮[/]
+  [#F87171]▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ [/]
+  [#F87171]                                        [/]
+  [bold #FFFFFF]ULTIMATE ALIEN                          [/]
+  [#F5E0E0]The Ultimatrix era — every transformati…[/]
+  [#F87171]                                        [/]
+  [#F87171]▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ [/]
+  [#DC2626]╰────────────────────────────────────────╯[/]

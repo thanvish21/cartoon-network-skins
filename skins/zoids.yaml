@@ -1,0 +1,94 @@
+name: zoids
+description: Mecha beasts battling across the planet Zi.
+colors:
+  banner_border: '#2563EB'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#545A65'
+  banner_text: '#E5ECF7'
+  ui_accent: '#FDE047'
+  ui_label: '#F97316'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5ECF7'
+  input_rule: '#2563EB'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A1F29'
+  status_bar_text: '#E5ECF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#545A65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A1F29'
+  completion_menu_bg: '#060C16'
+  completion_menu_current_bg: '#555026'
+  completion_menu_meta_bg: '#050A13'
+  completion_menu_meta_current_bg: '#4B4724'
+  session_label: '#F97316'
+  session_border: '#545A65'
+spinner:
+  waiting_faces:
+  - (◻)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◻)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - battling zoids
+  - riding the Liger
+  - pilot-ing
+  - fighting the Empire
+  - saving the planet
+  wings:
+  - - ⟪◻
+    - ◻⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Zoid Pilot
+  welcome: Zoid, launch! Type your message or /help, pilot!
+  goodbye: Battle won! Zoid out!
+  response_label: ' ◻ ZOIDS '
+  prompt_symbol: '◻ ❯ '
+  help_header: (◻) ZOIDS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FCD241].###.[/] [#FCB936]#####[/] [#FA9927]####.[/] [#F97316].####[/]
+  [#FDE047]...#.[/] [#FCD241]#...#[/] [#FCB936]..#..[/] [#FA9927]#...#[/] [#F97316]#....[/]
+  [#FDE047]..#..[/] [#FCD241]#...#[/] [#FCB936]..#..[/] [#FA9927]#...#[/] [#F97316].###.[/]
+  [#FDE047].#...[/] [#FCD241]#...#[/] [#FCB936]..#..[/] [#FA9927]#...#[/] [#F97316]....#[/]
+  [#FDE047]#####[/] [#FCD241].###.[/] [#FCB936]#####[/] [#FA9927]####.[/] [#F97316]####.[/]
+banner_hero: |-
+  [#2563EB]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#F97316]◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ [/]
+  [#F97316]                                        [/]
+  [bold #FDE047]ZOIDS                                   [/]
+  [#E5ECF7]Mecha beasts battling across the planet…[/]
+  [#F97316]                                        [/]
+  [#F97316]◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ ◻ [/]
+  [#2563EB]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

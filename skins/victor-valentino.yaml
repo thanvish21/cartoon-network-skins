@@ -1,0 +1,94 @@
+name: victor-valentino
+description: Two brothers exploring a Mexican folklore town.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5F5864'
+  banner_text: '#F3EDF8'
+  ui_accent: '#FDE047'
+  ui_label: '#FB923C'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F3EDF8'
+  input_rule: '#A855F7'
+  response_border: '#FDE047'
+  status_bar_bg: '#221C27'
+  status_bar_text: '#F3EDF8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5F5864'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221C27'
+  completion_menu_bg: '#0F0814'
+  completion_menu_current_bg: '#5B4D24'
+  completion_menu_meta_bg: '#0D0711'
+  completion_menu_meta_current_bg: '#524422'
+  session_label: '#FB923C'
+  session_border: '#5F5864'
+spinner:
+  waiting_faces:
+  - (☾)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☾)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - chasing chupacabras
+  - hanging in Monte Macabre
+  - messing with the gods
+  - exploring folklore
+  - avoiding Grandma
+  wings:
+  - - ⟪☾
+    - ☾⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Monte Macabre Agent
+  welcome: Welcome to Monte Macabre! Type your message or /help.
+  goodbye: Folklore's done for today. Bye!
+  response_label: ' ☾ VICTOR VALENTINO '
+  prompt_symbol: '☾ ❯ '
+  help_header: (☾) VICTOR VALENTINO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDDF47]#####[/] [#FDDC46].####[/] [#FDD946]#####[/] [#FDD545].###.[/] [#FDD145]####.[/] [#FCCC44].....[/] [#FCC743]#...#[/] [#FCC243].###.[/] [#FCBC42]#....[/] [#FCB641]#####[/] [#FCAF40]#...#[/] [#FCA83F]#####[/] [#FBA13E]#####[/] [#FB9A3D]#...#[/] [#FB923C].###.[/]
+  [#FDE047]#...#[/] [#FDDF47]..#..[/] [#FDDC46]#....[/] [#FDD946]..#..[/] [#FDD545]#...#[/] [#FDD145]#...#[/] [#FCCC44].....[/] [#FCC743]#...#[/] [#FCC243]#...#[/] [#FCBC42]#....[/] [#FCB641]#....[/] [#FCAF40]##..#[/] [#FCA83F]..#..[/] [#FBA13E]..#..[/] [#FB9A3D]##..#[/] [#FB923C]#...#[/]
+  [#FDE047]#...#[/] [#FDDF47]..#..[/] [#FDDC46]#....[/] [#FDD946]..#..[/] [#FDD545]#...#[/] [#FDD145]####.[/] [#FCCC44].....[/] [#FCC743]#...#[/] [#FCC243]#####[/] [#FCBC42]#....[/] [#FCB641]####.[/] [#FCAF40]#.#.#[/] [#FCA83F]..#..[/] [#FBA13E]..#..[/] [#FB9A3D]#.#.#[/] [#FB923C]#...#[/]
+  [#FDE047].#.#.[/] [#FDDF47]..#..[/] [#FDDC46]#....[/] [#FDD946]..#..[/] [#FDD545]#...#[/] [#FDD145]#..#.[/] [#FCCC44].....[/] [#FCC743].#.#.[/] [#FCC243]#...#[/] [#FCBC42]#....[/] [#FCB641]#....[/] [#FCAF40]#..##[/] [#FCA83F]..#..[/] [#FBA13E]..#..[/] [#FB9A3D]#..##[/] [#FB923C]#...#[/]
+  [#FDE047]..#..[/] [#FDDF47]#####[/] [#FDDC46].####[/] [#FDD946]..#..[/] [#FDD545].###.[/] [#FDD145]#...#[/] [#FCCC44].....[/] [#FCC743]..#..[/] [#FCC243]#...#[/] [#FCBC42]#####[/] [#FCB641]#####[/] [#FCAF40]#...#[/] [#FCA83F]..#..[/] [#FBA13E]#####[/] [#FB9A3D]#...#[/] [#FB923C].###.[/]
+banner_hero: |-
+  [#A855F7]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#FB923C]☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ [/]
+  [#FB923C]                                        [/]
+  [bold #FDE047]VICTOR VALENTINO                        [/]
+  [#F3EDF8]Two brothers exploring a Mexican folklo…[/]
+  [#FB923C]                                        [/]
+  [#FB923C]☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ ☾ [/]
+  [#A855F7]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

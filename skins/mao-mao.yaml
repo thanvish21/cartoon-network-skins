@@ -1,0 +1,94 @@
+name: mao-mao
+description: A hot-tempered sheriff cat defending Pure Heart Valley.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#615B53'
+  banner_text: '#F7EFE5'
+  ui_accent: '#FDE047'
+  ui_label: '#A855F7'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#231F19'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#615B53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#231F19'
+  completion_menu_bg: '#100B05'
+  completion_menu_current_bg: '#5C4F1A'
+  completion_menu_meta_bg: '#0E0904'
+  completion_menu_meta_current_bg: '#524717'
+  session_label: '#A855F7'
+  session_border: '#615B53'
+spinner:
+  waiting_faces:
+  - (✕)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✕)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - defending Pure Heart Valley
+  - riding King Snugglemagne
+  - patrolling
+  - hunting the Sky Pirates
+  - being a hero
+  wings:
+  - - ⟪✕
+    - ✕⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Sheriff Agent
+  welcome: Pure Heart Valley protected! Type your message or /help!
+  goodbye: Sheriff Mao Mao out! Stay pure of heart!
+  response_label: ' ✕ MAO MAO '
+  prompt_symbol: '✕ ❯ '
+  help_header: (✕) MAO MAO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#F7D753].###.[/] [#EDC569].###.[/] [#DFAF85].....[/] [#CF94A7]#...#[/] [#BC76CD].###.[/] [#A855F7].###.[/]
+  [#FDE047]##.##[/] [#F7D753]#...#[/] [#EDC569]#...#[/] [#DFAF85].....[/] [#CF94A7]##.##[/] [#BC76CD]#...#[/] [#A855F7]#...#[/]
+  [#FDE047]#.#.#[/] [#F7D753]#####[/] [#EDC569]#...#[/] [#DFAF85].....[/] [#CF94A7]#.#.#[/] [#BC76CD]#####[/] [#A855F7]#...#[/]
+  [#FDE047]#...#[/] [#F7D753]#...#[/] [#EDC569]#...#[/] [#DFAF85].....[/] [#CF94A7]#...#[/] [#BC76CD]#...#[/] [#A855F7]#...#[/]
+  [#FDE047]#...#[/] [#F7D753]#...#[/] [#EDC569].###.[/] [#DFAF85].....[/] [#CF94A7]#...#[/] [#BC76CD]#...#[/] [#A855F7].###.[/]
+banner_hero: |-
+  [#F97316]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#A855F7]✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ [/]
+  [#A855F7]                                        [/]
+  [bold #FDE047]MAO MAO                                 [/]
+  [#F7EFE5]A hot-tempered sheriff cat defending Pu…[/]
+  [#A855F7]                                        [/]
+  [#A855F7]✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ [/]
+  [#F97316]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

@@ -1,0 +1,94 @@
+name: powerpuff-girls-2016
+description: The reboot — same trio, brighter neon and new baddies.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#A3E635'
+  banner_accent: '#A3E635'
+  banner_dim: '#645865'
+  banner_text: '#FBEAF3'
+  ui_accent: '#A3E635'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#FBEAF3'
+  input_rule: '#F472B6'
+  response_border: '#A3E635'
+  status_bar_bg: '#251E2A'
+  status_bar_text: '#FBEAF3'
+  status_bar_strong: '#A3E635'
+  status_bar_dim: '#645865'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251E2A'
+  completion_menu_bg: '#120A18'
+  completion_menu_current_bg: '#405021'
+  completion_menu_meta_bg: '#0F0814'
+  completion_menu_meta_current_bg: '#3B4820'
+  session_label: '#38BDF8'
+  session_border: '#645865'
+spinner:
+  waiting_faces:
+  - (★)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (★)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - super-speeding
+  - punching baddies
+  - saving the day
+  - fighting Mojo Jojo
+  - zooming home
+  wings:
+  - - ⟪★
+    - ★⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Powerpuff Agent
+  welcome: Who's gonna save the world today? Type your message or /help!
+  goodbye: Superheroes need rest too. Night!
+  response_label: ' ★ POWERPUFF 2016 '
+  prompt_symbol: '★ ❯ '
+  help_header: (★) POWERPUFF 2016 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#A3E635]####.[/] [#A1E539].###.[/] [#9DE441]#...#[/] [#97E14B]#####[/] [#91DF56]####.[/] [#89DC64]####.[/] [#81D972]#...#[/] [#79D682]#####[/] [#6FD293]#####[/] [#65CEA5].....[/] [#5BCAB9].###.[/] [#50C6CD].###.[/] [#44C2E2]..#..[/] [#38BDF8].###.[/]
+  [#A3E635]#...#[/] [#A1E539]#...#[/] [#9DE441]#...#[/] [#97E14B]#....[/] [#91DF56]#...#[/] [#89DC64]#...#[/] [#81D972]#...#[/] [#79D682]#....[/] [#6FD293]#....[/] [#65CEA5].....[/] [#5BCAB9]....#[/] [#50C6CD]#..##[/] [#44C2E2].##..[/] [#38BDF8]#....[/]
+  [#A3E635]####.[/] [#A1E539]#...#[/] [#9DE441]#.#.#[/] [#97E14B]####.[/] [#91DF56]####.[/] [#89DC64]####.[/] [#81D972]#...#[/] [#79D682]####.[/] [#6FD293]####.[/] [#65CEA5].....[/] [#5BCAB9].###.[/] [#50C6CD]#.#.#[/] [#44C2E2]..#..[/] [#38BDF8]####.[/]
+  [#A3E635]#....[/] [#A1E539]#...#[/] [#9DE441]##.##[/] [#97E14B]#....[/] [#91DF56]#..#.[/] [#89DC64]#....[/] [#81D972]#...#[/] [#79D682]#....[/] [#6FD293]#....[/] [#65CEA5].....[/] [#5BCAB9]#....[/] [#50C6CD]##..#[/] [#44C2E2]..#..[/] [#38BDF8]#...#[/]
+  [#A3E635]#....[/] [#A1E539].###.[/] [#9DE441]#...#[/] [#97E14B]#####[/] [#91DF56]#...#[/] [#89DC64]#....[/] [#81D972].###.[/] [#79D682]#....[/] [#6FD293]#....[/] [#65CEA5].....[/] [#5BCAB9]#####[/] [#50C6CD].###.[/] [#44C2E2]#####[/] [#38BDF8].###.[/]
+banner_hero: |-
+  [#F472B6]╭────────────────────────────────────────╮[/]
+  [#38BDF8]★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ [/]
+  [#38BDF8]                                        [/]
+  [bold #A3E635]POWERPUFF 2016                          [/]
+  [#FBEAF3]The reboot — same trio, brighter neon a…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ [/]
+  [#F472B6]╰────────────────────────────────────────╯[/]

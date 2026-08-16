@@ -1,0 +1,94 @@
+name: hero-108
+description: Hidden Valley's secret animal army faces the HighRollers.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625A52'
+  banner_text: '#F7EEE3'
+  ui_accent: '#FDE047'
+  ui_label: '#84CC16'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EEE3'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#251F18'
+  status_bar_text: '#F7EEE3'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625A52'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251F18'
+  completion_menu_bg: '#120B04'
+  completion_menu_current_bg: '#5D4F19'
+  completion_menu_meta_bg: '#0F0903'
+  completion_menu_meta_current_bg: '#544717'
+  session_label: '#84CC16'
+  session_border: '#625A52'
+spinner:
+  waiting_faces:
+  - (✳)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✳)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - rounding up the animals
+  - defending Hidden Valley
+  - launching first strike
+  - training the army
+  - outsmarting the HighRollers
+  wings:
+  - - ⟪✳
+    - ✳⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Hero 108 Agent
+  welcome: Heroes assemble! Type your message or /help.
+  goodbye: Hidden Valley is safe. Goodbye!
+  response_label: ' ✳ HERO 108 '
+  prompt_symbol: '✳ ❯ '
+  help_header: (✳) HERO 108 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#F6DF44]#####[/] [#EBDD40]####.[/] [#DBDA39].###.[/] [#C9D732].....[/] [#B4D429]..#..[/] [#9DD020].###.[/] [#84CC16].###.[/]
+  [#FDE047]#...#[/] [#F6DF44]#....[/] [#EBDD40]#...#[/] [#DBDA39]#...#[/] [#C9D732].....[/] [#B4D429].##..[/] [#9DD020]#..##[/] [#84CC16]#...#[/]
+  [#FDE047]#####[/] [#F6DF44]####.[/] [#EBDD40]####.[/] [#DBDA39]#...#[/] [#C9D732].....[/] [#B4D429]..#..[/] [#9DD020]#.#.#[/] [#84CC16].###.[/]
+  [#FDE047]#...#[/] [#F6DF44]#....[/] [#EBDD40]#..#.[/] [#DBDA39]#...#[/] [#C9D732].....[/] [#B4D429]..#..[/] [#9DD020]##..#[/] [#84CC16]#...#[/]
+  [#FDE047]#...#[/] [#F6DF44]#####[/] [#EBDD40]#...#[/] [#DBDA39].###.[/] [#C9D732].....[/] [#B4D429]#####[/] [#9DD020].###.[/] [#84CC16].###.[/]
+banner_hero: |-
+  [#F97316]╭────────────────────────────────────────╮[/]
+  [#84CC16]✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ [/]
+  [#84CC16]                                        [/]
+  [bold #FDE047]HERO 108                                [/]
+  [#F7EEE3]Hidden Valley's secret animal army face…[/]
+  [#84CC16]                                        [/]
+  [#84CC16]✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ [/]
+  [#F97316]╰────────────────────────────────────────╯[/]

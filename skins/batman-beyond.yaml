@@ -1,0 +1,94 @@
+name: batman-beyond
+description: A teenager inherits the Batsuit in Neo-Gotham.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#5F5355'
+  banner_text: '#F6E7E8'
+  ui_accent: '#FACC15'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E7E8'
+  input_rule: '#DC2626'
+  response_border: '#FACC15'
+  status_bar_bg: '#20181A'
+  status_bar_text: '#F6E7E8'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#5F5355'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#20181A'
+  completion_menu_bg: '#0D0406'
+  completion_menu_current_bg: '#59440B'
+  completion_menu_meta_bg: '#0B0305'
+  completion_menu_meta_current_bg: '#4F3C0A'
+  session_label: '#38BDF8'
+  session_border: '#5F5355'
+spinner:
+  waiting_faces:
+  - (⚡)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⚡)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - gliding across Neo-Gotham
+  - hacking the suit
+  - fighting Inque
+  - learning from Bruce
+  - being the new Batman
+  wings:
+  - - ⟪⚡
+    - ⚡⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Batman Agent
+  welcome: I'm Batman... the new one. Type your message or /help.
+  goodbye: Suit off. Later, old man.
+  response_label: ' ⚡ BATMAN BEYOND '
+  prompt_symbol: '⚡ ❯ '
+  help_header: (⚡) BATMAN BEYOND Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]####.[/] [#F5CC1A].###.[/] [#EDCB24]#####[/] [#E2CA31]#...#[/] [#D5C941].###.[/] [#C6C852]#...#[/] [#B5C765].....[/] [#A4C57A]####.[/] [#90C491]#####[/] [#7CC2A8]#...#[/] [#66C1C2].###.[/] [#50BFDC]#...#[/] [#38BDF8]####.[/]
+  [#FACC15]#...#[/] [#F5CC1A]#...#[/] [#EDCB24]..#..[/] [#E2CA31]##.##[/] [#D5C941]#...#[/] [#C6C852]##..#[/] [#B5C765].....[/] [#A4C57A]#...#[/] [#90C491]#....[/] [#7CC2A8].#.#.[/] [#66C1C2]#...#[/] [#50BFDC]##..#[/] [#38BDF8]#...#[/]
+  [#FACC15]####.[/] [#F5CC1A]#####[/] [#EDCB24]..#..[/] [#E2CA31]#.#.#[/] [#D5C941]#####[/] [#C6C852]#.#.#[/] [#B5C765].....[/] [#A4C57A]####.[/] [#90C491]####.[/] [#7CC2A8]..#..[/] [#66C1C2]#...#[/] [#50BFDC]#.#.#[/] [#38BDF8]#...#[/]
+  [#FACC15]#...#[/] [#F5CC1A]#...#[/] [#EDCB24]..#..[/] [#E2CA31]#...#[/] [#D5C941]#...#[/] [#C6C852]#..##[/] [#B5C765].....[/] [#A4C57A]#...#[/] [#90C491]#....[/] [#7CC2A8]..#..[/] [#66C1C2]#...#[/] [#50BFDC]#..##[/] [#38BDF8]#...#[/]
+  [#FACC15]####.[/] [#F5CC1A]#...#[/] [#EDCB24]..#..[/] [#E2CA31]#...#[/] [#D5C941]#...#[/] [#C6C852]#...#[/] [#B5C765].....[/] [#A4C57A]####.[/] [#90C491]#####[/] [#7CC2A8]..#..[/] [#66C1C2].###.[/] [#50BFDC]#...#[/] [#38BDF8]####.[/]
+banner_hero: |-
+  [#DC2626]╭════════════════════════════════════════╮[/]
+  [#38BDF8]⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ [/]
+  [#38BDF8]                                        [/]
+  [bold #FACC15]BATMAN BEYOND                           [/]
+  [#F6E7E8]A teenager inherits the Batsuit in Neo-…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ [/]
+  [#DC2626]╰════════════════════════════════════════╯[/]

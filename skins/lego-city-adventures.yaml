@@ -1,0 +1,94 @@
+name: lego-city-adventures
+description: Everyday heroes of LEGO City — cops, firefighters and more.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#555E69'
+  banner_text: '#E7EEF8'
+  ui_accent: '#FDE047'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7EEF8'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B232E'
+  status_bar_text: '#E7EEF8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#555E69'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B232E'
+  completion_menu_bg: '#07101C'
+  completion_menu_current_bg: '#56532A'
+  completion_menu_meta_bg: '#060E18'
+  completion_menu_meta_current_bg: '#4C4A28'
+  session_label: '#F8FAFC'
+  session_border: '#555E69'
+spinner:
+  waiting_faces:
+  - (✈)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✈)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - going on city adventures
+  - driving the fire truck
+  - catching crooks
+  - building things
+  - helping the citizens
+  wings:
+  - - ⟪✈
+    - ✈⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: City Agent
+  welcome: LEGO City at your service! Type your message or /help.
+  goodbye: City safe! Building complete!
+  response_label: ' ✈ LEGO CITY '
+  prompt_symbol: '✈ ❯ '
+  help_header: (✈) LEGO CITY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#....[/] [#FDE14F]#####[/] [#FCE35E].####[/] [#FCE671].###.[/] [#FBE987].....[/] [#FBEDA0].####[/] [#FAF1BD]#####[/] [#F9F5DB]#####[/] [#F8FAFC]#...#[/]
+  [#FDE047]#....[/] [#FDE14F]#....[/] [#FCE35E]#....[/] [#FCE671]#...#[/] [#FBE987].....[/] [#FBEDA0]#....[/] [#FAF1BD]..#..[/] [#F9F5DB]..#..[/] [#F8FAFC].#.#.[/]
+  [#FDE047]#....[/] [#FDE14F]####.[/] [#FCE35E]#..##[/] [#FCE671]#...#[/] [#FBE987].....[/] [#FBEDA0]#....[/] [#FAF1BD]..#..[/] [#F9F5DB]..#..[/] [#F8FAFC]..#..[/]
+  [#FDE047]#....[/] [#FDE14F]#....[/] [#FCE35E]#...#[/] [#FCE671]#...#[/] [#FBE987].....[/] [#FBEDA0]#....[/] [#FAF1BD]..#..[/] [#F9F5DB]..#..[/] [#F8FAFC]..#..[/]
+  [#FDE047]#####[/] [#FDE14F]#####[/] [#FCE35E].####[/] [#FCE671].###.[/] [#FBE987].....[/] [#FBEDA0].####[/] [#FAF1BD]#####[/] [#F9F5DB]..#..[/] [#F8FAFC]..#..[/]
+banner_hero: |-
+  [#3B82F6]╭════════════════════════════════════════╮[/]
+  [#F8FAFC]✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ [/]
+  [#F8FAFC]                                        [/]
+  [bold #FDE047]LEGO CITY                               [/]
+  [#E7EEF8]Everyday heroes of LEGO City — cops, fi…[/]
+  [#F8FAFC]                                        [/]
+  [#F8FAFC]✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ ✈ [/]
+  [#3B82F6]╰════════════════════════════════════════╯[/]

@@ -1,0 +1,94 @@
+name: ok-ko
+description: K.O. trains to be a hero at Lakewood Plaza Turbo.
+colors:
+  banner_border: '#EF4444'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625656'
+  banner_text: '#F8E9E9'
+  ui_accent: '#FDE047'
+  ui_label: '#3B82F6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8E9E9'
+  input_rule: '#EF4444'
+  response_border: '#FDE047'
+  status_bar_bg: '#241B1B'
+  status_bar_text: '#F8E9E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625656'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#241B1B'
+  completion_menu_bg: '#110707'
+  completion_menu_current_bg: '#5D4C1B'
+  completion_menu_meta_bg: '#0E0606'
+  completion_menu_meta_current_bg: '#534419'
+  session_label: '#3B82F6'
+  session_border: '#625656'
+spinner:
+  waiting_faces:
+  - (✴)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✴)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - powering up
+  - punching robots
+  - being a hero
+  - training at the plaza
+  - leveling up
+  wings:
+  - - ⟪✴
+    - ✴⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Hero Agent
+  welcome: Let's be heroes! Type your message or /help!
+  goodbye: Powering down. Be a hero!
+  response_label: ' ✴ OK K.O. '
+  prompt_symbol: '✴ ❯ '
+  help_header: (✴) OK K.O. Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].###.[/] [#F0DA53]#...#[/] [#D8CE69].....[/] [#B8BF85]#...#[/] [#93ADA6].....[/] [#6998CC].###.[/] [#3B82F6].....[/]
+  [#FDE047]#...#[/] [#F0DA53]#..#.[/] [#D8CE69].....[/] [#B8BF85]#..#.[/] [#93ADA6].....[/] [#6998CC]#...#[/] [#3B82F6].....[/]
+  [#FDE047]#...#[/] [#F0DA53]###..[/] [#D8CE69].....[/] [#B8BF85]###..[/] [#93ADA6].....[/] [#6998CC]#...#[/] [#3B82F6].....[/]
+  [#FDE047]#...#[/] [#F0DA53]#..#.[/] [#D8CE69].....[/] [#B8BF85]#..#.[/] [#93ADA6]..##.[/] [#6998CC]#...#[/] [#3B82F6]..##.[/]
+  [#FDE047].###.[/] [#F0DA53]#...#[/] [#D8CE69].....[/] [#B8BF85]#...#[/] [#93ADA6]..##.[/] [#6998CC].###.[/] [#3B82F6]..##.[/]
+banner_hero: |-
+  [#EF4444]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#3B82F6]✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ [/]
+  [#3B82F6]                                        [/]
+  [bold #FDE047]OK K.O.                                 [/]
+  [#F8E9E9]K.O. trains to be a hero at Lakewood Pl…[/]
+  [#3B82F6]                                        [/]
+  [#3B82F6]✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ [/]
+  [#EF4444]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

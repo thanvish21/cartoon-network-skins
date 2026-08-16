@@ -1,0 +1,94 @@
+name: bleach
+description: Ichigo Kurosaki, the substitute Soul Reaper.
+colors:
+  banner_border: '#E5E7EB'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5B5D5F'
+  banner_text: '#EDEFF2'
+  ui_accent: '#FDE047'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EDEFF2'
+  input_rule: '#E5E7EB'
+  response_border: '#FDE047'
+  status_bar_bg: '#202123'
+  status_bar_text: '#EDEFF2'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5B5D5F'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#202123'
+  completion_menu_bg: '#0D0E10'
+  completion_menu_current_bg: '#5A5122'
+  completion_menu_meta_bg: '#0B0C0E'
+  completion_menu_meta_current_bg: '#50491F'
+  session_label: '#EF4444'
+  session_border: '#5B5D5F'
+spinner:
+  waiting_faces:
+  - (✚)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✚)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - releasing Bankai
+  - fighting hollows
+  - training in the Soul Society
+  - protecting Karakura
+  - mastering the Zanpakutō
+  wings:
+  - - ⟪✚
+    - ✚⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Soul Reaper Agent
+  welcome: Bankai! Type your message or /help, Soul Reaper.
+  goodbye: The hollows are gone. Later!
+  response_label: ' ✚ BLEACH '
+  prompt_symbol: '✚ ❯ '
+  help_header: (✚) BLEACH Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#FCD247]#....[/] [#F9B946]#####[/] [#F69746].###.[/] [#F37045].####[/] [#EF4444]#...#[/]
+  [#FDE047]#...#[/] [#FCD247]#....[/] [#F9B946]#....[/] [#F69746]#...#[/] [#F37045]#....[/] [#EF4444]#...#[/]
+  [#FDE047]####.[/] [#FCD247]#....[/] [#F9B946]####.[/] [#F69746]#####[/] [#F37045]#....[/] [#EF4444]#####[/]
+  [#FDE047]#...#[/] [#FCD247]#....[/] [#F9B946]#....[/] [#F69746]#...#[/] [#F37045]#....[/] [#EF4444]#...#[/]
+  [#FDE047]####.[/] [#FCD247]#####[/] [#F9B946]#####[/] [#F69746]#...#[/] [#F37045].####[/] [#EF4444]#...#[/]
+banner_hero: |-
+  [#E5E7EB]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#EF4444]✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ [/]
+  [#EF4444]                                        [/]
+  [bold #FDE047]BLEACH                                  [/]
+  [#EDEFF2]Ichigo Kurosaki, the substitute Soul Re…[/]
+  [#EF4444]                                        [/]
+  [#EF4444]✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ ✚ [/]
+  [#E5E7EB]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

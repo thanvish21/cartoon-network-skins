@@ -1,0 +1,94 @@
+name: attack-on-titan
+description: Humanity fights for survival against the Titans.
+colors:
+  banner_border: '#8B5A2B'
+  banner_title: '#E5E7EB'
+  banner_accent: '#E5E7EB'
+  banner_dim: '#5A5652'
+  banner_text: '#EFE9E2'
+  ui_accent: '#E5E7EB'
+  ui_label: '#DC2626'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EFE9E2'
+  input_rule: '#8B5A2B'
+  response_border: '#E5E7EB'
+  status_bar_bg: '#1E1B19'
+  status_bar_text: '#EFE9E2'
+  status_bar_strong: '#E5E7EB'
+  status_bar_dim: '#5A5652'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E1B19'
+  completion_menu_bg: '#0A0705'
+  completion_menu_current_bg: '#504F4F'
+  completion_menu_meta_bg: '#080604'
+  completion_menu_meta_current_bg: '#474645'
+  session_label: '#DC2626'
+  session_border: '#5A5652'
+spinner:
+  waiting_faces:
+  - (✕)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✕)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - maneuvering with the ODM gear
+  - fighting titans
+  - scouting beyond the walls
+  - training with the corps
+  - fighting for humanity
+  wings:
+  - - ⟪✕
+    - ✕⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Scout Agent
+  welcome: Dedicate your hearts! Type your message or /help, soldier.
+  goodbye: The walls stand. Fight on!
+  response_label: ' ✕ TITAN '
+  prompt_symbol: '✕ ❯ '
+  help_header: (✕) TITAN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#E5E7EB]#####[/] [#E4CFD2]#####[/] [#E2A3A5]#####[/] [#DF6A6B].###.[/] [#DC2626]#...#[/]
+  [#E5E7EB]..#..[/] [#E4CFD2]..#..[/] [#E2A3A5]..#..[/] [#DF6A6B]#...#[/] [#DC2626]##..#[/]
+  [#E5E7EB]..#..[/] [#E4CFD2]..#..[/] [#E2A3A5]..#..[/] [#DF6A6B]#####[/] [#DC2626]#.#.#[/]
+  [#E5E7EB]..#..[/] [#E4CFD2]..#..[/] [#E2A3A5]..#..[/] [#DF6A6B]#...#[/] [#DC2626]#..##[/]
+  [#E5E7EB]..#..[/] [#E4CFD2]#####[/] [#E2A3A5]..#..[/] [#DF6A6B]#...#[/] [#DC2626]#...#[/]
+banner_hero: |-
+  [#8B5A2B]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#DC2626]✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ [/]
+  [#DC2626]                                        [/]
+  [bold #E5E7EB]TITAN                                   [/]
+  [#EFE9E2]Humanity fights for survival against th…[/]
+  [#DC2626]                                        [/]
+  [#DC2626]✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ ✕ [/]
+  [#8B5A2B]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

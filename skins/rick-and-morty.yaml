@@ -1,0 +1,94 @@
+name: rick-and-morty
+description: A genius mad scientist and his grandson across dimensions.
+colors:
+  banner_border: '#7DD3FC'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#586266'
+  banner_text: '#EAF4F8'
+  ui_accent: '#FDE047'
+  ui_label: '#4ADE80'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EAF4F8'
+  input_rule: '#7DD3FC'
+  response_border: '#FDE047'
+  status_bar_bg: '#1E272A'
+  status_bar_text: '#EAF4F8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#586266'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E272A'
+  completion_menu_bg: '#0A1418'
+  completion_menu_current_bg: '#585527'
+  completion_menu_meta_bg: '#081114'
+  completion_menu_meta_current_bg: '#4E4D25'
+  session_label: '#4ADE80'
+  session_border: '#586266'
+spinner:
+  waiting_faces:
+  - (✌)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✌)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - going on interdimensional adventures
+  - inventing gadgets
+  - saving the multiverse
+  - portal-ing
+  - being a genius (sort of)
+  wings:
+  - - ⟪✌
+    - ✌⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Rick Agent
+  welcome: Wubba lubba dub dub! Type your message or /help, Morty!
+  goodbye: I'm gonna go cry in the garage. Bye.
+  response_label: ' ✌ RICK & MORTY '
+  prompt_symbol: '✌ ❯ '
+  help_header: (✌) RICK & MORTY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#F8E049]#####[/] [#EFE04B].####[/] [#E4E04F]#...#[/] [#D6E053].....[/] [#C6DF58].###.[/] [#B5DF5E].....[/] [#A2DF64]#...#[/] [#8EDF6A].###.[/] [#79DF71]####.[/] [#62DE78]#####[/] [#4ADE80]#...#[/]
+  [#FDE047]#...#[/] [#F8E049]..#..[/] [#EFE04B]#....[/] [#E4E04F]#..#.[/] [#D6E053].....[/] [#C6DF58]#...#[/] [#B5DF5E].....[/] [#A2DF64]##.##[/] [#8EDF6A]#...#[/] [#79DF71]#...#[/] [#62DE78]..#..[/] [#4ADE80].#.#.[/]
+  [#FDE047]####.[/] [#F8E049]..#..[/] [#EFE04B]#....[/] [#E4E04F]###..[/] [#D6E053].....[/] [#C6DF58]..#..[/] [#B5DF5E].....[/] [#A2DF64]#.#.#[/] [#8EDF6A]#...#[/] [#79DF71]####.[/] [#62DE78]..#..[/] [#4ADE80]..#..[/]
+  [#FDE047]#..#.[/] [#F8E049]..#..[/] [#EFE04B]#....[/] [#E4E04F]#..#.[/] [#D6E053].....[/] [#C6DF58].#.#.[/] [#B5DF5E].....[/] [#A2DF64]#...#[/] [#8EDF6A]#...#[/] [#79DF71]#..#.[/] [#62DE78]..#..[/] [#4ADE80]..#..[/]
+  [#FDE047]#...#[/] [#F8E049]#####[/] [#EFE04B].####[/] [#E4E04F]#...#[/] [#D6E053].....[/] [#C6DF58]##..#[/] [#B5DF5E].....[/] [#A2DF64]#...#[/] [#8EDF6A].###.[/] [#79DF71]#...#[/] [#62DE78]..#..[/] [#4ADE80]..#..[/]
+banner_hero: |-
+  [#7DD3FC]╭╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╮[/]
+  [#4ADE80]✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ [/]
+  [#4ADE80]                                        [/]
+  [bold #FDE047]RICK & MORTY                            [/]
+  [#EAF4F8]A genius mad scientist and his grandson…[/]
+  [#4ADE80]                                        [/]
+  [#4ADE80]✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ ✌ [/]
+  [#7DD3FC]╰╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╯[/]

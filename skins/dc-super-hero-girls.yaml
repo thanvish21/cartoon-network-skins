@@ -1,0 +1,94 @@
+name: dc-super-hero-girls
+description: Super-powered teens balancing heroics and high school.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625962'
+  banner_text: '#F8EBF3'
+  ui_accent: '#FDE047'
+  ui_label: '#3B82F6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8EBF3'
+  input_rule: '#F472B6'
+  response_border: '#FDE047'
+  status_bar_bg: '#241E27'
+  status_bar_text: '#F8EBF3'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625962'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#241E27'
+  completion_menu_bg: '#110A14'
+  completion_menu_current_bg: '#5D4E24'
+  completion_menu_meta_bg: '#0E0811'
+  completion_menu_meta_current_bg: '#534622'
+  session_label: '#3B82F6'
+  session_border: '#625962'
+spinner:
+  waiting_faces:
+  - (✺)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✺)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - going to school
+  - fighting super villains
+  - studying heroics
+  - hanging with the team
+  - saving Metropolis
+  wings:
+  - - ⟪✺
+    - ✺⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Hero Girl Agent
+  welcome: Super Hero High! Type your message or /help, classmate!
+  goodbye: School's out! Save the day tomorrow!
+  response_label: ' ✺ HERO GIRLS '
+  prompt_symbol: '✺ ❯ '
+  help_header: (✺) HERO GIRLS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#F6DD4D]#####[/] [#E9D659]####.[/] [#D8CE69].###.[/] [#C4C47B].....[/] [#ADB98F].####[/] [#93ADA6]#####[/] [#78A0BF]####.[/] [#5A91DA]#....[/] [#3B82F6].####[/]
+  [#FDE047]#...#[/] [#F6DD4D]#....[/] [#E9D659]#...#[/] [#D8CE69]#...#[/] [#C4C47B].....[/] [#ADB98F]#....[/] [#93ADA6]..#..[/] [#78A0BF]#...#[/] [#5A91DA]#....[/] [#3B82F6]#....[/]
+  [#FDE047]#####[/] [#F6DD4D]####.[/] [#E9D659]####.[/] [#D8CE69]#...#[/] [#C4C47B].....[/] [#ADB98F]#..##[/] [#93ADA6]..#..[/] [#78A0BF]####.[/] [#5A91DA]#....[/] [#3B82F6].###.[/]
+  [#FDE047]#...#[/] [#F6DD4D]#....[/] [#E9D659]#..#.[/] [#D8CE69]#...#[/] [#C4C47B].....[/] [#ADB98F]#...#[/] [#93ADA6]..#..[/] [#78A0BF]#..#.[/] [#5A91DA]#....[/] [#3B82F6]....#[/]
+  [#FDE047]#...#[/] [#F6DD4D]#####[/] [#E9D659]#...#[/] [#D8CE69].###.[/] [#C4C47B].....[/] [#ADB98F].####[/] [#93ADA6]#####[/] [#78A0BF]#...#[/] [#5A91DA]#####[/] [#3B82F6]####.[/]
+banner_hero: |-
+  [#F472B6]╭════════════════════════════════════════╮[/]
+  [#3B82F6]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#3B82F6]                                        [/]
+  [bold #FDE047]HERO GIRLS                              [/]
+  [#F8EBF3]Super-powered teens balancing heroics a…[/]
+  [#3B82F6]                                        [/]
+  [#3B82F6]✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ ✺ [/]
+  [#F472B6]╰════════════════════════════════════════╯[/]

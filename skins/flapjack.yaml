@@ -1,0 +1,94 @@
+name: flapjack
+description: A boy and a pirate captain searching for Candied Island.
+colors:
+  banner_border: '#2DD4BF'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#556462'
+  banner_text: '#E5F6F4'
+  ui_accent: '#FDE047'
+  ui_label: '#F87171'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5F6F4'
+  input_rule: '#2DD4BF'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B2927'
+  status_bar_text: '#E5F6F4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#556462'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B2927'
+  completion_menu_bg: '#071614'
+  completion_menu_current_bg: '#565724'
+  completion_menu_meta_bg: '#061311'
+  completion_menu_meta_current_bg: '#4C4F22'
+  session_label: '#F87171'
+  session_border: '#556462'
+spinner:
+  waiting_faces:
+  - (⚓)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⚓)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - sailing for Candied Island
+  - craving candy
+  - escaping Captain K'nuckles' lies
+  - swabbing the deck
+  - talking to Bubbie
+  wings:
+  - - ⟪⚓
+    - ⚓⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Captain Flapjack Agent
+  welcome: Ahoy, matey! Type your message or /help and set sail!
+  goodbye: Candied Island awaits! Goodbye!
+  response_label: ' ⚓ FLAPJACK '
+  prompt_symbol: '⚓ ❯ '
+  help_header: (⚓) FLAPJACK Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FDDA49]#....[/] [#FCCF4D].###.[/] [#FCC153]####.[/] [#FBB059]..###[/] [#FA9D60].###.[/] [#F98868].####[/] [#F87171]#...#[/]
+  [#FDE047]#....[/] [#FDDA49]#....[/] [#FCCF4D]#...#[/] [#FCC153]#...#[/] [#FBB059]...#.[/] [#FA9D60]#...#[/] [#F98868]#....[/] [#F87171]#..#.[/]
+  [#FDE047]####.[/] [#FDDA49]#....[/] [#FCCF4D]#####[/] [#FCC153]####.[/] [#FBB059]...#.[/] [#FA9D60]#####[/] [#F98868]#....[/] [#F87171]###..[/]
+  [#FDE047]#....[/] [#FDDA49]#....[/] [#FCCF4D]#...#[/] [#FCC153]#....[/] [#FBB059]#..#.[/] [#FA9D60]#...#[/] [#F98868]#....[/] [#F87171]#..#.[/]
+  [#FDE047]#....[/] [#FDDA49]#####[/] [#FCCF4D]#...#[/] [#FCC153]#....[/] [#FBB059].##..[/] [#FA9D60]#...#[/] [#F98868].####[/] [#F87171]#...#[/]
+banner_hero: |-
+  [#2DD4BF]╭────────────────────────────────────────╮[/]
+  [#F87171]⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ [/]
+  [#F87171]                                        [/]
+  [bold #FDE047]FLAPJACK                                [/]
+  [#E5F6F4]A boy and a pirate captain searching fo…[/]
+  [#F87171]                                        [/]
+  [#F87171]⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ ⚓ [/]
+  [#2DD4BF]╰────────────────────────────────────────╯[/]

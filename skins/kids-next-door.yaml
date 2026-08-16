@@ -1,0 +1,94 @@
+name: kids-next-door
+description: Five kids, a treehouse and a mission to fight adult tyranny.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#556258'
+  banner_text: '#E7F4EA'
+  ui_accent: '#FACC15'
+  ui_label: '#E5E7EB'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7F4EA'
+  input_rule: '#22C55E'
+  response_border: '#FACC15'
+  status_bar_bg: '#1B271E'
+  status_bar_text: '#E7F4EA'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#556258'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B271E'
+  completion_menu_bg: '#07140A'
+  completion_menu_current_bg: '#554F0E'
+  completion_menu_meta_bg: '#061108'
+  completion_menu_meta_current_bg: '#4B480D'
+  session_label: '#E5E7EB'
+  session_border: '#556258'
+spinner:
+  waiting_faces:
+  - (▣)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (▣)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - deploying operatives
+  - raiding the treehouse
+  - striking the Delightful Children
+  - securing the sector
+  - fighting adult tyranny
+  wings:
+  - - ⟪▣
+    - ▣⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: KND Operative
+  welcome: KND sector online. Type your message or /help, operative.
+  goodbye: Mission accomplished. Treehouse out!
+  response_label: ' ▣ KND '
+  prompt_symbol: '▣ ❯ '
+  help_header: (▣) KND Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]#...#[/] [#F3D661]#...#[/] [#E5E7EB]####.[/]
+  [#FACC15]#..#.[/] [#F3D661]##..#[/] [#E5E7EB]#...#[/]
+  [#FACC15]###..[/] [#F3D661]#.#.#[/] [#E5E7EB]#...#[/]
+  [#FACC15]#..#.[/] [#F3D661]#..##[/] [#E5E7EB]#...#[/]
+  [#FACC15]#...#[/] [#F3D661]#...#[/] [#E5E7EB]####.[/]
+banner_hero: |-
+  [#22C55E]╭────────────────────────────────────────╮[/]
+  [#E5E7EB]▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ [/]
+  [#E5E7EB]                                        [/]
+  [bold #FACC15]KND                                     [/]
+  [#E7F4EA]Five kids, a treehouse and a mission to…[/]
+  [#E5E7EB]                                        [/]
+  [#E5E7EB]▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ [/]
+  [#22C55E]╰────────────────────────────────────────╯[/]

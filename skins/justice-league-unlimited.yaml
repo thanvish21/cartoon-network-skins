@@ -1,0 +1,94 @@
+name: justice-league-unlimited
+description: The expanded league with dozens of heroes in action.
+colors:
+  banner_border: '#1D4ED8'
+  banner_title: '#93C5FD'
+  banner_accent: '#93C5FD'
+  banner_dim: '#545A64'
+  banner_text: '#E4EBF6'
+  ui_accent: '#93C5FD'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E4EBF6'
+  input_rule: '#1D4ED8'
+  response_border: '#93C5FD'
+  status_bar_bg: '#1A1F29'
+  status_bar_text: '#E4EBF6'
+  status_bar_strong: '#93C5FD'
+  status_bar_dim: '#545A64'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A1F29'
+  completion_menu_bg: '#060C16'
+  completion_menu_current_bg: '#334760'
+  completion_menu_meta_bg: '#050A13'
+  completion_menu_meta_current_bg: '#2D4057'
+  session_label: '#F59E0B'
+  session_border: '#545A64'
+spinner:
+  waiting_faces:
+  - (✶)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✶)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - expanding the league
+  - coordinating heroes
+  - fighting Cadmus
+  - saving the planet
+  - deploying teams
+  wings:
+  - - ⟪✶
+    - ✶⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: League Agent
+  welcome: League expanded. Type your message or /help, hero.
+  goodbye: Unlimited heroes, one mission. Out.
+  response_label: ' ✶ JUSTICE LEAGUE '
+  prompt_symbol: '✶ ❯ '
+  help_header: (✶) JUSTICE LEAGUE Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#93C5FD]..###[/] [#95C4F8]#...#[/] [#99C3EE].####[/] [#9EC1E2]#####[/] [#A4BED4]#####[/] [#AABCC3].####[/] [#B2B9B1]#####[/] [#BAB69D].....[/] [#C2B288]#....[/] [#CBAF72]#####[/] [#D5AB5A].###.[/] [#DFA741].####[/] [#EAA226]#...#[/] [#F59E0B]#####[/]
+  [#93C5FD]...#.[/] [#95C4F8]#...#[/] [#99C3EE]#....[/] [#9EC1E2]..#..[/] [#A4BED4]..#..[/] [#AABCC3]#....[/] [#B2B9B1]#....[/] [#BAB69D].....[/] [#C2B288]#....[/] [#CBAF72]#....[/] [#D5AB5A]#...#[/] [#DFA741]#....[/] [#EAA226]#...#[/] [#F59E0B]#....[/]
+  [#93C5FD]...#.[/] [#95C4F8]#...#[/] [#99C3EE].###.[/] [#9EC1E2]..#..[/] [#A4BED4]..#..[/] [#AABCC3]#....[/] [#B2B9B1]####.[/] [#BAB69D].....[/] [#C2B288]#....[/] [#CBAF72]####.[/] [#D5AB5A]#####[/] [#DFA741]#..##[/] [#EAA226]#...#[/] [#F59E0B]####.[/]
+  [#93C5FD]#..#.[/] [#95C4F8]#...#[/] [#99C3EE]....#[/] [#9EC1E2]..#..[/] [#A4BED4]..#..[/] [#AABCC3]#....[/] [#B2B9B1]#....[/] [#BAB69D].....[/] [#C2B288]#....[/] [#CBAF72]#....[/] [#D5AB5A]#...#[/] [#DFA741]#...#[/] [#EAA226]#...#[/] [#F59E0B]#....[/]
+  [#93C5FD].##..[/] [#95C4F8].###.[/] [#99C3EE]####.[/] [#9EC1E2]..#..[/] [#A4BED4]#####[/] [#AABCC3].####[/] [#B2B9B1]#####[/] [#BAB69D].....[/] [#C2B288]#####[/] [#CBAF72]#####[/] [#D5AB5A]#...#[/] [#DFA741].####[/] [#EAA226].###.[/] [#F59E0B]#####[/]
+banner_hero: |-
+  [#1D4ED8]╭════════════════════════════════════════╮[/]
+  [#F59E0B]✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ [/]
+  [#F59E0B]                                        [/]
+  [bold #93C5FD]JUSTICE LEAGUE                          [/]
+  [#E4EBF6]The expanded league with dozens of hero…[/]
+  [#F59E0B]                                        [/]
+  [#F59E0B]✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ ✶ [/]
+  [#1D4ED8]╰════════════════════════════════════════╯[/]

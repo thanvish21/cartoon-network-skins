@@ -1,0 +1,94 @@
+name: harvey-birdman
+description: A superhero lawyer defending cartoon characters.
+colors:
+  banner_border: '#F59E0B'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5F5A51'
+  banner_text: '#F6F0E3'
+  ui_accent: '#FDE047'
+  ui_label: '#64748B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6F0E3'
+  input_rule: '#F59E0B'
+  response_border: '#FDE047'
+  status_bar_bg: '#211D17'
+  status_bar_text: '#F6F0E3'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5F5A51'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#211D17'
+  completion_menu_bg: '#0E0903'
+  completion_menu_current_bg: '#5A4E19'
+  completion_menu_meta_bg: '#0C0803'
+  completion_menu_meta_current_bg: '#514516'
+  session_label: '#64748B'
+  session_border: '#5F5A51'
+spinner:
+  waiting_faces:
+  - (⚖)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⚖)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - defending clients
+  - practicing law
+  - objecting
+  - fighting for justice
+  - working at the firm
+  wings:
+  - - ⟪⚖
+    - ⚖⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Birdman Agent
+  welcome: You have the right to remain fabulous! Type your message or /help!
+  goodbye: Case dismissed! Birdman out!
+  response_label: ' ⚖ HARVEY BIRDMAN '
+  prompt_symbol: '⚖ ❯ '
+  help_header: (⚖) HARVEY BIRDMAN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FADE48].###.[/] [#F4D94B]####.[/] [#ECD44F]#...#[/] [#E3CE53]#####[/] [#D9C657]#...#[/] [#CDBE5C].....[/] [#C1B562]####.[/] [#B3AC68]#####[/] [#A5A26E]####.[/] [#969775]####.[/] [#868C7C]#...#[/] [#758083].###.[/] [#64748B]#...#[/]
+  [#FDE047]#...#[/] [#FADE48]#...#[/] [#F4D94B]#...#[/] [#ECD44F]#...#[/] [#E3CE53]#....[/] [#D9C657].#.#.[/] [#CDBE5C].....[/] [#C1B562]#...#[/] [#B3AC68]..#..[/] [#A5A26E]#...#[/] [#969775]#...#[/] [#868C7C]##.##[/] [#758083]#...#[/] [#64748B]##..#[/]
+  [#FDE047]#####[/] [#FADE48]#####[/] [#F4D94B]####.[/] [#ECD44F]#...#[/] [#E3CE53]####.[/] [#D9C657]..#..[/] [#CDBE5C].....[/] [#C1B562]####.[/] [#B3AC68]..#..[/] [#A5A26E]####.[/] [#969775]#...#[/] [#868C7C]#.#.#[/] [#758083]#####[/] [#64748B]#.#.#[/]
+  [#FDE047]#...#[/] [#FADE48]#...#[/] [#F4D94B]#..#.[/] [#ECD44F].#.#.[/] [#E3CE53]#....[/] [#D9C657]..#..[/] [#CDBE5C].....[/] [#C1B562]#...#[/] [#B3AC68]..#..[/] [#A5A26E]#..#.[/] [#969775]#...#[/] [#868C7C]#...#[/] [#758083]#...#[/] [#64748B]#..##[/]
+  [#FDE047]#...#[/] [#FADE48]#...#[/] [#F4D94B]#...#[/] [#ECD44F]..#..[/] [#E3CE53]#####[/] [#D9C657]..#..[/] [#CDBE5C].....[/] [#C1B562]####.[/] [#B3AC68]#####[/] [#A5A26E]#...#[/] [#969775]####.[/] [#868C7C]#...#[/] [#758083]#...#[/] [#64748B]#...#[/]
+banner_hero: |-
+  [#F59E0B]╭╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╮[/]
+  [#64748B]⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ [/]
+  [#64748B]                                        [/]
+  [bold #FDE047]HARVEY BIRDMAN                          [/]
+  [#F6F0E3]A superhero lawyer defending cartoon ch…[/]
+  [#64748B]                                        [/]
+  [#64748B]⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ ⚖ [/]
+  [#F59E0B]╰╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╯[/]

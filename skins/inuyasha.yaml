@@ -1,0 +1,94 @@
+name: inuyasha
+description: A half-demon and a schoolgirl hunting Shikon shards.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5D5764'
+  banner_text: '#F2ECF8'
+  ui_accent: '#FDE047'
+  ui_label: '#DC2626'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F2ECF8'
+  input_rule: '#A855F7'
+  response_border: '#FDE047'
+  status_bar_bg: '#201B27'
+  status_bar_text: '#F2ECF8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5D5764'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201B27'
+  completion_menu_bg: '#0D0714'
+  completion_menu_current_bg: '#5A4C24'
+  completion_menu_meta_bg: '#0B0611'
+  completion_menu_meta_current_bg: '#504422'
+  session_label: '#DC2626'
+  session_border: '#5D5764'
+spinner:
+  waiting_faces:
+  - (⛩)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (⛩)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - hunting shards
+  - purifying the jewel
+  - fighting Naraku
+  - sitting Inuyasha
+  - crossing the well
+  wings:
+  - - ⟪⛩
+    - ⛩⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Inuyasha Agent
+  welcome: Sit, boy! Type your message or /help!
+  goodbye: The shards are sealed. Later!
+  response_label: ' ⛩ INUYASHA '
+  prompt_symbol: '⛩ ❯ '
+  help_header: (⛩) INUYASHA Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FBD645]#...#[/] [#F8C442]#...#[/] [#F4AC3E]#...#[/] [#EF9039].###.[/] [#E97033].####[/] [#E34C2D]#...#[/] [#DC2626].###.[/]
+  [#FDE047]..#..[/] [#FBD645]##..#[/] [#F8C442]#...#[/] [#F4AC3E].#.#.[/] [#EF9039]#...#[/] [#E97033]#....[/] [#E34C2D]#...#[/] [#DC2626]#...#[/]
+  [#FDE047]..#..[/] [#FBD645]#.#.#[/] [#F8C442]#...#[/] [#F4AC3E]..#..[/] [#EF9039]#####[/] [#E97033].###.[/] [#E34C2D]#####[/] [#DC2626]#####[/]
+  [#FDE047]..#..[/] [#FBD645]#..##[/] [#F8C442]#...#[/] [#F4AC3E]..#..[/] [#EF9039]#...#[/] [#E97033]....#[/] [#E34C2D]#...#[/] [#DC2626]#...#[/]
+  [#FDE047]#####[/] [#FBD645]#...#[/] [#F8C442].###.[/] [#F4AC3E]..#..[/] [#EF9039]#...#[/] [#E97033]####.[/] [#E34C2D]#...#[/] [#DC2626]#...#[/]
+banner_hero: |-
+  [#A855F7]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#DC2626]⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ [/]
+  [#DC2626]                                        [/]
+  [bold #FDE047]INUYASHA                                [/]
+  [#F2ECF8]A half-demon and a schoolgirl hunting S…[/]
+  [#DC2626]                                        [/]
+  [#DC2626]⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ ⛩ [/]
+  [#A855F7]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

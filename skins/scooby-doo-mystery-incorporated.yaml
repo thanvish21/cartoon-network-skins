@@ -1,0 +1,94 @@
+name: scooby-doo-mystery-incorporated
+description: The darker serialized Mystery Inc. mystery.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#545C65'
+  banner_text: '#E6EEF7'
+  ui_accent: '#FDE047'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6EEF7'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A2029'
+  status_bar_text: '#E6EEF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#545C65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A2029'
+  completion_menu_bg: '#060D16'
+  completion_menu_current_bg: '#555126'
+  completion_menu_meta_bg: '#050B13'
+  completion_menu_meta_current_bg: '#4B4824'
+  session_label: '#F59E0B'
+  session_border: '#545C65'
+spinner:
+  waiting_faces:
+  - (✹)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✹)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - uncovering the plan
+  - solving the curse
+  - exploring Crystal Cove
+  - fighting the demons
+  - unmasking the truth
+  wings:
+  - - ⟪✹
+    - ✹⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Mystery Inc Agent
+  welcome: Crystal Cove has a mystery! Type your message or /help, gang.
+  goodbye: The plan is revealed. Scooby out!
+  response_label: ' ✹ MYSTERY INC '
+  prompt_symbol: '✹ ❯ '
+  help_header: (✹) MYSTERY INC Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDDE45]#...#[/] [#FCDA42].####[/] [#FCD53D]#####[/] [#FBCF38]#####[/] [#FAC932]####.[/] [#F9C12B]#...#[/] [#F8B924].....[/] [#F7B11C]#####[/] [#F6A814]#...#[/] [#F59E0B].####[/]
+  [#FDE047]##.##[/] [#FDDE45].#.#.[/] [#FCDA42]#....[/] [#FCD53D]..#..[/] [#FBCF38]#....[/] [#FAC932]#...#[/] [#F9C12B].#.#.[/] [#F8B924].....[/] [#F7B11C]..#..[/] [#F6A814]##..#[/] [#F59E0B]#....[/]
+  [#FDE047]#.#.#[/] [#FDDE45]..#..[/] [#FCDA42].###.[/] [#FCD53D]..#..[/] [#FBCF38]####.[/] [#FAC932]####.[/] [#F9C12B]..#..[/] [#F8B924].....[/] [#F7B11C]..#..[/] [#F6A814]#.#.#[/] [#F59E0B]#....[/]
+  [#FDE047]#...#[/] [#FDDE45]..#..[/] [#FCDA42]....#[/] [#FCD53D]..#..[/] [#FBCF38]#....[/] [#FAC932]#..#.[/] [#F9C12B]..#..[/] [#F8B924].....[/] [#F7B11C]..#..[/] [#F6A814]#..##[/] [#F59E0B]#....[/]
+  [#FDE047]#...#[/] [#FDDE45]..#..[/] [#FCDA42]####.[/] [#FCD53D]..#..[/] [#FBCF38]#####[/] [#FAC932]#...#[/] [#F9C12B]..#..[/] [#F8B924].....[/] [#F7B11C]#####[/] [#F6A814]#...#[/] [#F59E0B].####[/]
+banner_hero: |-
+  [#3B82F6]╭────────────────────────────────────────╮[/]
+  [#F59E0B]✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ [/]
+  [#F59E0B]                                        [/]
+  [bold #FDE047]MYSTERY INC                             [/]
+  [#E6EEF7]The darker serialized Mystery Inc. myst…[/]
+  [#F59E0B]                                        [/]
+  [#F59E0B]✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ ✹ [/]
+  [#3B82F6]╰────────────────────────────────────────╯[/]

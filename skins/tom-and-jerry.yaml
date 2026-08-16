@@ -1,0 +1,94 @@
+name: tom-and-jerry
+description: The eternal cat-and-mouse chase that needs no intro.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5F5454'
+  banner_text: '#F6E9E9'
+  ui_accent: '#FDE047'
+  ui_label: '#6B7280'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E9E9'
+  input_rule: '#DC2626'
+  response_border: '#FDE047'
+  status_bar_bg: '#201818'
+  status_bar_text: '#F6E9E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5F5454'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201818'
+  completion_menu_bg: '#0D0404'
+  completion_menu_current_bg: '#5A4A19'
+  completion_menu_meta_bg: '#0B0303'
+  completion_menu_meta_current_bg: '#504217'
+  session_label: '#6B7280'
+  session_border: '#5F5454'
+spinner:
+  waiting_faces:
+  - (✦)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✦)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - chasing Jerry
+  - setting traps
+  - getting outsmarted
+  - fighting for the house
+  - plotting revenge
+  wings:
+  - - ⟪✦
+    - ✦⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Tom Agent
+  welcome: Meow! Type your message or /help... before Jerry does.
+  goodbye: The chase continues. Later!
+  response_label: ' ✦ TOM & JERRY '
+  prompt_symbol: '✦ ❯ '
+  help_header: (✦) TOM & JERRY Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#F8DD49].###.[/] [#F0D64C]#...#[/] [#E5CE50].....[/] [#D8C455].###.[/] [#C9B95B].....[/] [#B9AD61]..###[/] [#A7A068]#####[/] [#959170]####.[/] [#808278]####.[/] [#6B7280]#...#[/]
+  [#FDE047]..#..[/] [#F8DD49]#...#[/] [#F0D64C]##.##[/] [#E5CE50].....[/] [#D8C455]#...#[/] [#C9B95B].....[/] [#B9AD61]...#.[/] [#A7A068]#....[/] [#959170]#...#[/] [#808278]#...#[/] [#6B7280].#.#.[/]
+  [#FDE047]..#..[/] [#F8DD49]#...#[/] [#F0D64C]#.#.#[/] [#E5CE50].....[/] [#D8C455]..#..[/] [#C9B95B].....[/] [#B9AD61]...#.[/] [#A7A068]####.[/] [#959170]####.[/] [#808278]####.[/] [#6B7280]..#..[/]
+  [#FDE047]..#..[/] [#F8DD49]#...#[/] [#F0D64C]#...#[/] [#E5CE50].....[/] [#D8C455].#.#.[/] [#C9B95B].....[/] [#B9AD61]#..#.[/] [#A7A068]#....[/] [#959170]#..#.[/] [#808278]#..#.[/] [#6B7280]..#..[/]
+  [#FDE047]..#..[/] [#F8DD49].###.[/] [#F0D64C]#...#[/] [#E5CE50].....[/] [#D8C455]##..#[/] [#C9B95B].....[/] [#B9AD61].##..[/] [#A7A068]#####[/] [#959170]#...#[/] [#808278]#...#[/] [#6B7280]..#..[/]
+banner_hero: |-
+  [#DC2626]╭────────────────────────────────────────╮[/]
+  [#6B7280]✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ [/]
+  [#6B7280]                                        [/]
+  [bold #FDE047]TOM & JERRY                             [/]
+  [#F6E9E9]The eternal cat-and-mouse chase that ne…[/]
+  [#6B7280]                                        [/]
+  [#6B7280]✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ [/]
+  [#DC2626]╰────────────────────────────────────────╯[/]

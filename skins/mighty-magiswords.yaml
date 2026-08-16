@@ -1,0 +1,94 @@
+name: mighty-magiswords
+description: Prohyas and Vambre collect magical swords for quests.
+colors:
+  banner_border: '#84CC16'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5C6355'
+  banner_text: '#F1F7E8'
+  ui_accent: '#FDE047'
+  ui_label: '#A855F7'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F1F7E8'
+  input_rule: '#84CC16'
+  response_border: '#FDE047'
+  status_bar_bg: '#1F271A'
+  status_bar_text: '#F1F7E8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5C6355'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F271A'
+  completion_menu_bg: '#0C1406'
+  completion_menu_current_bg: '#59551B'
+  completion_menu_meta_bg: '#0A1105'
+  completion_menu_meta_current_bg: '#4F4D18'
+  session_label: '#A855F7'
+  session_border: '#5C6355'
+spinner:
+  waiting_faces:
+  - (❋)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (❋)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - wielding magiswords
+  - dungeon crawling
+  - collecting swords
+  - going on quests
+  - solving riddles
+  wings:
+  - - ⟪❋
+    - ❋⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Magiswords Agent
+  welcome: Magiswords ready! Type your message or /help, adventurer!
+  goodbye: Quest complete! Magiswords out!
+  response_label: ' ❋ MAGISWORDS '
+  prompt_symbol: '❋ ❯ '
+  help_header: (❋) MAGISWORDS Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FADB4E].###.[/] [#F4D159].####[/] [#EDC569]#####[/] [#E4B77B].####[/] [#DAA690]#...#[/] [#CF94A7].###.[/] [#C381C0]####.[/] [#B66CDA]####.[/] [#A855F7].####[/]
+  [#FDE047]##.##[/] [#FADB4E]#...#[/] [#F4D159]#....[/] [#EDC569]..#..[/] [#E4B77B]#....[/] [#DAA690]#...#[/] [#CF94A7]#...#[/] [#C381C0]#...#[/] [#B66CDA]#...#[/] [#A855F7]#....[/]
+  [#FDE047]#.#.#[/] [#FADB4E]#####[/] [#F4D159]#..##[/] [#EDC569]..#..[/] [#E4B77B].###.[/] [#DAA690]#.#.#[/] [#CF94A7]#...#[/] [#C381C0]####.[/] [#B66CDA]#...#[/] [#A855F7].###.[/]
+  [#FDE047]#...#[/] [#FADB4E]#...#[/] [#F4D159]#...#[/] [#EDC569]..#..[/] [#E4B77B]....#[/] [#DAA690]##.##[/] [#CF94A7]#...#[/] [#C381C0]#..#.[/] [#B66CDA]#...#[/] [#A855F7]....#[/]
+  [#FDE047]#...#[/] [#FADB4E]#...#[/] [#F4D159].####[/] [#EDC569]#####[/] [#E4B77B]####.[/] [#DAA690]#...#[/] [#CF94A7].###.[/] [#C381C0]#...#[/] [#B66CDA]####.[/] [#A855F7]####.[/]
+banner_hero: |-
+  [#84CC16]╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮[/]
+  [#A855F7]❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ [/]
+  [#A855F7]                                        [/]
+  [bold #FDE047]MAGISWORDS                              [/]
+  [#F1F7E8]Prohyas and Vambre collect magical swor…[/]
+  [#A855F7]                                        [/]
+  [#A855F7]❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ [/]
+  [#84CC16]╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯[/]

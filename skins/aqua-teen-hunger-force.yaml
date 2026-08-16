@@ -1,0 +1,94 @@
+name: aqua-teen-hunger-force
+description: Master Shake, Frylock and Meatwad's bizarre suburban life.
+colors:
+  banner_border: '#4ADE80'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#576258'
+  banner_text: '#E9F6EC'
+  ui_accent: '#FDE047'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F6EC'
+  input_rule: '#4ADE80'
+  response_border: '#FDE047'
+  status_bar_bg: '#1C251D'
+  status_bar_text: '#E9F6EC'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#576258'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1C251D'
+  completion_menu_bg: '#081209'
+  completion_menu_current_bg: '#56541D'
+  completion_menu_meta_bg: '#070F08'
+  completion_menu_meta_current_bg: '#4D4C1A'
+  session_label: '#38BDF8'
+  session_border: '#576258'
+spinner:
+  waiting_faces:
+  - (☢)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☢)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - being number one in the hood
+  - fighting the Mooninites
+  - arguing
+  - eating food
+  - terrorizing the neighborhood
+  wings:
+  - - ⟪☢
+    - ☢⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: ATHF Agent
+  welcome: Number one in the hood, G! Type your message or /help!
+  goodbye: Meatwad's asleep. Bye!
+  response_label: ' ☢ AQUA TEEN '
+  prompt_symbol: '☢ ❯ '
+  help_header: (☢) AQUA TEEN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].###.[/] [#F4DE4F].###.[/] [#E4DC5D]#...#[/] [#D0D870].###.[/] [#B7D486].....[/] [#9CCF9E]#####[/] [#7DC9BA]#####[/] [#5CC3D8]#####[/] [#38BDF8]#...#[/]
+  [#FDE047]#...#[/] [#F4DE4F]#...#[/] [#E4DC5D]#...#[/] [#D0D870]#...#[/] [#B7D486].....[/] [#9CCF9E]..#..[/] [#7DC9BA]#....[/] [#5CC3D8]#....[/] [#38BDF8]##..#[/]
+  [#FDE047]#####[/] [#F4DE4F]#.#.#[/] [#E4DC5D]#...#[/] [#D0D870]#####[/] [#B7D486].....[/] [#9CCF9E]..#..[/] [#7DC9BA]####.[/] [#5CC3D8]####.[/] [#38BDF8]#.#.#[/]
+  [#FDE047]#...#[/] [#F4DE4F]#..##[/] [#E4DC5D]#...#[/] [#D0D870]#...#[/] [#B7D486].....[/] [#9CCF9E]..#..[/] [#7DC9BA]#....[/] [#5CC3D8]#....[/] [#38BDF8]#..##[/]
+  [#FDE047]#...#[/] [#F4DE4F].##.#[/] [#E4DC5D].###.[/] [#D0D870]#...#[/] [#B7D486].....[/] [#9CCF9E]..#..[/] [#7DC9BA]#####[/] [#5CC3D8]#####[/] [#38BDF8]#...#[/]
+banner_hero: |-
+  [#4ADE80]╭╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╮[/]
+  [#38BDF8]☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ [/]
+  [#38BDF8]                                        [/]
+  [bold #FDE047]AQUA TEEN                               [/]
+  [#E9F6EC]Master Shake, Frylock and Meatwad's biz…[/]
+  [#38BDF8]                                        [/]
+  [#38BDF8]☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ ☢ [/]
+  [#4ADE80]╰╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╯[/]

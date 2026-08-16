@@ -1,0 +1,94 @@
+name: eureka-seven
+description: Renton pilots the Nirvash and rides the trapar waves.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#545B66'
+  banner_text: '#E5EDF8'
+  ui_accent: '#FDE047'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5EDF8'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A202A'
+  status_bar_text: '#E5EDF8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#545B66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A202A'
+  completion_menu_bg: '#060D18'
+  completion_menu_current_bg: '#555127'
+  completion_menu_meta_bg: '#050B14'
+  completion_menu_meta_current_bg: '#4B4825'
+  session_label: '#F8FAFC'
+  session_border: '#545B66'
+spinner:
+  waiting_faces:
+  - (✦)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✦)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - riding the trapar waves
+  - piloting the Nirvash
+  - joining Gekkostate
+  - skateboarding
+  - saving Eureka
+  wings:
+  - - ⟪✦
+    - ✦⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Renton Agent
+  welcome: Surf's up! Type your message or /help, pilot.
+  goodbye: The waves are calm. Later!
+  response_label: ' ✦ EUREKA 7 '
+  prompt_symbol: '✦ ❯ '
+  help_header: (✦) EUREKA 7 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FDE151]#...#[/] [#FCE463]####.[/] [#FCE77A]#####[/] [#FBEB95]#...#[/] [#FAF0B4].###.[/] [#F9F5D7].....[/] [#F8FAFC]#####[/]
+  [#FDE047]#....[/] [#FDE151]#...#[/] [#FCE463]#...#[/] [#FCE77A]#....[/] [#FBEB95]#..#.[/] [#FAF0B4]#...#[/] [#F9F5D7].....[/] [#F8FAFC]...#.[/]
+  [#FDE047]####.[/] [#FDE151]#...#[/] [#FCE463]####.[/] [#FCE77A]####.[/] [#FBEB95]###..[/] [#FAF0B4]#####[/] [#F9F5D7].....[/] [#F8FAFC]..#..[/]
+  [#FDE047]#....[/] [#FDE151]#...#[/] [#FCE463]#..#.[/] [#FCE77A]#....[/] [#FBEB95]#..#.[/] [#FAF0B4]#...#[/] [#F9F5D7].....[/] [#F8FAFC].#...[/]
+  [#FDE047]#####[/] [#FDE151].###.[/] [#FCE463]#...#[/] [#FCE77A]#####[/] [#FBEB95]#...#[/] [#FAF0B4]#...#[/] [#F9F5D7].....[/] [#F8FAFC].#...[/]
+banner_hero: |-
+  [#3B82F6]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#F8FAFC]✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ [/]
+  [#F8FAFC]                                        [/]
+  [bold #FDE047]EUREKA 7                                [/]
+  [#E5EDF8]Renton pilots the Nirvash and rides the…[/]
+  [#F8FAFC]                                        [/]
+  [#F8FAFC]✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ [/]
+  [#3B82F6]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

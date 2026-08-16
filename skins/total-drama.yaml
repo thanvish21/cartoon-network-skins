@@ -1,0 +1,94 @@
+name: total-drama
+description: Reality TV satire — 22 campers, one island, zero mercy.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#58635B'
+  banner_text: '#EAF7EE'
+  ui_accent: '#FDE047'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EAF7EE'
+  input_rule: '#22C55E'
+  response_border: '#FDE047'
+  status_bar_bg: '#1E271F'
+  status_bar_text: '#EAF7EE'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#58635B'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E271F'
+  completion_menu_bg: '#0A140C'
+  completion_menu_current_bg: '#58551F'
+  completion_menu_meta_bg: '#08110A'
+  completion_menu_meta_current_bg: '#4E4D1D'
+  session_label: '#EF4444'
+  session_border: '#58635B'
+spinner:
+  waiting_faces:
+  - (▶)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (▶)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - eliminating contestants
+  - filming drama
+  - surviving challenges
+  - voting people off
+  - betraying allies
+  wings:
+  - - ⟪▶
+    - ▶⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Total Drama Agent
+  welcome: Welcome to Total Drama! Type your message or /help... and good luck.
+  goodbye: And... you're eliminated! Bye!
+  response_label: ' ▶ TOTAL DRAMA '
+  prompt_symbol: '▶ ❯ '
+  help_header: (▶) TOTAL DRAMA Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FDDB47].###.[/] [#FCD247]#####[/] [#FBC647].###.[/] [#F9B946]#....[/] [#F8A946].....[/] [#F69746]####.[/] [#F58545]####.[/] [#F37045].###.[/] [#F15B44]#...#[/] [#EF4444].###.[/]
+  [#FDE047]..#..[/] [#FDDB47]#...#[/] [#FCD247]..#..[/] [#FBC647]#...#[/] [#F9B946]#....[/] [#F8A946].....[/] [#F69746]#...#[/] [#F58545]#...#[/] [#F37045]#...#[/] [#F15B44]##.##[/] [#EF4444]#...#[/]
+  [#FDE047]..#..[/] [#FDDB47]#...#[/] [#FCD247]..#..[/] [#FBC647]#####[/] [#F9B946]#....[/] [#F8A946].....[/] [#F69746]#...#[/] [#F58545]####.[/] [#F37045]#####[/] [#F15B44]#.#.#[/] [#EF4444]#####[/]
+  [#FDE047]..#..[/] [#FDDB47]#...#[/] [#FCD247]..#..[/] [#FBC647]#...#[/] [#F9B946]#....[/] [#F8A946].....[/] [#F69746]#...#[/] [#F58545]#..#.[/] [#F37045]#...#[/] [#F15B44]#...#[/] [#EF4444]#...#[/]
+  [#FDE047]..#..[/] [#FDDB47].###.[/] [#FCD247]..#..[/] [#FBC647]#...#[/] [#F9B946]#####[/] [#F8A946].....[/] [#F69746]####.[/] [#F58545]#...#[/] [#F37045]#...#[/] [#F15B44]#...#[/] [#EF4444]#...#[/]
+banner_hero: |-
+  [#22C55E]╭────────────────────────────────────────╮[/]
+  [#EF4444]▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ [/]
+  [#EF4444]                                        [/]
+  [bold #FDE047]TOTAL DRAMA                             [/]
+  [#EAF7EE]Reality TV satire — 22 campers, one isl…[/]
+  [#EF4444]                                        [/]
+  [#EF4444]▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ ▶ [/]
+  [#22C55E]╰────────────────────────────────────────╯[/]

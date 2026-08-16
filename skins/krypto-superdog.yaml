@@ -1,0 +1,94 @@
+name: krypto-superdog
+description: Superman's dog protecting Metropolis as a family pet.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#555C66'
+  banner_text: '#E7EEF7'
+  ui_accent: '#FACC15'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7EEF7'
+  input_rule: '#3B82F6'
+  response_border: '#FACC15'
+  status_bar_bg: '#1B212A'
+  status_bar_text: '#E7EEF7'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#555C66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B212A'
+  completion_menu_bg: '#070E18'
+  completion_menu_current_bg: '#554B17'
+  completion_menu_meta_bg: '#060C14'
+  completion_menu_meta_current_bg: '#4B4317'
+  session_label: '#EF4444'
+  session_border: '#555C66'
+spinner:
+  waiting_faces:
+  - (☉)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (☉)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - fetching villains
+  - super-barking
+  - flying
+  - protecting the family
+  - fighting cat crime
+  wings:
+  - - ⟪☉
+    - ☉⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Krypto Agent
+  welcome: Superdog on duty! Type your message or /help!
+  goodbye: Time for a doggie treat. Bye!
+  response_label: ' ☉ KRYPTO '
+  prompt_symbol: '☉ ❯ '
+  help_header: (☉) KRYPTO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]#...#[/] [#F9C019]####.[/] [#F7AA21]#...#[/] [#F58D2B]####.[/] [#F26B37]#####[/] [#EF4444].###.[/]
+  [#FACC15]#..#.[/] [#F9C019]#...#[/] [#F7AA21].#.#.[/] [#F58D2B]#...#[/] [#F26B37]..#..[/] [#EF4444]#...#[/]
+  [#FACC15]###..[/] [#F9C019]####.[/] [#F7AA21]..#..[/] [#F58D2B]####.[/] [#F26B37]..#..[/] [#EF4444]#...#[/]
+  [#FACC15]#..#.[/] [#F9C019]#..#.[/] [#F7AA21]..#..[/] [#F58D2B]#....[/] [#F26B37]..#..[/] [#EF4444]#...#[/]
+  [#FACC15]#...#[/] [#F9C019]#...#[/] [#F7AA21]..#..[/] [#F58D2B]#....[/] [#F26B37]..#..[/] [#EF4444].###.[/]
+banner_hero: |-
+  [#3B82F6]╭────────────────────────────────────────╮[/]
+  [#EF4444]☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ [/]
+  [#EF4444]                                        [/]
+  [bold #FACC15]KRYPTO                                  [/]
+  [#E7EEF7]Superman's dog protecting Metropolis as…[/]
+  [#EF4444]                                        [/]
+  [#EF4444]☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ ☉ [/]
+  [#3B82F6]╰────────────────────────────────────────╯[/]

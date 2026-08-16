@@ -1,0 +1,94 @@
+name: rurouni-kenshin
+description: A wandering swordsman protecting the Meiji era.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5F5454'
+  banner_text: '#F6E9E9'
+  ui_accent: '#FDE047'
+  ui_label: '#374151'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E9E9'
+  input_rule: '#DC2626'
+  response_border: '#FDE047'
+  status_bar_bg: '#201818'
+  status_bar_text: '#F6E9E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5F5454'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201818'
+  completion_menu_bg: '#0D0404'
+  completion_menu_current_bg: '#5A4A19'
+  completion_menu_meta_bg: '#0B0303'
+  completion_menu_meta_current_bg: '#504217'
+  session_label: '#374151'
+  session_border: '#5F5454'
+spinner:
+  waiting_faces:
+  - (✬)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (✬)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - sword-ing
+  - protecting the Meiji era
+  - using the Hiten Mitsurugi style
+  - drifting
+  - defending the innocent
+  wings:
+  - - ⟪✬
+    - ✬⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Kenshin Agent
+  welcome: Oro? Type your message or /help, samurai.
+  goodbye: The wanderer continues his journey.
+  response_label: ' ✬ KENSHIN '
+  prompt_symbol: '✬ ❯ '
+  help_header: (✬) KENSHIN Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#F0D548]#####[/] [#D7C149]#...#[/] [#B7A84B].####[/] [#91894C]#...#[/] [#66674F]#####[/] [#374151]#...#[/]
+  [#FDE047]#..#.[/] [#F0D548]#....[/] [#D7C149]##..#[/] [#B7A84B]#....[/] [#91894C]#...#[/] [#66674F]..#..[/] [#374151]##..#[/]
+  [#FDE047]###..[/] [#F0D548]####.[/] [#D7C149]#.#.#[/] [#B7A84B].###.[/] [#91894C]#####[/] [#66674F]..#..[/] [#374151]#.#.#[/]
+  [#FDE047]#..#.[/] [#F0D548]#....[/] [#D7C149]#..##[/] [#B7A84B]....#[/] [#91894C]#...#[/] [#66674F]..#..[/] [#374151]#..##[/]
+  [#FDE047]#...#[/] [#F0D548]#####[/] [#D7C149]#...#[/] [#B7A84B]####.[/] [#91894C]#...#[/] [#66674F]#####[/] [#374151]#...#[/]
+banner_hero: |-
+  [#DC2626]╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮[/]
+  [#374151]✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ [/]
+  [#374151]                                        [/]
+  [bold #FDE047]KENSHIN                                 [/]
+  [#F6E9E9]A wandering swordsman protecting the Me…[/]
+  [#374151]                                        [/]
+  [#374151]✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ ✬ [/]
+  [#DC2626]╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯[/]

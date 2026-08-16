@@ -1,0 +1,94 @@
+name: out-of-jimmys-head
+description: Live-action and cartoon — whatever Jimmy imagines, gets out.
+colors:
+  banner_border: '#4ADE80'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#576358'
+  banner_text: '#E9F7EB'
+  ui_accent: '#FDE047'
+  ui_label: '#22D3EE'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F7EB'
+  input_rule: '#4ADE80'
+  response_border: '#FDE047'
+  status_bar_bg: '#1C271D'
+  status_bar_text: '#E9F7EB'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#576358'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1C271D'
+  completion_menu_bg: '#081409'
+  completion_menu_current_bg: '#56551D'
+  completion_menu_meta_bg: '#071108'
+  completion_menu_meta_current_bg: '#4D4D1A'
+  session_label: '#22D3EE'
+  session_border: '#576358'
+spinner:
+  waiting_faces:
+  - (◎)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◎)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - imagining
+  - escaping the blob
+  - mixing cartoons
+  - daydreaming
+  - making a mess
+  wings:
+  - - ⟪◎
+    - ◎⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Jimmy Agent
+  welcome: Watch your head! Type your message or /help.
+  goodbye: Imagination out! Bye!
+  response_label: ' ◎ JIMMYS HEAD '
+  prompt_symbol: '◎ ❯ '
+  help_header: (◎) JIMMYS HEAD Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]..###[/] [#F6E04C]#####[/] [#E9DF56]#...#[/] [#D9DE62]#...#[/] [#C6DD71]#...#[/] [#B0DB82].####[/] [#97DA95].....[/] [#7DD8A9]#...#[/] [#60D7BE]#####[/] [#42D5D6].###.[/] [#22D3EE]####.[/]
+  [#FDE047]...#.[/] [#F6E04C]..#..[/] [#E9DF56]##.##[/] [#D9DE62]##.##[/] [#C6DD71].#.#.[/] [#B0DB82]#....[/] [#97DA95].....[/] [#7DD8A9]#...#[/] [#60D7BE]#....[/] [#42D5D6]#...#[/] [#22D3EE]#...#[/]
+  [#FDE047]...#.[/] [#F6E04C]..#..[/] [#E9DF56]#.#.#[/] [#D9DE62]#.#.#[/] [#C6DD71]..#..[/] [#B0DB82].###.[/] [#97DA95].....[/] [#7DD8A9]#####[/] [#60D7BE]####.[/] [#42D5D6]#####[/] [#22D3EE]#...#[/]
+  [#FDE047]#..#.[/] [#F6E04C]..#..[/] [#E9DF56]#...#[/] [#D9DE62]#...#[/] [#C6DD71]..#..[/] [#B0DB82]....#[/] [#97DA95].....[/] [#7DD8A9]#...#[/] [#60D7BE]#....[/] [#42D5D6]#...#[/] [#22D3EE]#...#[/]
+  [#FDE047].##..[/] [#F6E04C]#####[/] [#E9DF56]#...#[/] [#D9DE62]#...#[/] [#C6DD71]..#..[/] [#B0DB82]####.[/] [#97DA95].....[/] [#7DD8A9]#...#[/] [#60D7BE]#####[/] [#42D5D6]#...#[/] [#22D3EE]####.[/]
+banner_hero: |-
+  [#4ADE80]╭────────────────────────────────────────╮[/]
+  [#22D3EE]◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ [/]
+  [#22D3EE]                                        [/]
+  [bold #FDE047]JIMMYS HEAD                             [/]
+  [#E9F7EB]Live-action and cartoon — whatever Jimm…[/]
+  [#22D3EE]                                        [/]
+  [#22D3EE]◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ ◎ [/]
+  [#4ADE80]╰────────────────────────────────────────╯[/]

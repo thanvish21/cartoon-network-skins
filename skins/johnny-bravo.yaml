@@ -1,0 +1,94 @@
+name: johnny-bravo
+description: The muscle-bound, hair-combing ladies' man of Aron City.
+colors:
+  banner_border: '#38BDF8'
+  banner_title: '#FB7185'
+  banner_accent: '#FB7185'
+  banner_dim: '#585F66'
+  banner_text: '#E8F1F8'
+  ui_accent: '#FB7185'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8F1F8'
+  input_rule: '#38BDF8'
+  response_border: '#FB7185'
+  status_bar_bg: '#1E232A'
+  status_bar_text: '#E8F1F8'
+  status_bar_strong: '#FB7185'
+  status_bar_dim: '#585F66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E232A'
+  completion_menu_bg: '#0A1018'
+  completion_menu_current_bg: '#572F3B'
+  completion_menu_meta_bg: '#080E14'
+  completion_menu_meta_current_bg: '#4D2B37'
+  session_label: '#FDE047'
+  session_border: '#585F66'
+spinner:
+  waiting_faces:
+  - (♪)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (♪)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - flexing
+  - combing hair
+  - smooth-talking
+  - striking a pose
+  - dancing with mom
+  wings:
+  - - ⟪♪
+    - ♪⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Johnny Bravo Agent
+  welcome: Hey there, good lookin'! Type your message or /help... uh-huh.
+  goodbye: Gotta go comb my hair. Later, baby!
+  response_label: ' ♪ JOHNNY BRAVO '
+  prompt_symbol: '♪ ❯ '
+  help_header: (♪) JOHNNY BRAVO Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FB7185]..###[/] [#FB7483].###.[/] [#FB7A80]#...#[/] [#FB817C]#...#[/] [#FB8977]#...#[/] [#FC9372]#...#[/] [#FC9E6C].....[/] [#FCA966]####.[/] [#FCB65F]####.[/] [#FCC357].###.[/] [#FDD14F]#...#[/] [#FDE047].###.[/]
+  [#FB7185]...#.[/] [#FB7483]#...#[/] [#FB7A80]#...#[/] [#FB817C]##..#[/] [#FB8977]##..#[/] [#FC9372].#.#.[/] [#FC9E6C].....[/] [#FCA966]#...#[/] [#FCB65F]#...#[/] [#FCC357]#...#[/] [#FDD14F]#...#[/] [#FDE047]#...#[/]
+  [#FB7185]...#.[/] [#FB7483]#...#[/] [#FB7A80]#####[/] [#FB817C]#.#.#[/] [#FB8977]#.#.#[/] [#FC9372]..#..[/] [#FC9E6C].....[/] [#FCA966]####.[/] [#FCB65F]####.[/] [#FCC357]#####[/] [#FDD14F]#...#[/] [#FDE047]#...#[/]
+  [#FB7185]#..#.[/] [#FB7483]#...#[/] [#FB7A80]#...#[/] [#FB817C]#..##[/] [#FB8977]#..##[/] [#FC9372]..#..[/] [#FC9E6C].....[/] [#FCA966]#...#[/] [#FCB65F]#..#.[/] [#FCC357]#...#[/] [#FDD14F].#.#.[/] [#FDE047]#...#[/]
+  [#FB7185].##..[/] [#FB7483].###.[/] [#FB7A80]#...#[/] [#FB817C]#...#[/] [#FB8977]#...#[/] [#FC9372]..#..[/] [#FC9E6C].....[/] [#FCA966]####.[/] [#FCB65F]#...#[/] [#FCC357]#...#[/] [#FDD14F]..#..[/] [#FDE047].###.[/]
+banner_hero: |-
+  [#38BDF8]╭────────────────────────────────────────╮[/]
+  [#FDE047]♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ [/]
+  [#FDE047]                                        [/]
+  [bold #FB7185]JOHNNY BRAVO                            [/]
+  [#E8F1F8]The muscle-bound, hair-combing ladies' …[/]
+  [#FDE047]                                        [/]
+  [#FDE047]♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ [/]
+  [#38BDF8]╰────────────────────────────────────────╯[/]

@@ -1,0 +1,94 @@
+name: powerpuff-girls
+description: Sugar, spice and everything nice — Townsville's tiny protectors.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#4ADE80'
+  banner_accent: '#4ADE80'
+  banner_dim: '#675962'
+  banner_text: '#FBEAF3'
+  ui_accent: '#4ADE80'
+  ui_label: '#60A5FA'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#FBEAF3'
+  input_rule: '#F472B6'
+  response_border: '#4ADE80'
+  status_bar_bg: '#2A1F27'
+  status_bar_text: '#FBEAF3'
+  status_bar_strong: '#4ADE80'
+  status_bar_dim: '#675962'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#2A1F27'
+  completion_menu_bg: '#170B14'
+  completion_menu_current_bg: '#274F37'
+  completion_menu_meta_bg: '#140911'
+  completion_menu_meta_current_bg: '#254632'
+  session_label: '#60A5FA'
+  session_border: '#675962'
+spinner:
+  waiting_faces:
+  - (♥)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (♥)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - fighting crime
+  - saving Townsville
+  - sugar-spicing
+  - blossoming plans
+  - bedtime-ing
+  wings:
+  - - ⟪♥
+    - ♥⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Powerpuff Agent
+  welcome: Crime fighting before bedtime! Type your message or /help.
+  goodbye: Bedtime! The city is safe... for now. ♥
+  response_label: ' ♥ POWERPUFF '
+  prompt_symbol: '♥ ❯ '
+  help_header: (♥) POWERPUFF Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#4ADE80]####.[/] [#4BDB85].###.[/] [#4DD78F]#...#[/] [#4FD19C]#####[/] [#52CAAB]####.[/] [#55C2BC]####.[/] [#58B9CF]#...#[/] [#5CAFE4]#####[/] [#60A5FA]#####[/]
+  [#4ADE80]#...#[/] [#4BDB85]#...#[/] [#4DD78F]#...#[/] [#4FD19C]#....[/] [#52CAAB]#...#[/] [#55C2BC]#...#[/] [#58B9CF]#...#[/] [#5CAFE4]#....[/] [#60A5FA]#....[/]
+  [#4ADE80]####.[/] [#4BDB85]#...#[/] [#4DD78F]#.#.#[/] [#4FD19C]####.[/] [#52CAAB]####.[/] [#55C2BC]####.[/] [#58B9CF]#...#[/] [#5CAFE4]####.[/] [#60A5FA]####.[/]
+  [#4ADE80]#....[/] [#4BDB85]#...#[/] [#4DD78F]##.##[/] [#4FD19C]#....[/] [#52CAAB]#..#.[/] [#55C2BC]#....[/] [#58B9CF]#...#[/] [#5CAFE4]#....[/] [#60A5FA]#....[/]
+  [#4ADE80]#....[/] [#4BDB85].###.[/] [#4DD78F]#...#[/] [#4FD19C]#####[/] [#52CAAB]#...#[/] [#55C2BC]#....[/] [#58B9CF].###.[/] [#5CAFE4]#....[/] [#60A5FA]#....[/]
+banner_hero: |-
+  [#F472B6]╭────────────────────────────────────────╮[/]
+  [#60A5FA]♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ [/]
+  [#60A5FA]                                        [/]
+  [bold #4ADE80]POWERPUFF                               [/]
+  [#FBEAF3]Sugar, spice and everything nice — Town…[/]
+  [#60A5FA]                                        [/]
+  [#60A5FA]♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ [/]
+  [#F472B6]╰────────────────────────────────────────╯[/]
